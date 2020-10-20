@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\river_raid.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\river_raid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quadrados.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\quadrados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\canvas_simples.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\canvas_simples.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\canvas_translate.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\canvas_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\canvas_clip.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\canvas_clip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\texto_numerico.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\layout\\texto_numerico.xml"
+    }
+]

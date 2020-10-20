@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lucas.intentgooglekeep.MainActivity">
+
+    <TextView
+        android:id="@+id/txtLocal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Local:"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="49dp"
+        android:layout_marginTop="71dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/edtLocal" />
+
+    <EditText
+        android:id="@+id/edtLocal"
+        android:layout_width="304dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="77dp"
+        android:layout_below="@+id/txtLocal"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txtLembrete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lembrete:"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="145dp"
+        android:layout_below="@+id/edtLocal"
+        android:layout_alignStart="@+id/edtLocal"
+        android:layout_marginTop="36dp" />
+
+    <EditText
+        android:id="@+id/edtLembrete"
+        android:layout_width="302dp"
+        android:layout_height="41dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="175dp"
+        android:layout_below="@+id/txtLembrete"
+        android:layout_alignStart="@+id/txtLembrete" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="Salvar"
+        android:text="Salvar"
+        tools:layout_editor_absoluteX="248dp"
+        tools:layout_editor_absoluteY="230dp"
+        android:layout_below="@+id/edtLembrete"
+        android:layout_alignEnd="@+id/edtLembrete"
+        android:layout_marginTop="22dp" />
+</RelativeLayout>

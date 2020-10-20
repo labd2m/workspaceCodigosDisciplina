@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:3:2-34
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:5:2-29
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:8:2-76
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:8:19-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:9:2-78
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:9:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:10:2-64
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:10:19-61
+application
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:12:2-61:16
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:12:45-77
+	android:icon
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:12:15-44
+	android:theme
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:12:78-120
+uses-library#com.google.android.maps
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:15:3-58
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:15:17-55
+activity#br.livro.android.cap16.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:17:3-22:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:17:34-66
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:17:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:18:4-21:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:19:5-57
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:19:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:20:15-62
+activity#br.livro.android.cap16.mapview.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:24:3-44
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:24:13-41
+activity#br.livro.android.cap16.mapview.MapaSimples
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:25:3-51
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:25:13-48
+activity#br.livro.android.cap16.mapview.MapaSimplesXML
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:26:3-54
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:26:13-51
+activity#br.livro.android.cap16.mapview.MapaSimplesCoordenada
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:27:3-61
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:27:13-58
+activity#br.livro.android.cap16.mapview.ExemploCentralizaPonto
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:29:3-62
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:29:13-59
+activity#br.livro.android.cap16.mapview.ExemploSatelite
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:30:3-55
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:30:13-52
+activity#br.livro.android.cap16.mapview.ExemploMapaCristo
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:31:3-57
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:31:13-54
+activity#br.livro.android.cap16.mapview.ExemploZoom
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:32:3-51
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:32:13-48
+activity#br.livro.android.cap16.mapview.ExemploZoomControl
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:33:3-58
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:33:13-55
+activity#br.livro.android.cap16.mapview.ExemploOverlay
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:34:3-54
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:34:13-51
+activity#br.livro.android.cap16.mapview.ExemploBolaOverlay
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:35:3-58
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:35:13-55
+activity#br.livro.android.cap16.mapview.ExemploImagemOverlay
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:36:3-60
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:36:13-57
+activity#br.livro.android.cap16.mapview.ExemploItemOverlay
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:37:3-58
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:37:13-55
+activity#br.livro.android.cap16.mapview.TelaFormCoordenadas
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:38:3-59
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:38:13-56
+activity#br.livro.android.cap16.mapview.TelaFormEndereco
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:39:3-56
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:39:13-53
+activity#br.livro.android.cap16.mapview.ExemploMapaCapa
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:40:3-44:14
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:40:13-52
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:41:4-43:20
+activity#br.livro.android.cap16.mapview.intent.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:45:3-51
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:45:13-48
+activity#br.livro.android.cap16.mapview.intent.ExemploDirecoes
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:46:3-82
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:46:60-80
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:46:13-59
+activity#br.livro.android.cap16.mapview.intent.ExemploDirecoesGoogleMaps
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:47:3-98
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:47:70-96
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:47:13-69
+activity#br.livro.android.cap16.mapview.intent.ExemploMcDonaldsGoogleMaps
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:48:3-98
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:48:71-96
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:48:13-70
+activity#br.livro.android.cap16.gps.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:50:3-40
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:50:13-37
+activity#br.livro.android.cap16.gps.ExemploAndandoRua
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:51:3-53
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:51:13-50
+activity#br.livro.android.cap16.gps.ExemploAndandoRuaFake
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:52:3-57
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:52:13-54
+activity#br.livro.android.cap16.gps.ExemploAndandoRuaMyLocation
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:53:3-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:53:13-60
+activity#br.livro.android.cap16.gps.LocationProviderList
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:54:3-56
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:54:13-53
+activity#br.livro.android.cap16.gps.LogaCoordenadas
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:55:3-51
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:55:13-48
+activity#br.livro.android.cap16.rota.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:57:3-41
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:57:13-38
+activity#br.livro.android.cap16.rota.ExemploRotaSimples
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:58:3-55
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:58:13-52
+activity#br.livro.android.cap16.rota.ExemploRotaBuscaGoogle
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:59:3-59
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:59:13-56
+uses-sdk
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:63:2-40
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml:63:12-37
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap16-MapaGPS\app\src\main\AndroidManifest.xml

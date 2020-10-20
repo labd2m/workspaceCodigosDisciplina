@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="br.livro.android.cap16" 
+	android:versionCode="1"
+	android:versionName="1.0.0">
+
+	<!-- Permissões GPS -->
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.INTERNET" />
+
+	<application android:icon="@drawable/icon" android:label="@string/app_name" android:theme="@android:style/Theme.Light">
+
+		<!-- Maps -->
+		<uses-library android:name="com.google.android.maps" />
+	
+		<activity android:name=".Menu" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name=".mapview.Menu" />
+		<activity android:name=".mapview.MapaSimples" />
+		<activity android:name=".mapview.MapaSimplesXML" />
+		<activity android:name=".mapview.MapaSimplesCoordenada" />
+
+		<activity android:name=".mapview.ExemploCentralizaPonto" />
+		<activity android:name=".mapview.ExemploSatelite" />		
+		<activity android:name=".mapview.ExemploMapaCristo" />
+		<activity android:name=".mapview.ExemploZoom" />
+		<activity android:name=".mapview.ExemploZoomControl" />
+		<activity android:name=".mapview.ExemploOverlay" />
+		<activity android:name=".mapview.ExemploBolaOverlay" />
+		<activity android:name=".mapview.ExemploImagemOverlay" />
+		<activity android:name=".mapview.ExemploItemOverlay" />
+		<activity android:name=".mapview.TelaFormCoordenadas" />
+		<activity android:name=".mapview.TelaFormEndereco" />
+		<activity android:name=".mapview.ExemploMapaCapa" >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".mapview.intent.Menu" />
+		<activity android:name=".mapview.intent.ExemploDirecoes" android:label="Rota"/>
+		<activity android:name=".mapview.intent.ExemploDirecoesGoogleMaps" android:label="Coordenada"/>
+		<activity android:name=".mapview.intent.ExemploMcDonaldsGoogleMaps" android:label="McDonalds"/>
+		
+		<activity android:name=".gps.Menu" />
+		<activity android:name=".gps.ExemploAndandoRua" />
+		<activity android:name=".gps.ExemploAndandoRuaFake" />
+		<activity android:name=".gps.ExemploAndandoRuaMyLocation" />
+		<activity android:name=".gps.LocationProviderList" />
+		<activity android:name=".gps.LogaCoordenadas" />
+
+		<activity android:name=".rota.Menu" />
+		<activity android:name=".rota.ExemploRotaSimples" />
+		<activity android:name=".rota.ExemploRotaBuscaGoogle" />
+
+	</application>
+
+	<uses-sdk android:minSdkVersion="2" />
+</manifest>

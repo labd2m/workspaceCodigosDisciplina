@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.livro.android.cap7.canvas.test">
+
+    <uses-sdk android:minSdkVersion="2" android:targetSdkVersion="2" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="br.livro.android.cap7.canvas"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for br.livro.android.cap7.canvas"/>
+</manifest>

@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Aug 19 18:00:19 BRT 2020
+2.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+5.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_principal_radio.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=DEX
+4.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_action_search.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIradioGroupExample/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_principal_radio.xml
+0.set=ANDROID_RESOURCE

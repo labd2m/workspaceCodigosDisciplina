@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/CanvasSimples.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/CanvasTeclasActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/touch/ExemploTouchScreen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/touch/ImageUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap7/canvas/touch/TouchScreenView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/apis/graphics/GraphicsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/apis/graphics/PictureLayout.java" charset="UTF-8" />
+  </component>
+</project>
+

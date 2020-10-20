@@ -1,0 +1,4 @@
+#Fri Jun 07 11:05:02 BRT 2019
+base.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

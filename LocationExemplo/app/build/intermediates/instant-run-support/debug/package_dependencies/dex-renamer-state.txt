@@ -1,0 +1,4 @@
+#Thu May 04 09:40:51 BRT 2017
+base.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_6b4580f4ff93b1d868252d856a2e5e68d27bf712
+renamed.0=classes.dex
+file.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_6b4580f4ff93b1d868252d856a2e5e68d27bf712\\classes.dex

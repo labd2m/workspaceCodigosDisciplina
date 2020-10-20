@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/labelEhPrimo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="50dp"
+        android:text="É Primo?" />
+
+    <EditText
+        android:id="@+id/edtEhPrimo"
+        android:layout_width="208dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelEhPrimo"
+        android:layout_alignStart="@+id/labelEhPrimo"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="18dp"
+        android:layout_toStartOf="@+id/button2"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/labelFibo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtEhPrimo"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="50dp"
+        android:text="Fibonacci" />
+
+    <EditText
+        android:id="@+id/edtFibo"
+        android:layout_width="329dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelFibo"
+        android:layout_alignStart="@+id/labelFibo"
+        android:layout_alignEnd="@+id/edtEhPrimo"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="0dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/labelClassifica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtFibo"
+        android:layout_alignStart="@+id/edtFibo"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="50dp"
+        android:text="ClassificaFibo" />
+
+    <EditText
+        android:id="@+id/edtClassifica"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelClassifica"
+        android:layout_alignStart="@+id/labelClassifica"
+        android:layout_alignEnd="@+id/edtFibo"
+
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="0dp"
+
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="69dp"
+        android:text="OK"
+        android:onClick="cliquePrimo"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignEnd="@+id/button2"
+        android:layout_alignBottom="@+id/edtFibo"
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="-2dp"
+        android:onClick="cliqueFibo"
+        android:text="@android:string/ok" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_alignBottom="@+id/edtClassifica"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="7dp"
+        android:onClick="cliqueClassifica"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtClassifica"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:text="Resultado:"
+        android:textAlignment="center" />
+
+</RelativeLayout>

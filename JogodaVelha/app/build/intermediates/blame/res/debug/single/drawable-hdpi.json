@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\o.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\coluna.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\coluna.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\botao.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\botao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diagonal1.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\diagonal1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\inicio.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tabuleiro.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\tabuleiro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\paper.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\paper.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diagonal2.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\diagonal2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\linha.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\linha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vazio.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\JogodaVelha\\app\\src\\main\\res\\drawable-hdpi\\vazio.png"
+    }
+]

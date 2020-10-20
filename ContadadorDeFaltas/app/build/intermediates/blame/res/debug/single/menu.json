@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preview.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\src\\main\\res\\menu\\preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\captura.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\src\\main\\res\\menu\\captura.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tirar_foto.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\ContadadorDeFaltas\\app\\src\\main\\res\\menu\\tirar_foto.xml"
+    }
+]

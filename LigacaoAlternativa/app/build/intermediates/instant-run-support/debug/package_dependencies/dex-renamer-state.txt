@@ -1,0 +1,4 @@
+#Fri Jun 07 11:07:23 BRT 2019
+base.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\LigacaoAlternativa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_ec0da9a37064a7064a2a30036c33d5051a60d99c
+renamed.0=classes.dex
+file.0=C\:\\Users\\Lucas\\AndroidStudioProjects\\LigacaoAlternativa\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_ec0da9a37064a7064a2a30036c33d5051a60d99c\\classes.dex

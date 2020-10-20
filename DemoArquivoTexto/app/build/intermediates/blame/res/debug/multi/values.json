@@ -1,0 +1,473 @@
+[
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 53,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 53,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 52,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 52,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 50,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 50,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 74,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 74,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\Lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 53,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 53,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 52,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 52,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 50,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 50,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 74,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 74,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/C:\\Users\\lucas\\AndroidStudioProjects\\DemoArquivoTexto\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 53,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 53,
+                        "endOffset": 68
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 52,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 52,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 50,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 50,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 74,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 74,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    }
+]

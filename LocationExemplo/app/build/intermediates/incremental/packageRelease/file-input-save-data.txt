@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri May 10 11:05:48 BRT 2019
+2.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+6.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\menu\\view_main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+7.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\view_main.xml
+5.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+8.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+1.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\menu-v11\\view_main.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+8.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+9.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\LocationExemplo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+8.set=DEX
+0.set=ANDROID_RESOURCE

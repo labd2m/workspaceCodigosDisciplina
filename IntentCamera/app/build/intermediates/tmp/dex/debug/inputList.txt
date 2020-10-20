@@ -1,0 +1,2 @@
+C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\classes\debug
+C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ec0da9a37064a7064a2a30036c33d5051a60d99c.jar

@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:3:2-33
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:5:2-29
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:6:2-61:16
+	android:icon
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:6:15-44
+	android:theme
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:6:45-87
+activity#br.livro.android.cap8.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:7:3-12:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:7:34-66
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:7:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:8:4-11:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:9:5-57
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:9:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:10:15-62
+activity#br.livro.android.cap8.filtro.Tela1
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:13:3-18:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:13:42-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#ACAO_TESTE+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:14:4-17:20
+action#ACAO_TESTE
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:15:5-41
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:15:13-38
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:16:15-61
+activity#br.livro.android.cap8.filtro.Tela2
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:19:3-25:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:19:42-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#ACAO_TESTE+CATEGORIA_TESTE+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:20:4-24:20
+category#CATEGORIA_TESTE
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:23:5-48
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:23:15-45
+activity#br.livro.android.cap8.filtro.Tela3
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:26:3-32:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:26:42-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#ABRIR_TELA+CATEGORIA_3+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:27:4-31:20
+action#ABRIR_TELA
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:28:5-41
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:28:13-38
+category#CATEGORIA_3
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:30:5-44
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:30:15-41
+activity#br.livro.android.cap8.filtro.Tela4
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:33:3-39:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:33:42-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#ABRIR_TELA+CATEGORIA_DUPLICADA+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:34:4-38:20
+category#CATEGORIA_DUPLICADA
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:37:5-52
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:37:15-49
+activity#br.livro.android.cap8.filtro.Tela5
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:40:3-46:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:40:42-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:40:13-41
+activity#br.livro.android.cap8.filtro.TelaContatos
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:47:3-52:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:47:49-73
+	android:icon
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:47:74-106
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:47:13-48
+intent-filter#android.intent.action.CALL_BUTTON+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:48:4-51:20
+action#android.intent.action.CALL_BUTTON
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:49:5-64
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:49:13-61
+receiver#br.livro.android.cap8.receiver.ExemploReceiver
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:54:3-60:14
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:54:54-85
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:54:13-53
+intent-filter#TESTE_ABRIR_RECEIVER+android.intent.category.DEFAULT
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:55:4-59:20
+action#TESTE_ABRIR_RECEIVER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:56:5-51
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:56:13-48
+uses-sdk
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:63:2-40
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml:63:12-37
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap08-IntentFilter\app\src\main\AndroidManifest.xml

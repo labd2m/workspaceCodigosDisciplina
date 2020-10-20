@@ -1,0 +1,19 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:shrinkColumns="2">
+	<TableRow>
+		<TextView android:text="Coluna 1"  />
+		<TextView android:text="Coluna 2"  />
+	</TableRow>
+	<TableRow>
+		<TextView android:text="Coluna 1"  />
+		<TextView android:text="Coluna 2"  />
+		<TextView android:text="Texto Grande que vai sair da tela mas o shrinkColumns=2 foi utilizado para quebrar. "  />
+	</TableRow>
+	<TableRow>
+		<TextView android:text="Coluna 1"  />
+		<TextView android:text="Coluna 2"  />
+		<TextView android:text="Coluna 3"  />
+	</TableRow>
+</TableLayout>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ExemplosGUIlayout/app/src/main/res/layout/table_layout_shrink.xml -->

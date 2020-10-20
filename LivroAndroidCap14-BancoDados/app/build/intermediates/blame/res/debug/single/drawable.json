@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sair.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\sair.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\excluir.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\excluir.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salvar.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\salvar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\limpar.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\limpar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\novo.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\novo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancelar.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pesquisar.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\drawable\\pesquisar.png"
+    }
+]

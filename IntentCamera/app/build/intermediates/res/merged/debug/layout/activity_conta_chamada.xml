@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gerenciador"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin"
+    tools:context=".ContaChamada" >
+
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/ic_launcher" />
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="tirarFoto"
+        android:text="Camera"
+        android:layout_alignTop="@+id/foto"
+        android:layout_alignParentLeft="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Video"
+        android:id="@+id/button"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignRight="@+id/foto"
+        android:onClick="gravarVideo"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Foto Interna"
+        android:id="@+id/button2"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_toRightOf="@+id/button1"
+        android:onClick="fotoInterna"/>
+</RelativeLayout>

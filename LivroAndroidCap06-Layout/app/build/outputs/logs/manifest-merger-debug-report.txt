@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:7:5-54:19
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:8:9-38
+	android:theme
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:10:9-51
+activity#br.livro.android.cap6.Menu
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:12:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:17:27-74
+activity#br.livro.android.cap6.MenuLayouts
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:20:19-46
+activity#br.livro.android.cap6.MenuLayouts2
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:21:19-47
+activity#br.livro.android.cap6.MenuBasicoLayouts
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:22:19-52
+activity#br.livro.android.cap6.ActivityLayoutIdGenerica
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:23:19-59
+activity#br.livro.android.cap6.layout.api.ExemploLinearLayoutAPI
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:24:9-71
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:24:19-68
+activity#br.livro.android.cap6.layout.api.ExemploTableLayoutAPI
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:25:19-67
+activity#br.livro.android.cap6.layout.ExemploScrollView
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:26:19-59
+activity#br.livro.android.cap6.layout.ExemploGridView
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:27:19-57
+activity#br.livro.android.cap6.layout.ExemploGallery
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:28:19-56
+activity#br.livro.android.cap6.layout.ExemploImageSwitcher
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:29:19-62
+activity#br.livro.android.cap6.layout.ExemploWebView
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:30:9-59
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:30:19-56
+activity#br.livro.android.cap6.layout.tab.ExemploTabHost
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:31:9-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:31:19-60
+activity#br.livro.android.cap6.layout.ExemploViewFlipper
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:32:19-60
+activity#br.livro.android.cap6.layout.tab.Tab1
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:33:19-50
+activity#br.livro.android.cap6.layout.tab.Tab2
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:34:19-50
+activity#br.livro.android.cap6.layout.tab.Tab3
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:35:19-50
+activity#br.livro.android.cap6.layout.tab.Aba1
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:37:13-44
+activity#br.livro.android.cap6.layout.tab.Aba2
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:46:13-44
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:56:5-67
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:56:22-64
+uses-sdk
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:58:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml:58:15-40
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LivroAndroidCap06-Layout\app\src\main\AndroidManifest.xml

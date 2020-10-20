@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.livro.android.cap20.push"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+    <!-- Para verificar se alguma activity está executando -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- O GCM precisa de internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- O GCM precisa se conectar a uma conta do Google. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- Permissão utilizada para travar a tela, e evitar o modo de espera. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!--
+		Permissão customizada necessária para receber as mensagens.
+		Ela precisa ser chamada PACOTE.permission.C2D_MESSAGE,
+    -->
+    <permission
+        android:name="br.livro.android.cap20.push.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="br.livro.android.cap20.push.permission.C2D_MESSAGE" />
+    <!-- Declara a permissão para se registrar no GCM e receber mensagens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ExemploPushActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<!-- 		  BroadcastReceiver para receber as mensagens do GCM, por meio de Intents. -->
+        <receiver
+            android:name=".GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Filtrar as ações para receber mensagens. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Filtrar a ação para receber o registration id do aparelho. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="br.livro.android.cap20.push" />
+            </intent-filter>
+        </receiver>
+        <!--
+		  Service chamado automaticamente pelo receiver acima.
+		  Deve conter o código para ler as mensagens.
+        -->
+        <service android:name=".GCMIntentService" />
+    </application>
+
+</manifest>

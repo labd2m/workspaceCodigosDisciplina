@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Aug 19 16:21:17 BRT 2020
+2.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/res/layout/view_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+5.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+6.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/view_main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/res/menu/view_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LocationExemplo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE

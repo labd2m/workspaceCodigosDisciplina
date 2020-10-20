@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.studio.mapas.lucas.playervideo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".DescricaoVideo"
+            android:label="@string/title_activity_descricao_video">
+        </activity>
+        <activity
+            android:name=".PlayerVideo"
+            android:label="@string/title_activity_player_video"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name=".SelecaoVideo"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

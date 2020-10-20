@@ -1,0 +1,71 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* GPS\
+* GPS\.svn\
+* GPS\.svn\all-wcprops
+* GPS\.svn\entries
+* GPS\.svn\format
+* GPS\Sete de Setembro - Curitiba.kml
+* GPS\Sete de Setembro - PlaceMark.kml
+* KeyTool\
+* KeyTool\.svn\
+* KeyTool\.svn\all-wcprops
+* KeyTool\.svn\entries
+* KeyTool\.svn\format
+* KeyTool\debug.keystore
+* KeyTool\debug.keystore.txt
+* KeyTool\key.htm
+* KeyTool\key_files\
+* KeyTool\key_files\.svn\
+* KeyTool\key_files\.svn\all-wcprops
+* KeyTool\key_files\.svn\entries
+* KeyTool\key_files\.svn\format
+* KeyTool\key_files\art.gif
+* KeyTool\key_files\dev_docs.css
+* KeyTool\key_files\maps_res_logo.gif
+* KeyTool\keystore.txt
+* keystore.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

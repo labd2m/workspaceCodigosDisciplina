@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Jun 05 09:44:08 BRT 2019
+2.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_conta_chamada.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\conta_chamada.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\conta_chamada.xml
+0.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Lucas\\AndroidStudioProjects\\IntentCamera\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

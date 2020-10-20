@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exemplo1.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\src\\main\\res\\layout\\activity_exemplo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exemplo2.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\src\\main\\res\\layout\\activity_exemplo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exemplo_listener.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap3\\app\\src\\main\\res\\layout\\exemplo_listener.xml"
+    }
+]

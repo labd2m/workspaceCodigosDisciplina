@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Sobre" 
+    android:background="@drawable/vicosafundo">
+
+    <ImageView
+        android:id="@+id/fundo_texto_sobre"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:alpha="0.8"
+        android:background="@drawable/roundshapebranco"
+        android:src="@drawable/roundshapebranco" />
+
+    <TextView
+        android:id="@+id/versaoSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tituloSobre"
+        android:layout_centerHorizontal="true"
+        android:text="Versão ..."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/infoUsuarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logoSobre"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="©2013-2014\nDepartamento de Informática\nUniversidade Federal de Viçosa"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/tituloSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/fundo_texto_sobre"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Cidadão Viçosa na rua"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/logoSobre"
+        android:layout_width="150dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/versaoSobre"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logonova" />
+
+    <TextView
+        android:id="@+id/equipeSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infoUsuarios"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Equipe:"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    
+     <TextView
+         android:id="@+id/membrosEquipeSobre"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/equipeSobre"
+         android:layout_centerHorizontal="true"
+         android:gravity="center_vertical|center_horizontal"
+         android:text="João Augusto Daltio Meneghelli\nProf. Lucas Francisco da Matta Vegi"
+         android:textColor="#000000" />
+
+      <TextView
+          android:id="@+id/EmailSobre"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignBaseline="@+id/contatosSobre"
+          android:layout_alignBottom="@+id/contatosSobre"
+          android:layout_toRightOf="@+id/contatosSobre"
+          android:layout_marginLeft="5dp"
+          android:text="vicosadigital@gmail.com"
+          android:textColorLink="#01118c"
+          android:textStyle="italic"
+          android:autoLink="email" />
+
+      <TextView
+          android:id="@+id/contatosSobre"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignLeft="@+id/infoUsuarios"
+          android:layout_below="@+id/membrosEquipeSobre"
+          android:layout_marginTop="6dp"
+          android:gravity="center_vertical|center_horizontal"
+          android:text="contato:"
+          android:textColor="#000000"
+          android:textStyle="italic|bold" />
+
+      <TextView
+          android:id="@+id/urlCidadoVicosaSobre"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/contatosSobre"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="1dp"
+          android:autoLink="web"
+          android:text="http://www.ide.ufv.br/cidadaovicosa"
+          android:textColorLink="#000000"
+          android:textStyle="italic" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/layout/layout_sobre.xml -->

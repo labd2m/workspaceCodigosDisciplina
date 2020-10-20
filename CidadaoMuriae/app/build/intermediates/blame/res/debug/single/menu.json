@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\colaboracao.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\colaboracao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mapa.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cadastro.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sobre.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoMuriae\\app\\src\\main\\res\\menu\\splash.xml"
+    }
+]

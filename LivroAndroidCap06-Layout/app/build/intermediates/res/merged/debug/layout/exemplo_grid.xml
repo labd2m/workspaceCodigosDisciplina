@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical"
+>
+	<TextView 
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:text="Exemplo de GridView:" 
+	/>
+	<GridView android:id="@+id/grid1"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:padding="10dip" 
+		android:verticalSpacing="10dip"
+		android:horizontalSpacing="10dip" 
+		android:numColumns="auto_fit"
+		android:columnWidth="40dip" 
+		android:gravity="center" />
+</LinearLayout>
+
+
+       

@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <TextView android:id="@+id/valorP"
+        android:text="Proximidade: 0 cm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <SeekBar
+        android:id="@+id/progressoP"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/valorP"
+        android:layout_alignLeft="@+id/valorP"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:progress="0" android:max="100"/>
+
+    <TextView android:id="@+id/valorL"
+        android:layout_below="@+id/progressoP"
+        android:layout_alignLeft="@+id/progressoP"
+        android:text="Luz: 0 lx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <SeekBar
+        android:id="@+id/progressoL"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/valorL"
+        android:layout_alignLeft="@+id/valorL"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:progress="0" android:max="100"/>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\classes-7984587899d4c4b23b0030dcb10ae4ccf36484a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\classes-3e01e1f33b5d9a2fd4a8a457c17df48c62b555a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsServices-7240eddbdd39e59b7cf71dedd0786766ca4b0253.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\support-annotations-21.0.0-cc5b000489dd786a2d6b221d6a3ff63d136bc32d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\internal_impl-21.0.0-ac4a85dadb7cc2c2001c7791686b8cbad642751a.jar" />
+    </item>
+
+</items>

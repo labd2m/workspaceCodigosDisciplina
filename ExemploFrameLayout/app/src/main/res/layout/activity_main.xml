@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e3e3e3">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:src="@drawable/flamengo" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="CAMPEÃO"
+        android:stateListAnimator="@null"
+        android:background="@android:color/darker_gray"/>
+    <!--Buttons do Lollipop em diante
+    ficam no topo por default-->
+
+    <ImageView
+        android:id="@+id/img90"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/trofeu"
+        android:layout_gravity="center|right" />
+</FrameLayout>

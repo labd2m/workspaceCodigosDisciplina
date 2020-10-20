@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap14-Arquivos/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Cap14-Arquivos</string>
+    <string name="hello">Hello World, ArquivoActivity</string>
+</resources>

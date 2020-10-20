@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top"
+    android:singleLine="true"
+    android:textColor="#cecece"
+    android:textSize="16dp"
+    android:padding="7dp"
+    android:background="#191919"
+     />
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/layout/meu_spinner_item.xml -->

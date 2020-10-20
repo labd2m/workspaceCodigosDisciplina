@@ -1,0 +1,473 @@
+[
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 51,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 51,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 52,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 52,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 50,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 50,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 63,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 63,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 57,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 51,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 51,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 52,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 52,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 50,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 50,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 63,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 63,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 57,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/C:\\Users\\Lucas\\AndroidStudioProjects\\ExemplosGUIprogressDialog\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 51,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 51,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 52,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 52,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 50,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 50,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 63,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 63,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 57,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    }
+]

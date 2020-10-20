@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:background="#ffffff"
+>
+<TextView 
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:text="Layout fill_parent e TextView wrap_content. Layout ocupa tela toda (branca), mas o TextView apenas o necessário."
+    android:textColor="#000000" 
+    />
+</FrameLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d93304f7b9394f4e6e74e19edf21c416f4991ea">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0d373de6ea580e59dc7efe37ff8cf9e2a2237ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_ec0da9a37064a7064a2a30036c33d5051a60d99c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20bed1093a0b5b3183ee490b7e7c7079a36b8d58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\IntentCamera\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ec0da9a37064a7064a2a30036c33d5051a60d99c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensors_data.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\src\\main\\res\\layout\\sensors_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controls.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\src\\main\\res\\layout\\controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\CameraOverlay\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

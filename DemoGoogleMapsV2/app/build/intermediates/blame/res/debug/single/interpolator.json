@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\DemoGoogleMapsV2\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\884db671d06163b32808ce4319d522633ec33f47\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\DemoGoogleMapsV2\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\884db671d06163b32808ce4319d522633ec33f47\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    }
+]

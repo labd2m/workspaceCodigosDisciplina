@@ -1,0 +1,2 @@
+C:\Users\Lucas\AndroidStudioProjects\LocationExemplo\app\build\intermediates\classes\debug
+C:\Users\Lucas\AndroidStudioProjects\LocationExemplo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-6b4580f4ff93b1d868252d856a2e5e68d27bf712.jar

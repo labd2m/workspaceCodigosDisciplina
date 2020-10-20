@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:ignore="HardcodedText" >
+
+    <LinearLayout
+        android:id="@+id/linearForm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nome"
+            tools:ignore="HardcodedText" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="TextFields" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Senha" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:password="true"
+            android:text="123456"
+            tools:ignore="TextFields,HardcodedText" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/labelSexo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearForm"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:text="Sexo:"
+        tools:ignore="HardcodedText" />
+
+    <RadioGroup
+        android:id="@+id/RGsexo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/labelSexo"
+        android:layout_below="@+id/labelSexo"
+        android:layout_marginTop="10dp" >
+
+        <RadioButton
+            android:id="@+id/masculino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Masculino"
+            tools:ignore="HardcodedText" />
+
+        <RadioButton
+            android:id="@+id/feminino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Feminino"
+            tools:ignore="HardcodedText" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/botoes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#000000"
+        android:orientation="horizontal" >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Cancelar" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Salvar" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/botoes"
+        android:layout_alignRight="@+id/botoes"
+        android:text="Clique:" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap06-Layout/app/src/main/res/layout/layout_form_aninhado_prova.xml -->

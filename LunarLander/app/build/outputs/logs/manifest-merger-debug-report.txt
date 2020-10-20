@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:22:1-32:12
+	package
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:23:5-46
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:22:11-69
+application
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:24:5-31:19
+	android:label
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:24:60-92
+	android:icon
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:24:18-59
+activity#com.example.android.lunarlander.LunarLander
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:25:9-30:20
+	android:theme
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:25:46-93
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:25:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Lucas\AndroidStudioProjects\LunarLander\app\src\main\AndroidManifest.xml:28:27-74

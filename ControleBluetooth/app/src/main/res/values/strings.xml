@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Controle Bluetooth</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_pareados">ListaPareadosActivity</string>
+    <string name="title_activity_bluetooth_controle">BluetoothControleActivity</string>
+</resources>

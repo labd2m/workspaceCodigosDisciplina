@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Aug 19 16:08:50 BRT 2020
+2.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+2.set=ANDROID_RESOURCE
+4.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_action_search.png
+5.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+1.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_salva_le_arquivo.xml
+6.set=DEX
+0.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_salva_le_arquivo.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE

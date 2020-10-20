@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cidadão Muriaé</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_colaboracao">Colaboração</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="spinner_title1">Categoria</string>
+    <string name="spinner_title2">Subcategoria</string>
+    <string name="Menu1">Visão normal</string>
+    <string name="Menu2">Visão satélite</string>
+    <string name="Menu3">Minha localização</string>
+    <string name="Menu4">Sobre</string>
+    <string name="Menu5">Sair</string>
+    <string name="categoria">Categoria</string>
+    <string name="tipo">Tipo</string>
+
+    <string-array name="lista_categorias">
+        <item>Desaparecidos</item>
+        <item>Entretenimento</item>
+        <item>Infraestrutura</item>
+        <item>Meio Ambiente</item>
+        <item>Saúde</item>
+        <item>Segurança</item>
+        <item>Serviço ou Produto</item>
+        <item>Outras Categorias</item>
+    </string-array>
+    <string-array name="lista_idades">
+        <item>0 - 17</item>
+        <item>18 - 25</item>
+        <item>26 - 64</item>
+        <item>mais de 65</item>
+    </string-array>
+
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_sobre">Sobre</string>
+
+</resources>

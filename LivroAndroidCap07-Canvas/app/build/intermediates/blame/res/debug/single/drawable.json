@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aviao.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\drawable\\aviao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fundo_river.jpg",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\drawable\\fundo_river.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap07-Canvas\\app\\src\\main\\res\\drawable\\smile.png"
+    }
+]

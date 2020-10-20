@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    tools:context=".SelecaoVideo">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="> Desfibrilador"
+        android:id="@+id/btDesfibrilador"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="138dp"
+        android:onClick="VerVideo"
+        android:tag="desfibrilador"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="> Massagem"
+        android:id="@+id/btMassagem"
+        android:layout_below="@+id/btDesfibrilador"
+        android:layout_alignLeft="@+id/btDesfibrilador"
+        android:layout_alignStart="@+id/btDesfibrilador"
+        android:layout_marginTop="38dp"
+        android:layout_alignRight="@+id/btDesfibrilador"
+        android:layout_alignEnd="@+id/btDesfibrilador"
+        android:onClick="VerVideo"
+        android:tag="massagem"/>
+</RelativeLayout>

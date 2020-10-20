@@ -1,0 +1,4 @@
+#Tue Oct 13 11:18:08 BRT 2020
+base.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/DemoArquivoTexto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent" android:layout_width="fill_parent"
+	android:background="#ffffff">
+	<TableRow>
+		<TextView android:id="@+id/text1" android:text="Nome:"
+			android:textColor="#000000" />
+		<EditText android:id="@+id/campoNome" android:width="240px" />
+	</TableRow>
+	<TableRow>
+		<TextView android:id="@+id/text2" android:text="Placa:"
+			android:textColor="#000000" />
+		<EditText android:id="@+id/campoPlaca"  />
+	</TableRow>
+	<TableRow>
+		<TextView android:id="@+id/text3" android:text="Ano:"
+			android:textColor="#000000" />
+		<EditText android:id="@+id/campoAno"  />
+	</TableRow>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="fill_parent">
+		<ImageButton android:src="@drawable/cancelar" android:id="@+id/btCancelar" android:text="Cancelar" 
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+		<ImageButton android:src="@drawable/salvar" android:id="@+id/btSalvar" android:text=" Salvar " 
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+		<ImageButton android:src="@drawable/excluir" android:id="@+id/btExcluir" android:text=" Excluir " 
+			android:layout_width="wrap_content" android:layout_height="wrap_content" />
+	</LinearLayout>
+</TableLayout>

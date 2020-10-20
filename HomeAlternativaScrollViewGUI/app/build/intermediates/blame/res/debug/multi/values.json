@@ -1,0 +1,473 @@
+[
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 52,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 52,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 52,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 52,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 50,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 50,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 75,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 75,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\Lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 52,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 52,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 52,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 52,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 50,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 50,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 75,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 75,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/C:\\Users\\lucas\\AndroidStudioProjects\\HomeAlternativaScrollViewGUI\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 43,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 52,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 52,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 52,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 52,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 50,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 50,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 75,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 75,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 57,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    }
+]

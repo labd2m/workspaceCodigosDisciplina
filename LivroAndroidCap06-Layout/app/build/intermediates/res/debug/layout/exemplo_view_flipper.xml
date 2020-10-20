@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ViewFlipper  android:id="@+id/flip"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    >
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Texto 1"
+    />
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Texto 2"
+    />
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Texto 3"
+    />
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Texto 4"
+    />
+<TextView  
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Texto 5"
+    />
+</LinearLayout>
+</ViewFlipper>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="bottom|center"
+    >
+<Button android:id="@+id/btAnterior"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Anterior"
+    android:gravity="bottom"
+    />
+<Button android:id="@+id/btIniciar"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Iniciar/Parar"
+    android:gravity="bottom"
+    />
+<Button android:id="@+id/btProximo"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="Proximo"
+    android:gravity="bottom"
+    />
+</LinearLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap06-Layout/app/src/main/res/layout/exemplo_view_flipper.xml -->

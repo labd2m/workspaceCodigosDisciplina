@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exemplo GCM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_limpar">Limpar</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="enviar_mensagem">Enviar Msg</string>
+    <string name="depois_de_registrar_digite_a_msgs_aqui_">Depois de registrar, digite a msgs aqui.</string>
+
+</resources>

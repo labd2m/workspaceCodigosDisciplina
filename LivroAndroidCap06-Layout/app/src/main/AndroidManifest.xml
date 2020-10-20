@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.livro.android.cap6"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" >
+        <activity
+            android:name=".Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuLayouts" />
+        <activity android:name=".MenuLayouts2" />
+        <activity android:name=".MenuBasicoLayouts" />
+        <activity android:name=".ActivityLayoutIdGenerica" />
+        <activity android:name=".layout.api.ExemploLinearLayoutAPI" />
+        <activity android:name=".layout.api.ExemploTableLayoutAPI" />
+        <activity android:name=".layout.ExemploScrollView" />
+        <activity android:name=".layout.ExemploGridView" />
+        <activity android:name=".layout.ExemploGallery" />
+        <activity android:name=".layout.ExemploImageSwitcher" />
+        <activity android:name=".layout.ExemploWebView" />
+        <activity android:name=".layout.tab.ExemploTabHost" />
+        <activity android:name=".layout.ExemploViewFlipper" />
+        <activity android:name=".layout.tab.Tab1" />
+        <activity android:name=".layout.tab.Tab2" />
+        <activity android:name=".layout.tab.Tab3" />
+        <activity
+            android:name=".layout.tab.Aba1"
+            android:label="@string/title_activity_aba1" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".layout.tab.Aba2"
+            android:label="@string/title_activity_aba2" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk android:minSdkVersion="2" />
+
+</manifest>

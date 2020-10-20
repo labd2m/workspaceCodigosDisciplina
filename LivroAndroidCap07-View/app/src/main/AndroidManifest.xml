@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="br.livro.android.cap7"
+      android:versionCode="1"
+      android:versionName="1.0.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name" android:theme="@android:style/Theme.Light">
+        <activity android:name=".Menu" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".view.ActivityLayoutIdGenerica" />
+		<activity android:name=".view.ExemploImagem" android:label="ExemploImagem" />
+		<activity android:name=".view.ExemploImageButton" />
+		<activity android:name=".view.ExemploToggleButton" />
+		<activity android:name=".lista.ExemploExpandableList" />
+		<activity android:name=".view.ExemploProgressDialog" />
+		<activity android:name=".view.ExemploAlertaConfirmacao" />
+		<activity android:name=".view.ExemploBarraProgresso" />
+		<activity android:name=".view.ExemploToast" />
+		<activity android:name=".view.ExemploCheckRadio" />
+		<activity android:name=".view.ExemploAutoCompleteTextView" />
+		<activity android:name=".view.ExemploSpinner" />
+		<activity android:name=".view.ExemploMenu" />
+		<activity android:name=".view.ExemploSubMenu" />
+		<activity android:name=".view.ExemploListView" />
+    </application>
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+	<uses-sdk android:minSdkVersion="2" />
+</manifest> 

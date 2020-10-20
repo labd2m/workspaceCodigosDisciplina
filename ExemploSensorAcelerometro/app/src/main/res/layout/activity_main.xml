@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:id="@+id/gerenciador">
+
+    <TextView android:text="ACELERÔMETRO" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:id="@+id/olaMundo" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Eixo X: "
+        android:id="@+id/textViewX"
+        android:layout_below="@+id/olaMundo"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="35dp" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Eixo Y: "
+        android:id="@+id/textViewY"
+        android:layout_below="@+id/textViewX"
+        android:layout_alignLeft="@+id/textViewX"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Eixo Z: "
+        android:id="@+id/textViewZ"
+        android:layout_below="@+id/textViewY"
+        android:layout_alignLeft="@+id/textViewX"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 m/s²"
+        android:id="@+id/valorX"
+        android:layout_alignBottom="@+id/textViewX"
+        android:layout_toRightOf="@+id/textViewX"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 m/s²"
+        android:id="@+id/valorY"
+        android:layout_alignBottom="@+id/textViewY"
+        android:layout_toRightOf="@+id/textViewY" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 m/s²"
+        android:id="@+id/valorZ"
+        android:layout_alignBottom="@+id/textViewZ"
+        android:layout_toRightOf="@+id/textViewZ" />
+</RelativeLayout>

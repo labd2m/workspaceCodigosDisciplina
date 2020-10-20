@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carro_linha_tabela.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\layout\\carro_linha_tabela.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_buscar_carro.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\layout\\form_buscar_carro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_editar_carro.xml",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LivroAndroidCap14-BancoDados\\app\\src\\main\\res\\layout\\form_editar_carro.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.livro.android.cap6"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="2"
+        android:targetSdkVersion="2" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" >
+        <activity
+            android:name="br.livro.android.cap6.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.livro.android.cap6.MenuLayouts" />
+        <activity android:name="br.livro.android.cap6.MenuLayouts2" />
+        <activity android:name="br.livro.android.cap6.MenuBasicoLayouts" />
+        <activity android:name="br.livro.android.cap6.ActivityLayoutIdGenerica" />
+        <activity android:name="br.livro.android.cap6.layout.api.ExemploLinearLayoutAPI" />
+        <activity android:name="br.livro.android.cap6.layout.api.ExemploTableLayoutAPI" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploScrollView" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploGridView" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploGallery" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploImageSwitcher" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploWebView" />
+        <activity android:name="br.livro.android.cap6.layout.tab.ExemploTabHost" />
+        <activity android:name="br.livro.android.cap6.layout.ExemploViewFlipper" />
+        <activity android:name="br.livro.android.cap6.layout.tab.Tab1" />
+        <activity android:name="br.livro.android.cap6.layout.tab.Tab2" />
+        <activity android:name="br.livro.android.cap6.layout.tab.Tab3" />
+        <activity
+            android:name="br.livro.android.cap6.layout.tab.Aba1"
+            android:label="@string/title_activity_aba1" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.livro.android.cap6.layout.tab.Aba2"
+            android:label="@string/title_activity_aba2" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

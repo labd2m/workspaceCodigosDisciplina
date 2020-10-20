@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:6:2
+	android:icon
+		ADDED from AndroidManifest.xml:6:15
+	android:theme
+		ADDED from AndroidManifest.xml:6:45
+activity#br.livro.android.cap8.Menu
+ADDED from AndroidManifest.xml:7:3
+	android:label
+		ADDED from AndroidManifest.xml:7:34
+	android:name
+		ADDED from AndroidManifest.xml:7:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:8:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:10:5
+	android:name
+		ADDED from AndroidManifest.xml:10:15
+activity#br.livro.android.cap8.filtro.Tela1
+ADDED from AndroidManifest.xml:13:3
+	android:label
+		ADDED from AndroidManifest.xml:13:42
+	android:name
+		ADDED from AndroidManifest.xml:13:13
+intent-filter#ACAO_TESTE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:14:4
+action#ACAO_TESTE
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:13
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:16:5
+	android:name
+		ADDED from AndroidManifest.xml:16:15
+activity#br.livro.android.cap8.filtro.Tela2
+ADDED from AndroidManifest.xml:19:3
+	android:label
+		ADDED from AndroidManifest.xml:19:42
+	android:name
+		ADDED from AndroidManifest.xml:19:13
+intent-filter#ACAO_TESTE+CATEGORIA_TESTE+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:20:4
+category#CATEGORIA_TESTE
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:15
+activity#br.livro.android.cap8.filtro.Tela3
+ADDED from AndroidManifest.xml:26:3
+	android:label
+		ADDED from AndroidManifest.xml:26:42
+	android:name
+		ADDED from AndroidManifest.xml:26:13
+intent-filter#ABRIR_TELA+CATEGORIA_3+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:27:4
+action#ABRIR_TELA
+ADDED from AndroidManifest.xml:28:5
+	android:name
+		ADDED from AndroidManifest.xml:28:13
+category#CATEGORIA_3
+ADDED from AndroidManifest.xml:30:5
+	android:name
+		ADDED from AndroidManifest.xml:30:15
+activity#br.livro.android.cap8.filtro.Tela4
+ADDED from AndroidManifest.xml:33:3
+	android:label
+		ADDED from AndroidManifest.xml:33:42
+	android:name
+		ADDED from AndroidManifest.xml:33:13
+intent-filter#ABRIR_TELA+CATEGORIA_DUPLICADA+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:34:4
+category#CATEGORIA_DUPLICADA
+ADDED from AndroidManifest.xml:37:5
+	android:name
+		ADDED from AndroidManifest.xml:37:15
+activity#br.livro.android.cap8.filtro.Tela5
+ADDED from AndroidManifest.xml:40:3
+	android:label
+		ADDED from AndroidManifest.xml:40:42
+	android:name
+		ADDED from AndroidManifest.xml:40:13
+activity#br.livro.android.cap8.filtro.TelaContatos
+ADDED from AndroidManifest.xml:47:3
+	android:label
+		ADDED from AndroidManifest.xml:47:49
+	android:icon
+		ADDED from AndroidManifest.xml:47:74
+	android:name
+		ADDED from AndroidManifest.xml:47:13
+intent-filter#android.intent.action.CALL_BUTTON+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:48:4
+action#android.intent.action.CALL_BUTTON
+ADDED from AndroidManifest.xml:49:5
+	android:name
+		ADDED from AndroidManifest.xml:49:13
+receiver#br.livro.android.cap8.receiver.ExemploReceiver
+ADDED from AndroidManifest.xml:54:3
+	android:label
+		ADDED from AndroidManifest.xml:54:54
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+intent-filter#TESTE_ABRIR_RECEIVER+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:55:4
+action#TESTE_ABRIR_RECEIVER
+ADDED from AndroidManifest.xml:56:5
+	android:name
+		ADDED from AndroidManifest.xml:56:13
+uses-sdk
+ADDED from AndroidManifest.xml:63:2
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:63:12
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

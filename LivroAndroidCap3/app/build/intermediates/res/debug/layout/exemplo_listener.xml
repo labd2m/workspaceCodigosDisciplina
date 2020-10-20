@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/labelNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="31dp"
+        android:padding="@dimen/padding_medium"
+        android:text="Digite seu nome:"
+        tools:context=".ActionListener" />
+
+    <EditText
+        android:id="@+id/campoNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/labelNome"
+        android:layout_marginLeft="22dp"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/butaoOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelNome"
+        android:layout_toRightOf="@+id/campoNome"
+        android:onClick="testando"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/campoResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/campoNome"
+        android:layout_marginTop="54dp"
+        android:layout_toRightOf="@+id/labelNome"
+        android:text="" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap3/app/src/main/res/layout/exemplo_listener.xml -->

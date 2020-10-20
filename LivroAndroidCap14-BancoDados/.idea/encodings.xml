@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/BuscarCarro.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/CadastroCarros.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/Carro.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/CarroListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/EditarCarro.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/RepositorioCarro.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/RepositorioCarroScript.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap14/banco/SQLiteHelper.java" charset="UTF-8" />
+  </component>
+</project>
+

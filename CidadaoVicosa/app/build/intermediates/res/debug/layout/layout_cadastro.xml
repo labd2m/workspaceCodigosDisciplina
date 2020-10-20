@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#000000">    
+    
+    <TextView
+        android:id="@+id/tituloSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Nome"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/edt_cadastroNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tituloSobre"
+        android:ems="10"
+        android:textCursorDrawable="@null"
+        android:textColor="#727272"
+        android:inputType="textCapSentences" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/versaoSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/edt_cadastroNome"
+        android:text="Email"
+        android:textColor="#d6d4d4"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/edt_cadastroEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/versaoSobre"
+        android:ems="10"
+        android:textCursorDrawable="@null"
+        android:textColor="#727272"
+        android:inputType="textEmailAddress" />
+
+    <TextView
+        android:id="@+id/tv_usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/edt_cadastroEmail"
+        android:text="Senha"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/edt_cadastroSenha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tv_usuario"
+        android:ems="10"
+        android:textCursorDrawable="@null"
+        android:textColor="#727272"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/bt_cadastroLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Sou cadastrado. Login"
+		android:background="@null"
+        android:textColor="#33B5E5"
+        android:textStyle="bold"
+        android:onClick="eventocadastrologin" />
+
+    <TextView
+        android:id="@+id/equipeSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/edt_cadastroSenha"
+        android:text="Faixa Etária"
+        android:textColor="#d6d4d4"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spin_idade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/equipeSobre"
+        android:layout_below="@+id/equipeSobre"
+        android:background="#000000"
+        android:entries="@array/lista_idades" />
+
+    <Button
+        android:id="@+id/bt_cadastroCadastrar"
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/spin_idade"
+        android:layout_centerHorizontal="true"
+        android:onClick="eventocadastro"
+        android:text="Cadastrar"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/fundobotaopadrao"
+        android:textStyle="bold" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/layout/layout_cadastro.xml -->

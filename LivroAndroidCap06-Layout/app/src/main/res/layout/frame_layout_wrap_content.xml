@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:background="#ffffff"
+>
+<TextView 
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:text="Layout wrap_content e TextView wrap_content. Ocupa apenas o tamanho necessário."
+    android:textColor="#000000" 
+    />
+</FrameLayout>

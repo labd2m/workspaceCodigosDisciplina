@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/Coordenada.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/CoordenadaSete.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/Endereco.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/ExemploAndandoRua.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/ExemploAndandoRuaFake.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/ExemploAndandoRuaMyLocation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/LocationProviderList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/LogaCoordenadas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/gps/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploBolaOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploCentralizaPonto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploImagemOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploItemOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploMapaCapa.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploMapaCristo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploSatelite.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploZoom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/ExemploZoomControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/MapaSimples.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/MapaSimplesCoordenada.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/MapaSimplesXML.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/TelaFormCoordenadas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/TelaFormEndereco.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/intent/ExemploDirecoes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/intent/ExemploDirecoesGoogleMaps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/intent/ExemploMcDonaldsGoogleMaps.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/mapview/intent/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/overlay/BolaOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/overlay/BolaOverlayListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/overlay/ImagemOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/overlay/ImagensOverlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/rota/ExemploRotaBuscaGoogle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/rota/ExemploRotaSimples.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/br/livro/android/cap16/rota/Menu.java" charset="UTF-8" />
+  </component>
+</project>
+

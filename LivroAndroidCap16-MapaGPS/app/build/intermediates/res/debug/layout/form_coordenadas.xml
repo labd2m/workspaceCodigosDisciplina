@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/main"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+	>
+		<TableRow>
+			<TextView android:text="Latitude: "/>
+			<EditText android:id="@+id/latitude" android:text="-25.442580" />
+		</TableRow>
+		<TableRow>
+			<TextView android:text="Longitude "  />
+			<EditText android:id="@+id/longitude" android:text="-49.279840"/>
+		</TableRow>
+		<TableRow android:gravity="center">
+			<Button android:id="@+id/btMoverPonto" android:text="Mover Bolinha" />
+			<Button android:id="@+id/btAtualizarMapa" android:text="Centralizar mapa" />
+		</TableRow>
+		<com.google.android.maps.MapView
+			android:id="@+id/mapa"
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content"
+			android:enabled="true"
+			android:clickable="true"
+			android:apiKey="0D02uiEmQKCrWEL2Ujxv-4eZFUp9MoYZ5pXsQOA"
+		/>
+	</TableLayout>
+</LinearLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap16-MapaGPS/app/src/main/res/layout/form_coordenadas.xml -->

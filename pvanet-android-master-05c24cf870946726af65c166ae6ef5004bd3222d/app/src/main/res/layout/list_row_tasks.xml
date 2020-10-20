@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="5dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardBackgroundColor="@color/cardViewBackground">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:transitionGroup="false"
+        android:contextClickable="false"
+        android:baselineAligned="false"
+        android:clickable="false">
+
+        <LinearLayout
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/itemAtividadesProgramadas"
+            android:transitionGroup="false"
+            android:contextClickable="false"
+            android:baselineAligned="false"
+            android:clickable="false"
+            android:layout_margin="1dp"
+            android:background="@color/listViewBackground">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                    android:text="Data para Entregar: 03/04/2016 23:59:00"
+                    android:id="@+id/taskDeadline"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/margin"
+                    android:textColor="@color/colorPrimaryTextTitle" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@android:color/darker_gray" />
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:transitionGroup="false"
+                android:contextClickable="false"
+                android:baselineAligned="false"
+                android:clickable="false">
+
+                <RelativeLayout
+                    android:id="@+id/taskCourseLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:textStyle="bold"
+                        android:id="@+id/taskCourseTextTitle"
+                        android:text="DISCIPLINA: "
+                        android:layout_marginLeft="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:text="INF 491"
+                        android:id="@+id/taskCourseText"
+                        android:layout_toEndOf="@+id/taskCourseTextTitle"
+                        android:layout_toRightOf="@+id/taskCourseTextTitle"
+                        android:layout_marginRight="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/taskModuleLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/taskCourseLayout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:textStyle="bold"
+                        android:id="@+id/taskModuleTextTitle"
+                        android:text="MÓDULO: "
+                        android:layout_marginLeft="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:text="Projeto e Seminário "
+                        android:id="@+id/taskModuleText"
+                        android:layout_toEndOf="@+id/taskModuleTextTitle"
+                        android:layout_toRightOf="@+id/taskModuleTextTitle"
+                        android:layout_marginRight="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/taskToolsLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/taskModuleLayout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:textStyle="bold"
+                        android:id="@+id/taskToolsTextTitle"
+                        android:text="FERRAMENTA: "
+                        android:layout_marginLeft="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:text="Entrega de Fases"
+                        android:id="@+id/taskToolsText"
+                        android:layout_toEndOf="@+id/taskToolsTextTitle"
+                        android:layout_toRightOf="@+id/taskToolsTextTitle"
+                        android:layout_marginRight="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/taskTitleLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/taskToolsLayout">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:textStyle="bold"
+                        android:id="@+id/taskTitleTextTitle"
+                        android:text="TÍTULO: "
+                        android:layout_marginLeft="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:layout_marginBottom="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                        android:text="F1 - Levantamento de Requisitos"
+                        android:id="@+id/taskTitleText"
+                        android:layout_toEndOf="@+id/taskTitleTextTitle"
+                        android:layout_toRightOf="@+id/taskTitleTextTitle"
+                        android:layout_marginRight="@dimen/fab_margin"
+                        android:layout_marginTop="@dimen/margin"
+                        android:layout_marginBottom="@dimen/margin"
+                        android:textColor="@color/colorPrimaryText" />
+
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

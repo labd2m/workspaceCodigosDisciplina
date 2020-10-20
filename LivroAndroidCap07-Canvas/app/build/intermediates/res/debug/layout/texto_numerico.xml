@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#ffffff"
+>
+	<TextView
+		android:layout_width="fill_parent" android:layout_height="wrap_content" 
+		android:text="Digite um numero"
+		android:textColor="#000000"
+	/>
+	<br.livro.android.cap7.canvas.view.TextoNumerico
+		android:id="@+id/n1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:numeric="integer"
+	/>
+	<Button
+		android:id="@+id/ok"
+		android:layout_width="wrap_content"	android:layout_height="wrap_content" 
+		android:text="OK"
+	/>
+</LinearLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap07-Canvas/app/src/main/res/layout/texto_numerico.xml -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical"
+>
+<TextView
+	android:layout_width="fill_parent" android:layout_height="wrap_content" 
+	android:text="Texto:"
+/>
+<EditText
+	android:id="@+id/texto"
+	android:layout_width="fill_parent" android:layout_height="wrap_content" 
+	android:text=""
+/>
+<Button
+	android:id="@+id/btSalvar"
+	android:layout_width="wrap_content"	android:layout_height="wrap_content"
+	android:text="Salvar" 
+/>
+<Button
+	android:id="@+id/btDeletar"
+	android:layout_width="wrap_content"	android:layout_height="wrap_content"
+	android:text="Deletar" 
+/>
+<TextView
+	android:id="@+id/arquivo"
+	android:layout_width="fill_parent" android:layout_height="wrap_content" 
+	android:text="Texto será adicionado aqui"
+	android:background="#cccccc"
+	android:textColor="#000000"
+/>
+</LinearLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap14-Arquivos/app/src/main/res/layout/form_arquivo.xml -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ExemploNavegacaoParametro/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ExemploNavegacaoParametro/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">helloWorld1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lucas">Lucas</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello">ID Botão</string>
+    <string name="title_activity_tela2">Tela2</string>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ExemploNavegacaoParametro/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

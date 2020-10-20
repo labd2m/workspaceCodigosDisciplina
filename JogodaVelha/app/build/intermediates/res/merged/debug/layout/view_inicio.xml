@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper" 
+    android:gravity="top">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/inicio" />
+
+    <Button
+        android:id="@+id/JogarAndroid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="Jogar Sozinho"
+        android:background="@drawable/botao"
+        android:onClick="JogarAndroid" />
+
+    <Button
+        android:id="@+id/JogarPlayer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView1"
+        android:layout_alignRight="@+id/imageView1"
+        android:text="Multi Jogadores"
+        android:background="@drawable/botao"
+        android:onClick="JogarPlayer" />
+
+</RelativeLayout>

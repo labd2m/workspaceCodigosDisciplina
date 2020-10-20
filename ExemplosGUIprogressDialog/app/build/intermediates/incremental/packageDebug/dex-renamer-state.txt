@@ -1,0 +1,4 @@
+#Wed Aug 19 18:01:15 BRT 2020
+base.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIprogressDialog/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

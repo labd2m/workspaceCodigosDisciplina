@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.livro.android.cap16"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="2"
+        android:targetSdkVersion="2" />
+
+    <!-- Permissões GPS -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" >
+
+        <!-- Maps -->
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:name="br.livro.android.cap16.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.livro.android.cap16.mapview.Menu" />
+        <activity android:name="br.livro.android.cap16.mapview.MapaSimples" />
+        <activity android:name="br.livro.android.cap16.mapview.MapaSimplesXML" />
+        <activity android:name="br.livro.android.cap16.mapview.MapaSimplesCoordenada" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploCentralizaPonto" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploSatelite" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploMapaCristo" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploZoom" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploZoomControl" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploOverlay" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploBolaOverlay" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploImagemOverlay" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploItemOverlay" />
+        <activity android:name="br.livro.android.cap16.mapview.TelaFormCoordenadas" />
+        <activity android:name="br.livro.android.cap16.mapview.TelaFormEndereco" />
+        <activity android:name="br.livro.android.cap16.mapview.ExemploMapaCapa" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="br.livro.android.cap16.mapview.intent.Menu" />
+        <activity
+            android:name="br.livro.android.cap16.mapview.intent.ExemploDirecoes"
+            android:label="Rota" />
+        <activity
+            android:name="br.livro.android.cap16.mapview.intent.ExemploDirecoesGoogleMaps"
+            android:label="Coordenada" />
+        <activity
+            android:name="br.livro.android.cap16.mapview.intent.ExemploMcDonaldsGoogleMaps"
+            android:label="McDonalds" />
+        <activity android:name="br.livro.android.cap16.gps.Menu" />
+        <activity android:name="br.livro.android.cap16.gps.ExemploAndandoRua" />
+        <activity android:name="br.livro.android.cap16.gps.ExemploAndandoRuaFake" />
+        <activity android:name="br.livro.android.cap16.gps.ExemploAndandoRuaMyLocation" />
+        <activity android:name="br.livro.android.cap16.gps.LocationProviderList" />
+        <activity android:name="br.livro.android.cap16.gps.LogaCoordenadas" />
+        <activity android:name="br.livro.android.cap16.rota.Menu" />
+        <activity android:name="br.livro.android.cap16.rota.ExemploRotaSimples" />
+        <activity android:name="br.livro.android.cap16.rota.ExemploRotaBuscaGoogle" />
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:stretchColumns="1"
+>
+	<TextView android:text="Lista de Produtos"  />
+	<View android:layout_height="2dip" android:background="#FF909090" />
+	<TableRow>
+		<TextView android:text="Produto A"  />
+		<TextView android:text="R$100,00"   android:layout_gravity="right" />
+	</TableRow>
+	<TableRow>
+		<TextView android:text="Produto B"  />
+		<TextView android:text="R$200,00"  android:layout_gravity="right" />
+	</TableRow>
+	<TableRow>
+		<TextView android:text="Produto C"  />
+		<TextView android:text="R$300,00" android:layout_gravity="right"  />
+	</TableRow>
+	<View android:layout_height="2dip" android:background="#FF909090" />
+	<LinearLayout 	
+		android:layout_width="wrap_content" android:layout_height="fill_parent"
+		android:gravity="bottom" >
+		<Button 	android:layout_width="wrap_content"
+					android:layout_height="35dip" android:text="  Cancelar  "  />
+		<Button 	android:layout_width="wrap_content"
+					android:layout_height="35dip" android:text="  Comprar  "  />
+	</LinearLayout>
+</TableLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/ExemplosGUIlayout/app/src/main/res/layout/table_layout_stretch.xml -->

@@ -1,0 +1,58 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:4:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:41
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:5:2
+	android:icon
+		ADDED from AndroidManifest.xml:5:15
+	android:theme
+		ADDED from AndroidManifest.xml:5:45
+activity#br.livro.android.cap14.banco.CadastroCarros
+ADDED from AndroidManifest.xml:6:3
+	android:label
+		ADDED from AndroidManifest.xml:6:44
+	android:name
+		ADDED from AndroidManifest.xml:6:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:7:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:8:5
+	android:name
+		ADDED from AndroidManifest.xml:8:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:9:5
+	android:name
+		ADDED from AndroidManifest.xml:9:15
+activity#br.livro.android.cap14.banco.EditarCarro
+ADDED from AndroidManifest.xml:12:3
+	android:label
+		ADDED from AndroidManifest.xml:12:41
+	android:name
+		ADDED from AndroidManifest.xml:12:13
+activity#br.livro.android.cap14.banco.BuscarCarro
+ADDED from AndroidManifest.xml:13:3
+	android:label
+		ADDED from AndroidManifest.xml:13:41
+	android:name
+		ADDED from AndroidManifest.xml:13:13
+uses-sdk
+ADDED from AndroidManifest.xml:15:2
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:15:12
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

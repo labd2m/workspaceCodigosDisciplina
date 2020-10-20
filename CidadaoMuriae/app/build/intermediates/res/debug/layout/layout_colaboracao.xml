@@ -1,0 +1,267 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    tools:ignore="HardcodedText" >
+        
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:descendantFocusability="beforeDescendants"
+	android:focusableInTouchMode="true"
+    android:background="#000000">
+
+    <EditText
+        android:id="@+id/edt_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/btnSync"
+        android:ems="10"
+        android:layout_marginRight="5dp"
+        android:hint="Título"
+        android:inputType="textCapSentences"
+        android:maxLength="50"
+        android:singleLine="true"
+        android:textColor="#727272"
+        android:textCursorDrawable="@null" >
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/edt_resumo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/edt_titulo"
+        android:layout_below="@+id/edt_titulo"
+        android:ems="10"
+        android:hint="Descrição"
+        android:lines="4"
+        android:maxLength="150"
+        android:selectAllOnFocus="true"
+        android:textColor="#727272"
+        android:textCursorDrawable="@null" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_resumo"
+        android:layout_centerHorizontal="true" >
+
+       	<TextView
+            android:id="@+id/multimidiaColaboracao"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:layout_marginTop="7dp"
+            android:text="Multimídia:"
+            android:textColor="#ffffff"
+            android:textStyle="bold|normal|italic"
+            android:gravity="center_vertical|right"
+            android:textSize="16sp"
+            android:visibility="invisible"/>
+        
+        <ImageButton
+            android:id="@+id/ib_foto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:onClick="eventofoto"
+            android:scaleType="fitCenter"
+            android:src="@drawable/camerazaul"
+            tools:ignore="ContentDescription"
+            android:visibility="invisible"
+            android:clickable="false"  />
+
+        <ImageButton
+            android:id="@+id/ib_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:onClick="eventovideo"
+            android:scaleType="fitCenter"
+            android:src="@drawable/videoazul"
+            android:visibility="gone"
+            android:clickable="false" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tituloSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="3dp"
+        android:text="Categoria:"
+        android:textStyle="bold|italic"
+        android:textColor="#33B5E5"
+        android:textSize="16sp" />
+
+    <Spinner
+        android:id="@+id/spin_categoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tituloSobre"
+        android:entries="@array/lista_categorias"
+        android:spinnerMode="dialog" 
+        android:background="#000000"
+        />
+
+    <TextView
+        android:id="@+id/versaoSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spin_categoria"
+        android:layout_marginTop="3dp"
+        android:text="Tipo:"
+        android:textSize="16sp"
+        android:textColor="#33B5E5"
+        android:textStyle="bold|italic" />
+
+    <Spinner
+        android:id="@+id/spin_subcategoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/versaoSobre"
+        android:spinnerMode="dialog"
+        android:background="#000000"
+        />
+    
+    <TextView
+        android:id="@+id/direitosSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spin_subcategoria"
+        android:layout_marginTop="3dp"
+        android:text="Informações de Usuário:"
+		android:textSize="16sp"
+        android:textColor="#33B5E5"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/tv_usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/direitosSobre"
+        android:layout_below="@+id/direitosSobre"
+        android:layout_marginTop="2dp"
+        android:textColor="#b5b5b5"
+        android:text="Usuário:" />
+    
+    <TextView
+        android:id="@+id/tv_lat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_usuario"
+        android:layout_marginTop="2dp"
+        android:layout_alignLeft="@+id/tv_usuario"
+        android:textColor="#b5b5b5"
+        android:text="Latitude : ..." />
+    
+    <TextView
+        android:id="@+id/tv_long"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_lat"
+        android:layout_marginTop="2dp"
+        android:layout_alignLeft="@+id/tv_usuario"
+        android:textColor="#b5b5b5"
+        android:text="Longitude : ..." />
+
+    <Button
+        android:id="@+id/bt_logout"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv_long"
+        android:layout_marginTop="10dp"
+        android:onClick="eventologout"
+        android:text="Logout"
+        android:background="@drawable/fundobotaopadrao"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+ />
+
+    <Button
+        android:id="@+id/bt_mapa"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignBaseline="@+id/bt_logout"
+        android:layout_alignBottom="@+id/bt_logout"
+        android:layout_centerHorizontal="true"
+        android:onClick="eventomapa"
+        android:text="Mapa"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:background="@drawable/fundobotaopadrao"
+        android:textStyle="bold"
+         />
+    
+      <Button
+        android:id="@+id/bt_salvar"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignBaseline="@+id/bt_logout"
+        android:layout_alignBottom="@+id/bt_logout"
+        android:layout_alignParentRight="true"
+        android:onClick="eventosalvar"
+        android:text="Salvar"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:background="@drawable/fundobotaopadrao"
+        android:textStyle="bold"
+         />
+      
+       <Button
+        android:id="@+id/bt_enviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bt_salvar"
+        android:layout_alignLeft="@+id/bt_salvar"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/roundshapebtn"
+        android:onClick="eventoenviar"
+        android:padding="12dp"
+        android:text="Enviar"
+        android:textColor="#ffffff"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+       
+       <ImageButton
+           android:id="@+id/btnSync"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+           android:layout_alignParentTop="true"
+           android:background="@null"
+           android:onClick="eventosync"
+           android:visibility="invisible"
+           android:clickable="false"
+           android:src="@drawable/sync_icon_white" />
+    
+<requestFocus/> 
+</RelativeLayout>
+</ScrollView> <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/CidadaoMuriae/app/src/main/res/layout/layout_colaboracao.xml -->

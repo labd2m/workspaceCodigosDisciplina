@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent" >
+	<TextView
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:text="Nome" android:textColor="#000000" />
+	<EditText
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		 />
+	<TextView
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:text="Email" android:textColor="#000000" />
+	<EditText
+		android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	<TextView
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:text="Observações" android:textColor="#000000" />
+	<EditText
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_weight="1" />
+	<Button
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:text="Enviar" />
+</LinearLayout><!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap06-Layout/app/src/main/res/layout/linear_layout_form.xml -->

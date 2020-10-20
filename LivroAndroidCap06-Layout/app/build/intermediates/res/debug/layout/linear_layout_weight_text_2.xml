@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" >
+<EditText android:layout_weight="3"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+ 		android:text="Texto (weight=3)"
+        />
+<EditText android:layout_weight="2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Texto (weight=2)"
+        />
+<EditText android:layout_weight="3" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+        android:text="Texto (weight=3)"
+        />
+</LinearLayout>
+<!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/LivroAndroidCap06-Layout/app/src/main/res/layout/linear_layout_weight_text_2.xml -->

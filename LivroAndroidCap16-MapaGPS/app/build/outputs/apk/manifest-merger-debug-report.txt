@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:8:2
+	android:name
+		ADDED from AndroidManifest.xml:8:19
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from AndroidManifest.xml:9:2
+	android:name
+		ADDED from AndroidManifest.xml:9:19
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:10:2
+	android:name
+		ADDED from AndroidManifest.xml:10:19
+application
+ADDED from AndroidManifest.xml:12:2
+	android:label
+		ADDED from AndroidManifest.xml:12:45
+	android:icon
+		ADDED from AndroidManifest.xml:12:15
+	android:theme
+		ADDED from AndroidManifest.xml:12:78
+uses-library#com.google.android.maps
+ADDED from AndroidManifest.xml:15:3
+	android:name
+		ADDED from AndroidManifest.xml:15:17
+activity#br.livro.android.cap16.Menu
+ADDED from AndroidManifest.xml:17:3
+	android:label
+		ADDED from AndroidManifest.xml:17:34
+	android:name
+		ADDED from AndroidManifest.xml:17:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:18:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:15
+activity#br.livro.android.cap16.mapview.Menu
+ADDED from AndroidManifest.xml:24:3
+	android:name
+		ADDED from AndroidManifest.xml:24:13
+activity#br.livro.android.cap16.mapview.MapaSimples
+ADDED from AndroidManifest.xml:25:3
+	android:name
+		ADDED from AndroidManifest.xml:25:13
+activity#br.livro.android.cap16.mapview.MapaSimplesXML
+ADDED from AndroidManifest.xml:26:3
+	android:name
+		ADDED from AndroidManifest.xml:26:13
+activity#br.livro.android.cap16.mapview.MapaSimplesCoordenada
+ADDED from AndroidManifest.xml:27:3
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+activity#br.livro.android.cap16.mapview.ExemploCentralizaPonto
+ADDED from AndroidManifest.xml:29:3
+	android:name
+		ADDED from AndroidManifest.xml:29:13
+activity#br.livro.android.cap16.mapview.ExemploSatelite
+ADDED from AndroidManifest.xml:30:3
+	android:name
+		ADDED from AndroidManifest.xml:30:13
+activity#br.livro.android.cap16.mapview.ExemploMapaCristo
+ADDED from AndroidManifest.xml:31:3
+	android:name
+		ADDED from AndroidManifest.xml:31:13
+activity#br.livro.android.cap16.mapview.ExemploZoom
+ADDED from AndroidManifest.xml:32:3
+	android:name
+		ADDED from AndroidManifest.xml:32:13
+activity#br.livro.android.cap16.mapview.ExemploZoomControl
+ADDED from AndroidManifest.xml:33:3
+	android:name
+		ADDED from AndroidManifest.xml:33:13
+activity#br.livro.android.cap16.mapview.ExemploOverlay
+ADDED from AndroidManifest.xml:34:3
+	android:name
+		ADDED from AndroidManifest.xml:34:13
+activity#br.livro.android.cap16.mapview.ExemploBolaOverlay
+ADDED from AndroidManifest.xml:35:3
+	android:name
+		ADDED from AndroidManifest.xml:35:13
+activity#br.livro.android.cap16.mapview.ExemploImagemOverlay
+ADDED from AndroidManifest.xml:36:3
+	android:name
+		ADDED from AndroidManifest.xml:36:13
+activity#br.livro.android.cap16.mapview.ExemploItemOverlay
+ADDED from AndroidManifest.xml:37:3
+	android:name
+		ADDED from AndroidManifest.xml:37:13
+activity#br.livro.android.cap16.mapview.TelaFormCoordenadas
+ADDED from AndroidManifest.xml:38:3
+	android:name
+		ADDED from AndroidManifest.xml:38:13
+activity#br.livro.android.cap16.mapview.TelaFormEndereco
+ADDED from AndroidManifest.xml:39:3
+	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#br.livro.android.cap16.mapview.ExemploMapaCapa
+ADDED from AndroidManifest.xml:40:3
+	android:name
+		ADDED from AndroidManifest.xml:40:13
+intent-filter#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:41:4
+activity#br.livro.android.cap16.mapview.intent.Menu
+ADDED from AndroidManifest.xml:45:3
+	android:name
+		ADDED from AndroidManifest.xml:45:13
+activity#br.livro.android.cap16.mapview.intent.ExemploDirecoes
+ADDED from AndroidManifest.xml:46:3
+	android:label
+		ADDED from AndroidManifest.xml:46:60
+	android:name
+		ADDED from AndroidManifest.xml:46:13
+activity#br.livro.android.cap16.mapview.intent.ExemploDirecoesGoogleMaps
+ADDED from AndroidManifest.xml:47:3
+	android:label
+		ADDED from AndroidManifest.xml:47:70
+	android:name
+		ADDED from AndroidManifest.xml:47:13
+activity#br.livro.android.cap16.mapview.intent.ExemploMcDonaldsGoogleMaps
+ADDED from AndroidManifest.xml:48:3
+	android:label
+		ADDED from AndroidManifest.xml:48:71
+	android:name
+		ADDED from AndroidManifest.xml:48:13
+activity#br.livro.android.cap16.gps.Menu
+ADDED from AndroidManifest.xml:50:3
+	android:name
+		ADDED from AndroidManifest.xml:50:13
+activity#br.livro.android.cap16.gps.ExemploAndandoRua
+ADDED from AndroidManifest.xml:51:3
+	android:name
+		ADDED from AndroidManifest.xml:51:13
+activity#br.livro.android.cap16.gps.ExemploAndandoRuaFake
+ADDED from AndroidManifest.xml:52:3
+	android:name
+		ADDED from AndroidManifest.xml:52:13
+activity#br.livro.android.cap16.gps.ExemploAndandoRuaMyLocation
+ADDED from AndroidManifest.xml:53:3
+	android:name
+		ADDED from AndroidManifest.xml:53:13
+activity#br.livro.android.cap16.gps.LocationProviderList
+ADDED from AndroidManifest.xml:54:3
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+activity#br.livro.android.cap16.gps.LogaCoordenadas
+ADDED from AndroidManifest.xml:55:3
+	android:name
+		ADDED from AndroidManifest.xml:55:13
+activity#br.livro.android.cap16.rota.Menu
+ADDED from AndroidManifest.xml:57:3
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#br.livro.android.cap16.rota.ExemploRotaSimples
+ADDED from AndroidManifest.xml:58:3
+	android:name
+		ADDED from AndroidManifest.xml:58:13
+activity#br.livro.android.cap16.rota.ExemploRotaBuscaGoogle
+ADDED from AndroidManifest.xml:59:3
+	android:name
+		ADDED from AndroidManifest.xml:59:13
+uses-sdk
+ADDED from AndroidManifest.xml:63:2
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:63:12
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

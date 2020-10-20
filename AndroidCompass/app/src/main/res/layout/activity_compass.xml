@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lucasvegi.androidcompass.Compass">
+
+    <TextView
+        android:id="@+id/idX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:text="X: " />
+
+    <TextView
+        android:id="@+id/idY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idX"
+        android:layout_below="@id/idX"
+        android:layout_marginTop="15dp"
+        android:text="Y: " />
+
+    <TextView
+        android:id="@+id/idZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idY"
+        android:layout_below="@id/idY"
+        android:layout_marginTop="15dp"
+        android:text="Z: "/>
+
+    <TextView
+        android:id="@+id/direcao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idZ"
+        android:layout_below="@id/idZ"
+        android:layout_marginTop="15dp"
+        android:text="Direção: "/>
+
+    <TextView
+        android:id="@+id/degrees"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/direcao"
+        android:layout_below="@id/direcao"
+        android:layout_marginTop="15dp"
+        android:text="Degrees: "/>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayerVideo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_player_video">PlayerVideo</string>
+    <string name="title_activity_selecao_video">SelecaoVideo</string>
+    <string name="title_activity_descricao_video">DescricaoVideo</string>
+
+    <!-- COLOCAREMOS AQUI UMA CONSTANTE DE DESCRIÇÃO PARA CADA PROCDIMENTO -->
+    <string name="descricao_massagem">O procedimento para a MASSAGEM é deve ser bla bla bla bla.....\n...\n..\n..\n...</string>
+    <string name="descricao_desfibrilador">O procedimento para o uso do DESFIBRILADOR é deve ser bla bla bla bla.....\n...\n..\n..\n...</string>
+</resources>

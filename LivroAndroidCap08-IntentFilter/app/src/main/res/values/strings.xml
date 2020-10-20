@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cap8-IntentFilter</string>
+    <string name="permissionLabel">Minha permissão</string>
+    <string name="permissionDesc">Esta permissão é permitir este teste</string>
+</resources>

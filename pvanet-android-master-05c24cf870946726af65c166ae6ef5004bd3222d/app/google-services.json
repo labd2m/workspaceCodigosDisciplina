@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382166106153",
+    "firebase_url": "https://pvanet-mobile.firebaseio.com",
+    "project_id": "pvanet-mobile",
+    "storage_bucket": "pvanet-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382166106153:android:7938fdc26a51419a",
+        "android_client_info": {
+          "package_name": "com.ufvmobile.pvanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382166106153-q1ifem7quk5d5852s9ke4ji8a4pdrn9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE8bIcCbpISd6QEKoPgbjhdaPblgWuNC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

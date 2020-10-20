@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/DemoArquivoTexto/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/DemoArquivoTexto/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DemoArquivoTexto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_salva_le_arquivo">SalvaLeArquivo</string>
+    <!-- From: file:/C:/Users/Lucas/AndroidStudioProjects/DemoArquivoTexto/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

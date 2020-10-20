@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\MultiSound\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\MultiSound\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\MultiSound\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\MultiSound\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

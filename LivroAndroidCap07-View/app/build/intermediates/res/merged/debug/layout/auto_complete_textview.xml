@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="vertical">
+	
+	<TextView 
+		android:layout_width="wrap_content" android:layout_height="wrap_content" 
+		android:text="Estados" />
+	
+	<AutoCompleteTextView android:id="@+id/estados"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"		
+		android:completionThreshold="1" 
+		android:textColor="#000000"
+		/>
+							<!-- android:completionThreshold -->
+	<!-- numero de letras que o usuário precisa digitar para iniciar o autopreenchimento -->
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_crashed.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\src\\main\\res\\drawable\\lander_crashed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_firing.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\src\\main\\res\\drawable\\lander_firing.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lander_plain.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\src\\main\\res\\drawable\\lander_plain.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_lunar_lander.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\LunarLander\\app\\src\\main\\res\\drawable\\app_lunar_lander.png"
+    }
+]
