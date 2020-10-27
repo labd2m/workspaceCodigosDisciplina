@@ -5,7 +5,22 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6beea7af-71f0-4bba-9425-c44343407230" name="Default" comment="" />
+    <list default="true" id="6beea7af-71f0-4bba-9425-c44343407230" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../CicloDeVidaApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CicloDeVidaApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColetAPP" beforeDir="false" afterPath="$PROJECT_DIR$/../ColetAPP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EcoPointsRoute" beforeDir="false" afterPath="$PROJECT_DIR$/../EcoPointsRoute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/lucas/vegi/helloworld/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/lucas/vegi/helloworld/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld2019" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld2019" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OramaOperacoes" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaOperacoes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OramaSenha" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaSenha" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGoClone" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGoClone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGoCloneOffline" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGoCloneOffline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VidaMemoria-Android" beforeDir="false" afterPath="$PROJECT_DIR$/../VidaMemoria-Android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ufveventosandroid" beforeDir="false" afterPath="$PROJECT_DIR$/../ufveventosandroid" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -49,6 +67,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gKWiCktHuFCcP78U6Q27a08l5A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

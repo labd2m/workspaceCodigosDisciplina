@@ -6,12 +6,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3946a63d-305e-45cd-abe0-f43617051d9b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/controller/ActivityObserverMetros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/controller/ActivityObserverQuilometros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/model/Localizacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/util/LocationServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/util/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/util/RequestPermissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/java/android/teste/lucasvegi/exemploobservermvc/util/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/res/layout/activity_observer_metros.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploObserverMVC/app/src/main/res/layout/activity_observer_quilometros.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CicloDeVidaApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CicloDeVidaApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ColetAPP" beforeDir="false" afterPath="$PROJECT_DIR$/../ColetAPP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EcoPointsRoute" beforeDir="false" afterPath="$PROJECT_DIR$/../EcoPointsRoute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/app/src/main/java/lucas/vegi/helloworld/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/app/src/main/java/lucas/vegi/helloworld/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld2019" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OramaOperacoes" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaOperacoes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OramaSenha" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaSenha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PokemonGoClone" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGoClone" afterDir="false" />
@@ -252,7 +271,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

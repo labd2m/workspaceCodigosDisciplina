@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.ActivityObserverMetros">
+
+    <TextView
+        android:id="@+id/tituloViewMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="50dp"
+        android:text="OBSERVADOR COM VALORES EM METROS:"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/labelLatitudeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tituloViewMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Latitude: " />
+
+    <TextView
+        android:id="@+id/LatitudeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelLatitudeMetros"
+        android:layout_alignBottom="@+id/labelLatitudeMetros"
+        android:text="..." />
+
+    <TextView
+        android:id="@+id/labelLongitudeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelLatitudeMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Longitude: " />
+
+    <TextView
+        android:id="@+id/LongitudeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelLongitudeMetros"
+        android:layout_alignBottom="@+id/labelLongitudeMetros"
+        android:text="..." />
+
+    <TextView
+        android:id="@+id/labelAlturaMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelLongitudeMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Altura: " />
+
+    <TextView
+        android:id="@+id/AlturaMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelAlturaMetros"
+        android:layout_alignBottom="@+id/labelAlturaMetros"
+        android:text="..." />
+
+    <TextView
+        android:id="@+id/labelPrecisaoMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelAlturaMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Precisão: " />
+
+    <TextView
+        android:id="@+id/PrecisaoMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelPrecisaoMetros"
+        android:layout_alignBottom="@+id/labelPrecisaoMetros"
+        android:text="..." />
+
+    <TextView
+        android:id="@+id/labelVelocidadeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelPrecisaoMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Velocidade: " />
+
+    <TextView
+        android:id="@+id/VelocidadeMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelVelocidadeMetros"
+        android:layout_alignBottom="@+id/labelVelocidadeMetros"
+        android:text="..." />
+
+    <TextView
+        android:id="@+id/labelDistanciaMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelVelocidadeMetros"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:text="Distancia: " />
+
+    <TextView
+        android:id="@+id/DistanciaMetros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelDistanciaMetros"
+        android:layout_alignBottom="@+id/labelDistanciaMetros"
+        android:text="..." />
+
+</RelativeLayout>
