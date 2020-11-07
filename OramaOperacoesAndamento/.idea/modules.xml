@@ -5,9 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/OperacoesAndamento.iml" filepath="$PROJECT_DIR$/OperacoesAndamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperacoesAndamento-2908.iml" filepath="$PROJECT_DIR$/OperacoesAndamento-2908.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperacoesAndamento-CancelamentoResgate.iml" filepath="$PROJECT_DIR$/OperacoesAndamento-CancelamentoResgate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OramaOperacoes.iml" filepath="$PROJECT_DIR$/.idea/modules/OramaOperacoes.iml" group="OramaOperacoes" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="OramaOperacoes/app" />
-      <module fileurl="file://$PROJECT_DIR$/operacoesemandamento/operacoesemandamento.iml" filepath="$PROJECT_DIR$/operacoesemandamento/operacoesemandamento.iml" group="OramaOperacoes/operacoesemandamento" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OramaOperacoesAndamento.iml" filepath="$PROJECT_DIR$/.idea/modules/OramaOperacoesAndamento.iml" group="OramaOperacoesAndamento" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="OramaOperacoesAndamento/app" />
+      <module fileurl="file://$PROJECT_DIR$/operacoesemandamento/operacoesemandamento.iml" filepath="$PROJECT_DIR$/operacoesemandamento/operacoesemandamento.iml" group="OramaOperacoesAndamento/operacoesemandamento" />
       <module fileurl="file://$PROJECT_DIR$/orama.iml" filepath="$PROJECT_DIR$/orama.iml" />
     </modules>
   </component>

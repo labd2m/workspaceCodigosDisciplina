@@ -9,41 +9,6 @@
     <list default="true" id="4ed3c783-6179-42bc-bb39-27fef52abc43" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../ColetAPP" beforeDir="false" afterPath="$PROJECT_DIR$/../ColetAPP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OramaSenha" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaSenha" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/androidTest/java/com/example/lucas/testeprojetoandroidstudio/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/java/com/example/lucas/testeprojetoandroidstudio/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/app/src/test/java/com/example/lucas/testeprojetoandroidstudio/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteProjetoAndroidStudio/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +37,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
-    <option name="y" value="62" />
-    <option name="width" value="1400" />
-    <option name="height" value="937" />
-  </component>
   <component name="ProjectId" id="1jwNfyUa7LlMUP3Yso97r2RhBX2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -86,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -203,7 +163,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
