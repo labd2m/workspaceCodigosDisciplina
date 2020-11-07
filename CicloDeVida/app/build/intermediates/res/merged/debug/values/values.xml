@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CicloDeVida</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tela2">Tela2</string>
+    <string name="title_activity_tela3">Tela3</string>
+    <string name="title_activity_test">Test</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
