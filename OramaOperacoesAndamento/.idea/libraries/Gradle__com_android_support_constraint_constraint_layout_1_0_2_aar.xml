@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.constraint:constraint-layout:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b891ca76bf9c24a8672b9d67c09228dc48c1782f/output/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b891ca76bf9c24a8672b9d67c09228dc48c1782f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b891ca76bf9c24a8672b9d67c09228dc48c1782f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,66 @@
+<resources>
+    <!--// GERAL-->
+    <string name="app_name">Operações em Andamento</string>
+    <string name="module_name">Operações em Andamento</string>
+    <string name="label_subconta">subconta: </string>
+    <!--// TELA PRINCIPAL-->
+    <string name="mainScreenText">Você possui operações em andamento nas seguintes categorias: </string>
+    <string name="fundsOperationsTopTitle">Operações em</string>
+    <string name="fundsOperationsBottomTitle">Fundos</string>
+    <string name="fixedIncomeTopTitle">Compra de</string>
+    <string name="fixedIncomeBottomTitle">Renda fixa</string>
+    <string name="checkingAccountWithdrawalTopTitle">Retirada de</string>
+    <string name="checkingAccountWithdrawalBottomTitle">Conta Corrente</string>
+    <string name="noOperationsInProgressTitle">Você não possui nenhuma operação em andamento</string>
+    <!--// TELA OPERACOES EM FUNDOS-->
+    <string name="applicationTitle">Aplicação</string>
+    <string name="redemptionTitle">Resgate</string>
+    <string name="applicationDataLabel">Data da aplicação: </string>
+    <string name="fundLabelName">Fundo: </string>
+    <string name="valueLabel">Valor: </string>
+    <string name="currencyLabel">R$ </string>
+    <string name="detailsLabel">Detalhes da aplicação: </string>
+    <string name="statusLabel">Status: </string>
+    <string name="applicationCancelButtonText">CANCELAR APLICAÇÃO</string>
+    <string name="noApplicationInProgressText">Você não possui nenhuma aplicação em andamento</string>
+    <string name="noRedemptionInProgessText">Você não possui nenhum resgate em andamento</string>
+    <!--// TELA COMPRA DE RENDA FIXA-->
+    <string name="purchaseDateLabel">Data da compra: </string>
+    <string name="titleLabel">Titulo: </string>
+    <string name="solicitationDateLabel">Data da solicitação: </string>
+    <string name="scheduleIndicatorLabel"> às </string>
+    <string name="purchaseCancelButtonText">CANCELAR COMPRA</string>
+    <!--// TELA RETIRADA EM CONTA CORRENTE-->
+    <string name="withdrawalDateLabel">Data da retirada: </string>
+    <string name="withdrawalDetailsLabel">Detalhes da retirada: </string>
+    <string name="withdrawalCancelButtonLabel">CANCELAR RETIRADA</string>
+    <!--// ALERTA CANCELAR COMPRA-->
+    <string name="purchaseCancelTitle">Cancelar compra</string>
+    <string name="purchaseCancelText">Você está cancelando a compra do título %1$s. Deseja confirmar o cancelamento?</string>
+    <string name="backButtonText">VOLTAR</string>
+    <string name="yesButtonText">SIM</string>
+    <!--// ALERTA CANCELAR APLICACAO-->
+    <string name="applicationCancelTitle">Cancelar aplicação</string>
+    <string name="applicationCancelText">Você está cancelando a aplicação %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA CANCELAR RESGATE-->
+    <string name="redemptionCancelTitle">Cancelar resgate</string>
+    <string name="redemptionCancelText">Você está cancelando o resgate da aplicação %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA CANCELAR RETIRADA-->
+    <string name="withdrawalCancelTitle">Cancelar retirada</string>
+    <string name="withdrawalCancelText">Você está cancelando a retirada solicitada no dia %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA DETALHES DA RETIRADA-->
+    <string name="withdrawalDetailsTitle">Detalhes da retirada</string>
+    <string name="bankLabel">Banco: </string>
+    <string name="branchLabel">Agência: </string>
+    <string name="accountLabel">Conta: </string>
+    <string name="typeLabel">Tipo: </string>
+    <string name="jointAccountLabel">Conjunta: </string>
+    <string name="okButtonLabel">OK</string>
+    <!--// ALERTA DETALHES DO RESGATE-->
+    <string name="redemptionDetailsTilte">Detalhes do resgate</string>
+    <string name="redemptionConvertionLabel">Conversão de resgate: </string>
+    <string name="redemptionPaymentLabel">Pagamento do resgate em sua subconta: </string>
+    <string name="earlyLabel">Antecipado: </string>
+    <!--// ALERTA DETALHES DA APLICACAO-->
+    <string name="quotaDate">Data da cotização: </string>
+</resources>

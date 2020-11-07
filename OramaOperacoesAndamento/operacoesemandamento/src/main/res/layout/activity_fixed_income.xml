@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="orama.ufv.br.operacoesemandamento.view.FixedIncomeActivity"
+    android:background="@color/backgroundTop">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:id="@+id/appBarRF">
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutSuperiorRendaFixa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@color/backgroundTop"
+        android:layout_marginTop="@dimen/subaccountMargin"
+        android:layout_marginLeft="@dimen/subaccountMargin"
+        android:layout_marginBottom="@dimen/subaccountMargin">
+
+        <TextView
+            android:id="@+id/tvSubContasRendaFixa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lsubAccountLabel"
+            style="@style/subconta_style"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_notifications_style"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/topSpinner"
+        android:layout_marginBottom="@dimen/topSpinner"
+        android:layout_above="@id/r2">
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dialog"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cardviewHeight"
+        android:id="@+id/r2"
+        android:layout_below="@+id/layoutSuperiorRendaFixa"
+        android:background="@color/cardsBackground">
+
+        <RelativeLayout xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+
+            android:id="@+id/card_view_RendaFixa"
+            android:layout_centerHorizontal="true"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/borders"
+            android:layout_marginBottom="@dimen/borders"
+            android:layout_gravity="center"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_centerVertical="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/imageLeft"
+                    android:layout_marginRight="@dimen/imageRight"
+                    android:src="@drawable/ic_fixed_income"
+                    android:id="@+id/imgRendaFixa"
+                    />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/imgRendaFixa">
+                    <TextView
+                        android:id="@+id/tvOperacaopt1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fixedIncomeTopTitle"
+                        style="@style/nome_card_superior"
+                        />
+                    <TextView
+                        android:id="@+id/tvOperacaopt2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tvOperacaopt1"
+                        android:text="@string/fixedIncomeBottomTitle"
+                        style="@style/nome_card_inferior_renda_fixa"/>
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/r2">
+
+        <FrameLayout android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:background="@color/cardsBackground">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/cardsBackground"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+
+                <ImageView
+                    android:id="@+id/imgNotFound"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_noting_found"
+                    android:layout_marginBottom="@dimen/cardviewMargin"/>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center">
+                    <TextView
+                        android:id="@+id/tituloCard"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/noFixedIncomeInProgessText"
+                        style="@style/texto_inicial_style"
+                        android:gravity="center"
+                        android:layout_centerHorizontal="true"/>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <ScrollView
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/my_recycler_view1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/cardsBackground"
+                        android:layout_gravity="center">
+                    </android.support.v7.widget.RecyclerView>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cardviewSpace"
+                        android:background="@color/cardsBackground"
+                        android:layout_below="@+id/my_recycler_view1"
+                        />
+
+                </RelativeLayout>
+
+            </ScrollView>
+
+        </FrameLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

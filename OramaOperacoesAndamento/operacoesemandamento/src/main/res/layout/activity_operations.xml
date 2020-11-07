@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="orama.ufv.br.operacoesemandamento.view.OperationsInProgressActivity"
+    android:background="@color/backgroundTop">
+
+
+        <TextView
+            android:id="@+id/tvSubContasOperacoes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lsubAccountLabel"
+            android:layout_marginTop="@dimen/subaccountMargin"
+            android:layout_marginLeft="@dimen/subaccountMargin"
+            android:layout_marginBottom="@dimen/subaccountMargin"
+            style="@style/subconta_style"/>
+
+        <RelativeLayout
+            android:id="@+id/layoutSpinnerOperacoes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tv_notifications_style"
+            android:layout_above="@+id/frameLayout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/topSpinner"
+            android:layout_marginBottom="@dimen/topSpinner"
+            >
+
+            <Spinner
+                android:id="@+id/spinnerOperacoes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dialog"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                />
+
+        </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@color/cardsBackground"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@id/tvSubContasOperacoes">
+
+        <LinearLayout
+            android:id="@+id/OperationsNotFound"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/cardsBackground"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imgNotFoundMain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_noting_found"
+                android:layout_marginBottom="@dimen/cardviewMargin"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+                <TextView
+                    android:id="@+id/tituloCardMain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/noOperationsInProgressTitle"
+                    style="@style/texto_inicial_style"
+                    android:gravity="center"
+                    android:layout_centerHorizontal="true"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/cardsBackground"
+            android:id="@+id/relativeLayout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTexto"
+                style="@style/texto_inicial_style"
+                android:text="@string/mainScreenText"
+                android:layout_marginLeft="@dimen/leftInitialText"
+                android:layout_marginRight="@dimen/rightInitialText"
+                android:layout_marginBottom="@dimen/bottomInitialText"
+                android:layout_marginTop="@dimen/topInitialText" />
+
+                    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+                        android:id="@+id/card_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cardviewHeight"
+                        card_view:cardCornerRadius="@dimen/cardviewRadius"
+                        android:layout_gravity="center"
+                        android:layout_centerHorizontal="true"
+                        android:clickable="true"
+                        android:onClick="cliqueFundos"
+                        android:elevation="@dimen/cardviewElevation"
+                        android:layout_marginLeft="@dimen/cardviewMargin"
+                        android:layout_marginRight="@dimen/cardviewMargin"
+                        android:layout_marginBottom="@dimen/cardviewMargin"
+                        android:layout_below="@+id/tvTexto">
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                            <ImageView
+                                android:layout_centerVertical="true"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/imageLeft"
+                                android:layout_marginRight="@dimen/imageRight"
+                                android:src="@drawable/ic_funds"
+                                android:id="@+id/imgFundos"
+                                />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_toRightOf="@+id/imgFundos">
+                                <TextView
+                                    android:id="@+id/tvOperacaopt1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="@string/fundsOperationsTopTitle"
+                                    style="@style/nome_card_superior"
+                                    />
+                                <TextView
+                                    android:id="@+id/tvOperacaopt2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@id/tvOperacaopt1"
+                                    android:text="@string/fundsOperationsBottomTitle"
+                                    style="@style/nome_card_inferior_fundos"/>
+                            </RelativeLayout>
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+                                <TextView
+                                    android:id="@+id/circularTextView"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="13"
+                                    style="@style/circularTextViewStyle"
+                                    android:gravity="center"
+                                    android:layout_marginRight="@dimen/circularTextView"
+                                    android:layout_marginTop="@dimen/circularTextView"
+                                    android:layout_alignParentRight="true"
+                                    android:background="@drawable/circular_text_view"
+                                    />
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+
+
+                        android:layout_below="@+id/card_view"
+                        android:layout_marginLeft="@dimen/cardviewMargin"
+                        android:layout_marginRight="@dimen/cardviewMargin"
+                        android:layout_marginBottom="@dimen/cardviewMargin"
+                        android:id="@+id/card_view2"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cardviewHeight"
+                        card_view:cardCornerRadius="@dimen/cardviewRadius"
+                        android:layout_gravity="center"
+                        android:layout_centerHorizontal="true"
+                        android:elevation="@dimen/cardviewElevation"
+                        android:clickable="true"
+                        android:onClick="cliqueRendaFixa">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+
+                                android:layout_centerVertical="true"
+                                android:id="@+id/imgRendaFixa"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/imageLeft"
+                                android:layout_marginRight="@dimen/imageRight"
+                                android:src="@drawable/ic_fixed_income"/>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_toRightOf="@+id/imgRendaFixa">
+
+                                <TextView
+                                    android:id="@+id/tvOperacaopt12"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="@string/fixedIncomeTopTitle"
+                                    style="@style/nome_card_superior" />
+
+                                <TextView
+                                    android:id="@+id/tvOperacaopt22"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@id/tvOperacaopt12"
+                                    android:text="@string/fixedIncomeBottomTitle"
+                                    style="@style/nome_card_inferior_renda_fixa" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:id="@+id/circularTextView2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="3"
+                                    style="@style/circularTextViewStyle"
+                                    android:gravity="center"
+                                    android:layout_marginRight="@dimen/circularTextView"
+                                    android:layout_marginTop="@dimen/circularTextView"
+                                    android:layout_alignParentRight="true"
+                                    android:background="@drawable/circular_text_view"   />
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+                        android:layout_below="@id/card_view2"
+                        android:layout_marginLeft="@dimen/cardviewMargin"
+                        android:layout_marginRight="@dimen/cardviewMargin"
+                        android:layout_marginBottom="@dimen/cardviewMargin"
+                        android:id="@+id/card_view3"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/cardviewHeight"
+                        card_view:cardCornerRadius="@dimen/cardviewRadius"
+                        android:layout_gravity="center"
+                        android:layout_centerHorizontal="true"
+                        android:elevation="@dimen/cardviewElevation"
+                        android:clickable="true"
+                        android:onClick="cliqueRetiradaCc">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                            <ImageView
+
+                                android:layout_centerVertical="true"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/imageCALeft"
+                                android:layout_marginRight="@dimen/imageCARight"
+                                android:src="@drawable/ic_checking_account"
+                                android:id="@+id/imgCc"
+                                />
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_toRightOf="@+id/imgCc">
+                                <TextView
+                                    android:id="@+id/tvOperacaopt13"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="@string/checkingAccountWithdrawalTopTitle"
+                                    style="@style/nome_card_superior"/>
+                                <TextView
+
+                                    android:id="@+id/tvOperacaopt23"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_below="@id/tvOperacaopt13"
+                                    style="@style/nome_card_inferior_conta_corrente"
+                                    android:text="@string/checkingAccountWithdrawalBottomTitle"/>
+                            </RelativeLayout>
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+                                <TextView
+                                    android:id="@+id/circularTextView3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="99+"
+                                    style="@style/circularTextViewStyle"
+                                    android:gravity="center"
+                                    android:background="@drawable/circular_text_view"
+                                    android:layout_marginRight="@dimen/circularTextView"
+                                    android:layout_marginTop="@dimen/circularTextView"
+                                    android:layout_alignParentRight="true"
+                                    />
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+        </RelativeLayout>
+    </FrameLayout>
+</RelativeLayout>

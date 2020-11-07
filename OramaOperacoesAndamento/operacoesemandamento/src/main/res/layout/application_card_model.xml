@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/cardviewSpace"
+    android:layout_marginLeft="@dimen/cardviewSpace"
+    android:layout_marginRight="@dimen/cardviewSpace"
+    card_view:cardCornerRadius="@dimen/cardviewRadius"
+    android:layout_gravity="center"
+    android:elevation="@dimen/cardviewElevation">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/backgroundTop"
+        android:layout_marginBottom="@dimen/cardviewMargin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop"
+            android:layout_marginBottom="@dimen/borders">
+
+            <ImageView
+                android:layout_width="@dimen/imageCardDimens"
+                android:layout_height="@dimen/imageCardDimens"
+                android:src="@drawable/ic_card_title"
+                android:layout_marginTop="@dimen/cardviewMargin"
+                android:layout_marginLeft="@dimen/cardviewMargin"
+                android:layout_marginBottom="@dimen/cardviewMargin"
+                android:layout_marginRight="@dimen/cardviewMargin"
+                android:layout_gravity="center"
+                />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tituloCard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text = "@string/cardTitle"
+                    android:layout_centerVertical="true"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginBottom="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/borders"
+            android:background="@color/cardsBackground"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tvDataAplicacao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/applicationDataLabel"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginLeft="@dimen/cardviewMargin"/>
+                <TextView
+                    android:id="@+id/tvConteudoDataResgate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/applicationDateLabel"
+                    style="@style/conteudoCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginRight="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tvFundo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fundLabelName"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginLeft="@dimen/cardviewMargin"/>
+                <TextView
+                    android:id="@+id/tvConteudoFundo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/fundValue"
+                    style="@style/conteudoCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginRight="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tvValor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/valueLabel"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginLeft="@dimen/cardviewMargin"/>
+                <TextView
+                    android:id="@+id/tvConteudoValor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/valueValue"
+                    style="@style/conteudoCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginRight="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:id="@+id/parent4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tvDetalhes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/detailsLabel"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginLeft="@dimen/cardviewMargin"/>
+                <TextView
+                    android:id="@+id/tvVisualizar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/viewLabel"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    style="@style/visualizarCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginRight="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:id="@+id/parent5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+                <TextView
+                    android:id="@+id/tvStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/statusLabel"
+                    style="@style/tituloCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginLeft="@dimen/cardviewMargin"/>
+                <TextView
+                    android:id="@+id/tvConteudoStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/statusValue"
+                    style="@style/conteudoCard"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_marginRight="@dimen/cardviewMargin"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:id="@+id/parent6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroundTop">
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/white_buttom_style"
+                    android:layout_marginTop="@dimen/cardviewMargin"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/dialogButtonMargin"
+                    android:layout_marginRight="@dimen/dialogButtonMargin"
+                    android:text="@string/applicationCancelButtonText" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>

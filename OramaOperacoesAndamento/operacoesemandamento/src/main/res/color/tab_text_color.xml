@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Controla a cor do texto da aba que esta em evidencia-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/greenText" android:state_selected="true"/>
+    <item android:color="@color/darkColorText"/>
+</selector>

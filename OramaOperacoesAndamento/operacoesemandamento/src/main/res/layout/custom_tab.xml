@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Faz uma aba ter dois texts views, sendo que um deles é a bola laranja do contador-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center">
+
+
+
+    <!--TODO: parametrizar-->
+        <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/tab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/applicationTitle"
+            style="@style/tab_style"
+            android:textColor="@color/tab_text_color"
+            android:textAllCaps="true"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="11dp"
+            android:layout_marginRight="5dp"
+            />
+
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/rl_c"
+    android:layout_toRightOf="@id/tab"
+    android:layout_marginTop="@dimen/tabTop">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/circular_textview_tab_style"
+        android:background="@drawable/circular_text_view"
+        android:gravity="center_vertical|center_horizontal"
+        />
+</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/backgroundTop">
+
+
+    <TextView
+        android:id="@+id/tvTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/applicationDetailTitle"
+        style="@style/tituloDialog"
+        android:layout_marginTop="@dimen/cardviewMargin"
+        android:layout_marginLeft="@dimen/dialogMargin"
+        android:layout_marginBottom="@dimen/dialogDistance"/>
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/tvTitulo"
+        android:background="@color/backgroundTop">
+
+        <RelativeLayout
+            android:id="@+id/rl1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+            <TextView
+                android:id="@+id/tvLabel1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/quotaDate"
+                style="@style/labelDialog"
+                android:layout_marginLeft="@dimen/dialogMargin"
+                android:layout_marginBottom="@dimen/dialogContentDistance"/>
+
+            <TextView
+                android:id="@+id/tvContent1"
+                style="@style/conteudoDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="@dimen/dialogContentDistance"
+                android:layout_marginRight="@dimen/dialogMargin"
+                android:gravity="right"
+                android:text="" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/ll1"
+        android:background="@color/backgroundTop">
+
+        <RelativeLayout
+            android:id="@+id/rl2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+            <TextView
+                android:id="@+id/tvLabel2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/requestDate"
+                style="@style/labelDialog"
+                android:layout_marginLeft="@dimen/dialogMargin"
+                android:layout_marginBottom="@dimen/dialogContentDistance"/>
+
+            <TextView
+                android:id="@+id/tvContent2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                style="@style/conteudoDialog"
+                android:gravity="right"
+                android:layout_marginBottom="@dimen/dialogContentDistance"
+                android:layout_marginRight="@dimen/dialogMargin"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/llButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/ll2"
+        android:background="@color/backgroundTop">
+
+        <RelativeLayout
+            android:id="@+id/rlButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+
+            <Button
+                android:id="@+id/buttonDialog"
+                android:minWidth="@dimen/zero"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dialogButtonHeight"
+                android:text="@string/okButtonLabel"
+                style="@style/buttonDialog"
+                android:gravity="center"
+                android:layout_marginRight="@dimen/dialogMargin"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:background="@android:color/transparent"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

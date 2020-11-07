@@ -1,0 +1,139 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="spinnerItemStyle" parent="android:Widget.TextView.SpinnerItem">
+    </style>
+
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyCustomTabText</item>
+        <item name="tabSelectedTextColor">@color/greenText</item>
+        <item name="tabIndicatorColor">@color/greenText</item>
+    </style>
+
+    <style name="MyCustomTabText" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">14sp</item> <!-- Valores não são levados em consideração por ser uma custom view-->
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="tab_style" parent="Widget.Design.TabLayout">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/greenText</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="circular_textview_tab_style" parent="Widget.Design.TabLayout">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/backgroundTop</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="subconta_style" parent="@android:style/TextAppearance">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/darkColorText</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+     <style name="spinner_style" parent="@android:style/TextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/label</item>
+         <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+
+
+    <style name="texto_inicial_style" parent="@android:style/TextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/lightColorText</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+
+    <style name="nome_card_superior" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/darkColorText</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="nome_card_inferior_fundos" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/fundsColorTitle</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="nome_card_inferior_renda_fixa" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/fixedIncomeTitle</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="nome_card_inferior_conta_corrente" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/checkingAccountColorTitle</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="circularTextViewStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/backgroundTop</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="tituloCard" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="conteudoCard" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="visualizarCard" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/greenText</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="tituloDialog" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/greenText</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="labelDialog" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="conteudoDialog" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/label</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="buttonDialog" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/greenText</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_90bc09ce6ff16768a4b301e4b9d8d40fc771e617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/0477910a065169a2db65e295e6a41de8d3b85693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_f7234a69c3c43500d08f69d0aa02398a9530f287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_29c5914852bc0cf808480830146e65b6716aa663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/85388466e03fcf19f7aa2b659f7fc6947063d88c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_c8c6649bfa3d29836ebf65d7590f93c92b02197f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/operacoesemandamento/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22aa47488a99e6d320b9560b1798cd12dc7bf5cf">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_bea56ecf132376ee3a3bd5f17b38ef600f44c337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/6af0ceea9924b914031fd4733fa9a5d43929b3a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_d52ac2274716b6c6060ac9ef9d539ecd54919967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/9f95be5f454ca1433b274dddfc93c37924ecd919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_32fe9d55e5a1c5cec5dca416f18c00cca8fcf899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/fcefa69f5de99ddf2733aa37db1be332a4012e94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_8503c8d432e97d5f08ec45d5eaef332291d161d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/73e85c9248380b081257f60371285febe7d41377/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_3ed00b839efd8247c8ebaf83cbc98f2b267cb467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/b891ca76bf9c24a8672b9d67c09228dc48c1782f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_41dc501b33fc5f8c105041ae445752710b790237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/ef303870e3b12877bd9fd8da2e6e9d7967be54f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_f4a7d65e107fd346a4f0edb55d7e2785f241c395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/8965e369247450f8352b0c0b1be490607d4f45ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_4c81412c35fa2a46202446c3d551f62176c7c9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/77b5dd56650a836bc6ef8140a68dcc04ca0fe012/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_f033ef5951f226060f5345d568587f73106c7602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/a4d48a415e87dabd4f8b4f5bf2203edbc08afbba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_08fe23cc82c2ab9ad0b8d6844ee6ef47d2cb3eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/636d907b9fea82eb190441c05cf957a45ca60262/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_644b768923984917e13f06cdbc73d3d99438c734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/f76406c277215c3dcdc16318c53bd9f77e8bbced/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_df3e478805bf78b5db3bbbf69e4a0e5e63a61587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasvegi/.android/build-cache/da9d614231cda15a219c7bb86d941fae4e7da7c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/OramaOperacoes/app/build/intermediates/pre-dexed/debug/classes_98bea20e9ff8ce883bec68b939a0e6e1f5384d3e.jar" />
+    </item>
+
+</items>

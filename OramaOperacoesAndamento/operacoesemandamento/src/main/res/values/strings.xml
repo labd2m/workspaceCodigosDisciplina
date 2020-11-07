@@ -1,0 +1,95 @@
+<resources>
+    <!--// GERAL-->
+    <string name="app_name">Operações em Andamento</string>
+    <string name="moduleName">Operações em Andamento</string>
+    <string name="lsubAccountLabel">subconta: </string>
+    <!--// TELA PRINCIPAL-->
+    <string name="mainScreenText">Você possui operações em andamento nas seguintes categorias: </string>
+    <string name="fundsOperationsTopTitle">Operações em</string>
+    <string name="fundsOperationsBottomTitle">Fundos</string>
+    <string name="fixedIncomeTopTitle">Compra de</string>
+    <string name="fixedIncomeBottomTitle">Renda fixa</string>
+    <string name="checkingAccountWithdrawalTopTitle">Retirada de</string>
+    <string name="checkingAccountWithdrawalBottomTitle">Conta Corrente</string>
+    <string name="noOperationsInProgressTitle">Você não possui nenhuma operação em andamento</string>
+    <string name="spinnerMain">Todas</string>
+    <string name="notificationLimit">99+</string>
+    <!--// TELA OPERACOES EM FUNDOS-->
+    <string name="applicationTitle">APLICAÇÃO</string>
+    <string name="cardTitle">%1$s</string>
+    <string name="redemptionTitle">RESGATE</string>
+    <string name="applicationDataLabel">Data da aplicação: </string>
+    <string name="redemptionDateLabel">Data do resgate: </string>
+    <string name="fundLabelName">Fundo: </string>
+    <string name="valueLabel">Valor: </string>
+    <string name="currencyLabel">R$ </string>
+    <string name="detailsLabel">Detalhes da aplicação: </string>
+    <string name="redemptionDetailsLabel">Detalhes do resgate: </string>
+    <string name="viewLabel">VISUALIZAR</string>
+    <string name="statusLabel">Status: </string>
+    <string name="applicationCancelButtonText">CANCELAR APLICAÇÃO</string>
+    <string name="noApplicationInProgressText">Você não possui nenhuma aplicação em andamento</string>
+    <string name="redemptionCancelButtonText">CANCELAR RESGATE</string>
+    <string name="noRedemptionInProgessText">Você não possui nenhum resgate em andamento</string>
+    <string name="noFixedIncomeInProgessText">Você não possui nenhuma compra em andamento</string>
+    <string name="noWithdrawalInProgessText">Você não possui nenhuma retirada disponível</string>
+    <!--// TELA COMPRA DE RENDA FIXA-->
+    <string name="purchaseDateLabel">Data da compra: </string>
+    <string name="titleLabel">Titulo: </string>
+    <string name="solicitationDateLabel">Data da solicitação: </string>
+    <string name="scheduleIndicatorLabel"> às </string>
+    <string name="purchaseCancelButtonText">CANCELAR COMPRA</string>
+    <!--// TELA RETIRADA EM CONTA CORRENTE-->
+    <string name="withdrawalDateLabel">Data da retirada: </string>
+    <string name="withdrawalDetailsLabel">Detalhes da retirada: </string>
+    <string name="withdrawalCancelButtonLabel">CANCELAR RETIRADA</string>
+    <!--// ALERTA CANCELAR COMPRA-->
+    <string name="purchaseCancelTitle">Cancelar compra</string>
+    <string name="purchaseCancelText">Você está cancelando a compra do título %1$s. Deseja confirmar o cancelamento?</string>
+    <string name="backButtonText">VOLTAR</string>
+    <string name="yesButtonText">SIM</string>
+    <!--// ALERTA CANCELAR APLICACAO-->
+    <string name="applicationCancelTitle">Cancelar aplicação</string>
+    <string name="applicationCancelText">Você está cancelando a aplicação %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA CANCELAR RESGATE-->
+    <string name="redemptionCancelTitle">Cancelar resgate</string>
+    <string name="redemptionCancelText">Você está cancelando o resgate da aplicação %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA CANCELAR RETIRADA-->
+    <string name="withdrawalCancelTitle">Cancelar retirada</string>
+    <string name="withdrawalCancelText">Você está cancelando a retirada solicitada no dia %1$s. Deseja confirmar o cancelamento?</string>
+    <!--// ALERTA DETALHES DA RETIRADA-->
+    <string name="withdrawalDetailsTitle">Detalhes da retirada</string>
+    <string name="bankLabel">Banco: </string>
+    <string name="branchLabel">Agência: </string>
+    <string name="accountLabel">Conta: </string>
+    <string name="typeLabel">Tipo: </string>
+    <string name="jointAccountLabel">Conjunta: </string>
+    <string name="okButtonLabel">OK</string>
+    <!--// ALERTA DETALHES DO RESGATE-->
+    <string name="redemptionDetailsTilte">Detalhes do resgate</string>
+    <string name="redemptionConvertionLabel1">Conversão </string>
+    <string name="redemptionConvertionLabel2">de resgate: </string>
+    <string name="redemptionPaymentLabel1">Pagamento do resgate</string>
+    <string name="redemptionPaymentLabel2">em sua subconta: </string>
+    <string name="earlyLabel">Antecipado: </string>
+    <!--// ALERTA DETALHES DA APLICACAO-->
+    <string name="quotaDate">Data da cotização: </string>
+    <string name="applicationDetailTitle">Detalhes da aplicação: </string>
+    <string name="requestDate">Data da solicitação: </string>
+    <string name="spin">TESTE</string>
+    <!-- Valores de exemplo -->
+    <string name="applicationDateLabel">22/11/2016</string>
+    <string name="fundValue">Nome do Fundo</string>
+    <string name="titleValue">Nome do Título</string>
+    <string name="valueValue">10.000,00</string>
+    <string name="statusValue">Status</string>
+    <string name="dateValue">10/10/2010</string>
+    <string name="hourValue">10:10:10</string>
+    <string name="noValue">Não</string>
+    <string name="bankValue">Nome do banco</string>
+    <string name="numericValue">00000</string>
+    <string name="typeValue">Conta Corrente</string>
+
+    <!--para compra de renda fixa-->
+    <string name="fixedIncomeCancelTitle">Cancelar compra</string>
+</resources>

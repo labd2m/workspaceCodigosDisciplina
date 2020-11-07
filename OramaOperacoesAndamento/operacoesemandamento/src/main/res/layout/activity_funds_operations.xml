@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="orama.ufv.br.operacoesemandamento.view.FundsOperationsActivity"
+    android:background="@color/backgroundTop">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:id="@+id/appBar">
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@color/backgroundTop"
+        android:layout_marginTop="@dimen/subaccountMargin"
+        android:layout_marginLeft="@dimen/subaccountMargin"
+        android:layout_marginBottom="@dimen/subaccountMargin">
+
+        <TextView
+            android:id="@+id/tvSubContas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lsubAccountLabel"
+            style="@style/subconta_style"/>
+
+    </RelativeLayout>
+
+     <RelativeLayout
+        android:id="@+id/layoutSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_notifications_style"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/topSpinner"
+        android:layout_marginBottom="@dimen/topSpinner"
+        android:layout_above="@+id/r2">
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dialog"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cardviewHeight"
+        android:id="@+id/r2"
+        android:layout_below="@+id/layoutSuperior"
+        android:layout_marginBottom="@dimen/borders"
+        android:background="@color/cardsBackground">
+
+
+        <RelativeLayout xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/lib/com.app.chasebank"
+
+            android:id="@+id/card_view"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/borders"
+            android:layout_marginBottom="@dimen/borders"
+            android:layout_gravity="center"
+            android:background="@color/backgroundTop">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_centerVertical="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/imageLeft"
+                    android:layout_marginRight="@dimen/imageRight"
+                    android:src="@drawable/ic_funds"
+                    android:id="@+id/imgFundos"
+                    />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/imgFundos">
+                    <TextView
+                        android:id="@+id/tvOperacaopt1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fundsOperationsTopTitle"
+                        style="@style/nome_card_superior"
+                        />
+                    <TextView
+                        android:id="@+id/tvOperacaopt2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tvOperacaopt1"
+                        android:text="@string/fundsOperationsBottomTitle"
+                        style="@style/nome_card_inferior_fundos"/>
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r2"
+        app:tabMode="fixed"
+        app:tabGravity="fill"
+        app:tabSelectedTextColor="@color/greenText"
+        app:tabTextColor="@color/label"
+        android:background="@color/backgroundTop"
+        style="@style/MyCustomTabLayout"
+       />
+
+    <android.support.v4.view.ViewPager
+        android:layout_below="@id/tabs"
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"  />
+
+
+
+
+</RelativeLayout>

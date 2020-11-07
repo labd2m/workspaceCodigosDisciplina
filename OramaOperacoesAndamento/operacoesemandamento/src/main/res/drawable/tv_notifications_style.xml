@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+     
+    <solid android:color="@color/selectBoxBackground" />
+     
+    <padding
+        android:left="@dimen/notificationHorizontalPadding"
+        android:top="@dimen/notificationVerticalPadding"
+        android:right="@dimen/notificationHorizontalPadding"
+        android:bottom="@dimen/notificationVerticalPadding"   />
+
+    <corners
+        android:topLeftRadius="@dimen/notificationRadius"
+        android:topRightRadius="@dimen/notificationRadius"
+        android:bottomLeftRadius="@dimen/notificationRadius"
+        android:bottomRightRadius="@dimen/notificationRadius"
+        />
+</shape>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="subaccountMargin">14dp</dimen>
+    <dimen name="topSpinner">9dp</dimen>
+    <dimen name="rightSpinner">10dp</dimen>
+    <dimen name="topInitialText">20dp</dimen>
+    <dimen name="leftInitialText">18dp</dimen>
+    <dimen name="bottomInitialText">28dp</dimen>
+    <dimen name="rightInitialText">18dp</dimen>
+    <dimen name="cardviewMargin">16dp</dimen>
+    <dimen name="cardviewSpace">8dp</dimen>
+    <dimen name="cardviewHeight">90dp</dimen>
+    <dimen name="cardviewRadius">4dp</dimen>
+    <dimen name="cardviewElevation">4dp</dimen>
+    <dimen name="cardviewOperationsPadding">6dp</dimen>
+    <dimen name="cardviewOperationsPaddingCircularTextview">3dp</dimen>
+    <dimen name="imageNotFoundBottom">36dp</dimen>
+    <dimen name="imageLeft">40dp</dimen>
+    <dimen name="imageRight">32dp</dimen>
+    <dimen name="imageCALeft">42dp</dimen>
+    <dimen name="imageCARight">36dp</dimen>
+    <dimen name="imageCardDimens">28dp</dimen>
+    <dimen name="tabTop">5dp</dimen>
+    <dimen name="tabTextTop">13dp</dimen>
+    <dimen name="tabTextBottom">11dp</dimen>
+    <dimen name="tabCircularTextviewSize">21dp</dimen>
+    <dimen name="tabTextRight">5dp</dimen>
+    <dimen name="cardTopName">23dp</dimen>
+    <dimen name="cardBottomName">21dp</dimen>
+    <dimen name="borders">2dp</dimen>
+    <dimen name="circularTextView">9dp</dimen>
+    <dimen name="roundshapeStroke">1dp</dimen>
+    <dimen name="roundshapeRadius">5dp</dimen>
+    <dimen name="roundshapePadding">10dp</dimen>
+    <dimen name="notificationHorizontalPadding">20dp</dimen>
+    <dimen name="notificationVerticalPadding">5dp</dimen>
+    <dimen name="notificationRadius">100dp</dimen>
+    <dimen name="viewPagerTop">16dp</dimen>
+    <dimen name="dialogWidth">16dp</dimen>
+    <dimen name="dialogMargin">16dp</dimen>
+    <dimen name="dialogRadius">50dp</dimen>
+    <dimen name="dialogDoubleMargin">32dp</dimen>
+    <dimen name="dialogDistance">13dp</dimen>
+    <dimen name="dialogContentDistance">10dp</dimen>
+    <dimen name="dialogButtonDistance">24dp</dimen>
+    <dimen name="dialogButtonMargin">78dp</dimen>
+    <dimen name="dialogButtonHeight">52dp</dimen>
+    <dimen name="circularTextViewDimen">21dp</dimen>
+    <dimen name="zero">0dp</dimen>
+
+
+
+</resources>

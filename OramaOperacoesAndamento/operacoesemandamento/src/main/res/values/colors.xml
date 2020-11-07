@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#639d31</color>
+    <color name="colorPrimaryDark">#4f7d27</color>
+    <color name="colorAccent">#639d31</color>
+    <color name="backgroundTop">#ffffff</color>
+    <color name="selectBoxBackground">#ededed</color>
+    <color name="cardsBackground">#ededed</color>
+    <color name="bordaBotaoCancelamento">#afca98</color>
+    <color name="notifications">#fa7c00</color>
+    <color name="greenText">#639d31</color>
+    <color name="lightColorText">#6f6f6f</color>
+    <color name="label">#424242</color>
+    <color name="darkColorText">#828282</color>
+    <color name="fundsColorTitle">#119c9f</color>
+    <color name="fixedIncomeTitle">#475abf</color>
+    <color name="checkingAccountColorTitle">#639d31</color>
+    <color name="whiteLetter">#ffffff</color>
+</resources>
