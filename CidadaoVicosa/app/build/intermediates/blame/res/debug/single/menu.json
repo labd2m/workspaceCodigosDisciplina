@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/sobre.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/sobre.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ver_detalhes_marcador.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\ver_detalhes_marcador.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/ver_video.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/ver_video.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ver_video.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\ver_video.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/ver_detalhes_marcador.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/ver_detalhes_marcador.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mapa.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\mapa.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cadastro.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\cadastro.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/cadastro.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/cadastro.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/colaboracao.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/colaboracao.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ver_multimidia.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\ver_multimidia.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sobre.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\sobre.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/ver_multimidia.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/ver_multimidia.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/res/merged/debug/menu/mapa.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/res/menu/mapa.xml"
+    },
+    {
+        "merged": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\build\\intermediates\\res\\merged\\debug\\menu\\colaboracao.xml",
+        "source": "/Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/C:\\Users\\Lucas\\AndroidStudioProjects\\CidadaoVicosa\\app\\src\\main\\res\\menu\\colaboracao.xml"
+    }
+]

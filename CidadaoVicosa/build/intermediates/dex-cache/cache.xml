@@ -2,39 +2,214 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\classes-7984587899d4c4b23b0030dcb10ae4ccf36484a0.jar" />
+        revision="22.0.1"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-dc9b8d38a00ddd3e82fa765ec147ca894e9b2ce0.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\classes-3e01e1f33b5d9a2fd4a8a457c17df48c62b555a0.jar" />
+        revision="22.0.1"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-26639aee455e74856aa4897699dc27d8a8349c3d.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\libs\libGoogleAnalyticsServices.jar"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsServices-7240eddbdd39e59b7cf71dedd0786766ca4b0253.jar" />
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-6f8091a512ddb43f4deaba16292e0e6870bcfb8c.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\support-annotations-21.0.0-cc5b000489dd786a2d6b221d6a3ff63d136bc32d.jar" />
+        revision="22.0.1"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-ef7066c1eb03d05992bb9ada23537cf13d4f81d0.jar" />
     </item>
     <item
-        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\release\internal_impl-21.0.0-ac4a85dadb7cc2c2001c7791686b8cbad642751a.jar" />
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3633ca39ba7d811848e371dd08ca2f67c672e09f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-56cf42c5447232cb35d1c888ed4b000799c1775a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-b242b091ecc605404cfaabb69f970cb8d96b6406.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f825dc52fb0f1e80e1aef436ce8c04905f8e993">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-bd07c1bdd617594d178b257a2d003ac51673ea7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-5c56364e4988f9f40a019ef215a9bc2f79f2fff1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-37a0f613bfdf1023bf94df1503255464ec98a711.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-e5ea16983667f305e5416d42d66c010758cde9b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-9c900fb0693b2557f5725f7fecc76e1daf171411.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-af199ed8c7a3d57ce78afba48caa5767d494ef4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-67eceedf41a18450221fa869691e49d1cbe2d1e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-8927b00b4b39f677038cf766f6755c8f44362e38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-32a780258d377e5fc155e5dd7a6f1ed28e408815.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-27c6e40fb7b0191d6e03379a089c2d10cc93b70f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-244e69ef64540f92de95bedaab2fc5b0516d1219.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-bd37e04d991337bea5205c171051f603feb09215.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-fb5d4c2b5dc61e4d4031dfe5a86e07769e2e2242.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-87ba5a75067213059d8220270eba76d0e8445006.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-461bc1b2d3aaf7385ab0d4775a402126e3a2ccf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-0f183ec13b7dc6eedeaa45713484c2f5da4986d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-5778e143889a1d92113703d75a6c6ddb4e568608.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3f38957970ca5a3573390301b3b9a600d1e3c295.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-cccb70dfffb5702ce964ea0cb40c4b6bda1e40f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-15636b76ac85187c3f38d6c23d8b8f938db796da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-906aa9d27615001014686900789006b576653192.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-bdb5235e590d69c6b59ba20b297698ad27e977df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\CidadaoVicosa\app\build\intermediates\pre-dexed\debug\classes-10bb5ed54a8a2f42c25ca4e5a4d86b1b3e951c52.jar" />
     </item>
 
 </items>

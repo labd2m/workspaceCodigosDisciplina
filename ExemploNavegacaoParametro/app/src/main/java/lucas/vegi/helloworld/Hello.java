@@ -18,7 +18,7 @@ public class Hello extends Activity {
         setContentView(R.layout.view_principal);             
     }
 	
-	public void somar(View v){     
+	public void somar(View v){
         EditText txt1 = (EditText) findViewById(R.id.editValor1);
         EditText txt2 = (EditText) findViewById(R.id.editValor2);     
         int aux = Integer.parseInt(txt1.getText().toString()) + Integer.parseInt(txt2.getText().toString());  
@@ -44,7 +44,7 @@ public class Hello extends Activity {
         Pessoa p = new Pessoa("Lucas",27,1111,"M",1.7,65.5);
         it.putExtra("objetoPessoa", p);
 
-        startActivity(it);      
+        startActivity(it);
 	}
 	
 	public void multiplicar(View v){        

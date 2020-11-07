@@ -1,7 +1,7 @@
 package pacote.cidadaovicosa;
 
-import com.google.analytics.tracking.android.EasyTracker;
-import com.google.android.gms.internal.fi;
+//import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.android.gms.internal.fi;
 
 import android.media.Image;
 import android.os.Bundle;
@@ -49,7 +49,7 @@ public class Sobre extends Activity {
 		super.onStart();
 		
 		//Google Analytics
-		EasyTracker.getInstance(this).activityStart(this);
+		//EasyTracker.getInstance(this).activityStart(this);
 	}
 	
 	@Override
@@ -57,7 +57,7 @@ public class Sobre extends Activity {
 	    super.onStop();
 	   
 	    //Google Analytics
-	    EasyTracker.getInstance(this).activityStop(this);  // Add this method.
+	    //EasyTracker.getInstance(this).activityStop(this);  // Add this method.
 	}
 
 	@Override

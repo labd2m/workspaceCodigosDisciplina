@@ -6,14 +6,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6beea7af-71f0-4bba-9425-c44343407230" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-06-11-43-22-074.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-06-11-43-52-767.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-06-11-44-40-058.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-11-06-11-44-53-343.rawproto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CicloDeVidaApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CicloDeVidaApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ColetAPP" beforeDir="false" afterPath="$PROJECT_DIR$/../ColetAPP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EcoPointsRoute" beforeDir="false" afterPath="$PROJECT_DIR$/../EcoPointsRoute" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/lucas/vegi/helloworld/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/lucas/vegi/helloworld/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_047e460bef0930c930b360d4138d5e9b2010734c.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_047e460bef0930c930b360d4138d5e9b2010734c.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/lucas/vegi/helloworld/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/lucas/vegi/helloworld/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld2019" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld2019" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocationExemplo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LocationExemplo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OramaOperacoes" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaOperacoes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OramaSenha" beforeDir="false" afterPath="$PROJECT_DIR$/../OramaSenha" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PokemonGoClone" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGoClone" afterDir="false" />
@@ -67,13 +83,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1gKWiCktHuFCcP78U6Q27a08l5A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_23" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-01T13:25:35.763Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -254,11 +273,18 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="769" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601648251743">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state x="730" y="188" key="#com.intellij.ide.util.MemberChooser/0.23.1920.975@0.23.1920.975" timestamp="1601559727042" />
     <state x="769" y="92" key="#com.intellij.ide.util.MemberChooser/0.23.1920.978@0.23.1920.978" timestamp="1601648251743" />
+    <state x="150" y="125" width="1024" height="766" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604690232884">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="150" y="125" width="1024" height="766" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1920.978@0.23.1920.978" timestamp="1604690232884" />
   </component>
 </project>

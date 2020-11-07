@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 import org.json.JSONObject;
 
-import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 //import com.google.android.gms.location.LocationClient;
@@ -107,7 +107,7 @@ public class Cadastro extends Activity {
 		super.onStart();
 		
 		//Google Analytics
-		EasyTracker.getInstance(this).activityStart(this);
+		//EasyTracker.getInstance(this).activityStart(this);
 	}
 	
 	@Override
@@ -115,7 +115,7 @@ public class Cadastro extends Activity {
 	    super.onStop();
 	   
 	    //Google Analytics
-	    EasyTracker.getInstance(this).activityStop(this);  // Add this method.
+	    //EasyTracker.getInstance(this).activityStop(this);  // Add this method.
 	}
 	
 	public void eventocadastrologin(View view) {	
@@ -198,6 +198,11 @@ public class Cadastro extends Activity {
 	
 	class FuncaoCadastro extends AsyncTask<String, String, String> {
 
+		String name;
+		String email;
+		String password;
+		String faixa;
+
 		/** Before starting background thread Show Progress Dialog **/
 		@Override
 		protected void onPreExecute() {
@@ -207,13 +212,18 @@ public class Cadastro extends Activity {
 			pDialog.setIndeterminate(false);
 			pDialog.setCancelable(false);
 			pDialog.show();
+
+			name = inputFullName.getText().toString();
+			email = inputEmail.getText().toString();
+			password = inputPassword.getText().toString();
+			faixa = lista.getSelectedItem().toString();
 		}
 
 		protected String doInBackground(String... args) {
-			String name = inputFullName.getText().toString();
+			/*String name = inputFullName.getText().toString();
 			String email = inputEmail.getText().toString();
 			String password = inputPassword.getText().toString();
-			String faixa = lista.getSelectedItem().toString();
+			String faixa = lista.getSelectedItem().toString();*/
 			
 			UserFunctions userFunction = new UserFunctions();
 			

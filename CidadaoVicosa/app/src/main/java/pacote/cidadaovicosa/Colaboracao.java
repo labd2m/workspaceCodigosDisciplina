@@ -8,7 +8,7 @@ import java.util.Locale;
 
 import org.json.JSONObject;
 
-import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.common.ConnectionResult;
 //import com.google.android.gms.common.GooglePlayServicesClient;
 import com.google.android.gms.common.GooglePlayServicesUtil;
@@ -317,7 +317,7 @@ public class Colaboracao extends Activity implements LocationListener {
     	}
 		
 		//Google Analytics
-		EasyTracker.getInstance(this).activityStart(this);
+		//EasyTracker.getInstance(this).activityStart(this);
 	}
 	  
 	@Override
@@ -325,7 +325,7 @@ public class Colaboracao extends Activity implements LocationListener {
 	    super.onStop();
 	   
 	    //Google Analytics
-	    EasyTracker.getInstance(this).activityStop(this);  // Add this method.
+	    //EasyTracker.getInstance(this).activityStop(this);  // Add this method.
 	}
 	
 	@Override

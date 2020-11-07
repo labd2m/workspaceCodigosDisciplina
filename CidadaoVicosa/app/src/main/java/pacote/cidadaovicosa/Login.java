@@ -6,7 +6,7 @@ import java.util.concurrent.TimeoutException;
 
 import org.json.JSONObject;
 
-import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.analytics.tracking.android.EasyTracker;
 
 import pacote.ferramentas.DatabaseHandler;
 import pacote.ferramentas.UserFunctions;
@@ -89,7 +89,7 @@ public class Login extends Activity {
 		super.onStart();
 		
 		//Google Analytics
-		EasyTracker.getInstance(this).activityStart(this);
+		//EasyTracker.getInstance(this).activityStart(this);
 	}
 	
 	@Override
@@ -97,7 +97,7 @@ public class Login extends Activity {
 	    super.onStop();
 	   
 	    //Google Analytics
-	    EasyTracker.getInstance(this).activityStop(this);  // Add this method.
+	    //EasyTracker.getInstance(this).activityStop(this);  // Add this method.
 	}
 	
 	public void eventologinlogin (View view){
@@ -162,7 +162,9 @@ public class Login extends Activity {
 	}
 	
 	class FuncaoLogin extends AsyncTask<String, String, String> {
-		
+		String email;
+		String password;
+
 		/////// Before starting background thread Show Progress Dialog ///////
 		@Override
 		protected void onPreExecute() {
@@ -172,12 +174,15 @@ public class Login extends Activity {
 			pDialog.setIndeterminate(false);
 			pDialog.setCancelable(false);
 			pDialog.show();
+
+			email = inputEmail.getText().toString();
+			password = inputPassword.getText().toString();
 			
 		}
 
 		protected String doInBackground(String... args) {
-			String email = inputEmail.getText().toString();
-			String password = inputPassword.getText().toString();
+			//String email = inputEmail.getText().toString();
+			//String password = inputPassword.getText().toString();
 			UserFunctions userFunction = new UserFunctions();
 			Log.d("Button", "Login");
 			

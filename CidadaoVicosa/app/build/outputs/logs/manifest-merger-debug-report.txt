@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:2:1-123:12
+	package
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:15:9-57
+uses-feature#android.hardware.telephony
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:18:9-50
+uses-feature#android.hardware.location.gps
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:21:9-53
+uses-feature#android.hardware.microphone
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:24:9-51
+supports-screens
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:27:5-31:40
+	android:largeScreens
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:28:9-36
+	android:smallScreens
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:30:9-36
+	android:normalScreens
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:29:9-37
+	android:xlargeScreens
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:31:9-37
+uses-permission#android.permission.CAMERA
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:33:5-65
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:33:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:34:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:34:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:35:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:36:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:37:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:37:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:39:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:40:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:41:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:42:22-78
+permission#pacote.cidadaovicosa.permission.MAPS_RECEIVE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:44:5-47:18
+	android:protectionLevel
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:46:9-44
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:45:9-68
+uses-permission#pacote.cidadaovicosa.permission.MAPS_RECEIVE
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:49:5-84
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:49:22-81
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:50:5-98
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:50:22-95
+uses-feature#0x00020000
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:52:5-54:35
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:53:9-41
+	android:required
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:54:9-32
+application
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:56:5-121:19
+MERGED from [com.google.android.gms:play-services:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.3.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:20:5-25:19
+MERGED from [com.google.android.gms:play-services-cast:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.3.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.3.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:59:9-41
+	android:allowBackup
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:57:9-35
+	android:icon
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:58:9-45
+	android:theme
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:60:9-40
+activity#pacote.cidadaovicosa.Splash
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:63:9-75:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:65:13-45
+	android:theme
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:64:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:70:13-74:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:73:17-77
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:73:27-74
+activity#pacote.cidadaovicosa.Colaboracao
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:76:9-80:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:78:13-63
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:77:13-60
+activity#pacote.cidadaovicosa.Login
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:81:9-85:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:83:13-57
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:82:13-54
+activity#pacote.cidadaovicosa.Cadastro
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:86:9-90:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:88:13-60
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:87:13-57
+activity#pacote.cidadaovicosa.Mapa
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:91:9-95:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:92:13-53
+meta-data#com.google.android.gms.version
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:97:9-99:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:99:13-66
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:98:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:100:9-102:71
+	android:value
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:102:13-68
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:101:13-62
+activity#pacote.cidadaovicosa.Sobre
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:104:9-108:20
+	android:screenOrientation
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:106:13-57
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:105:13-54
+activity#pacote.cidadaovicosa.VerImagem
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:109:9-112:20
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:111:13-66
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:110:13-58
+activity#pacote.cidadaovicosa.VerVideo
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:113:9-116:20
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:115:13-61
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:114:13-57
+activity#pacote.cidadaovicosa.VerDetalhesMarcador
+ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:117:9-120:20
+	android:label
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:119:13-73
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/src/main/AndroidManifest.xml:118:13-68
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:21:19-72
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/AndroidManifest.xml:42:11-82
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /Users/lucasvegi/AndroidStudioProjects/CidadaoVicosa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/AndroidManifest.xml:22:22-71
