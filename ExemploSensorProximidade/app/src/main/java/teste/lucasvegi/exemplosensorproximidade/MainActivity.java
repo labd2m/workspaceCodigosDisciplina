@@ -67,6 +67,7 @@ public class MainActivity extends Activity implements SensorEventListener {
     }
 
     public void clickTeste(View v){
+        Log.i("SENSOR_CLIQUE", "cliquei");
         Toast.makeText(this, "CLIQUEI", Toast.LENGTH_SHORT).show();
     }
 
@@ -100,7 +101,7 @@ public class MainActivity extends Activity implements SensorEventListener {
                             | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION //nav bar
                             | View.SYSTEM_UI_FLAG_FULLSCREEN    //status bar
                             | View.SYSTEM_UI_FLAG_IMMERSIVE);  //evita volta no toque
-            Log.e("SENSOR_MUDOU", "PERTO");
+            Log.d("SENSOR_MUDOU", "PERTO");
         } else {
             //brilho original
             params.screenBrightness = -1;
@@ -110,7 +111,7 @@ public class MainActivity extends Activity implements SensorEventListener {
             //habilita barras de status e navegação
             this.getWindow().getDecorView().
                     setSystemUiVisibility(View.SYSTEM_UI_FLAG_VISIBLE);
-            Log.e("SENSOR_MUDOU", "LONGE");
+            Log.d("SENSOR_MUDOU", "LONGE");
         }
     }
 
