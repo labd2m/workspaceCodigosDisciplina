@@ -16,6 +16,8 @@ import android.view.WindowManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.text.DecimalFormat;
+
 public class MainActivity extends Activity implements SensorEventListener {
     private SensorManager sensorManager;
     private Sensor sensor;
@@ -57,13 +59,15 @@ public class MainActivity extends Activity implements SensorEventListener {
         float y = event.values[1];
         float z = event.values[2];
 
+        DecimalFormat df = new DecimalFormat("#.##");
+
         Log.i("SENSOR_MUDOU", "Valores: \nX: " + x + "\nY: " + y + "\nZ: " + z);
         if(y > 12.0)
             Log.e("SENSOR_MUDOU", "Valores: \nX: " + x + "\nY: " + y + "\nZ: " + z);
 
-        ((TextView) findViewById(R.id.valorX)).setText(x + " m/s²");    //atualiza na tela valor de X
-        ((TextView) findViewById(R.id.valorY)).setText(y + " m/s²");    //atualiza na tela valor de Y
-        ((TextView) findViewById(R.id.valorZ)).setText(z + " m/s²");    //atualiza na tela valor de Z
+        ((TextView) findViewById(R.id.valorX)).setText(df.format(x) + " m/s²");    //atualiza na tela valor de X
+        ((TextView) findViewById(R.id.valorY)).setText(df.format(y) + " m/s²");    //atualiza na tela valor de Y
+        ((TextView) findViewById(R.id.valorZ)).setText(df.format(z) + " m/s²");    //atualiza na tela valor de Z
     }
 
     @Override
