@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c212842-d9ff-474d-b6e9-6f222d6890eb" name="Default" comment="" />
+    <list default="true" id="3c212842-d9ff-474d-b6e9-6f222d6890eb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometro/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometro/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +41,9 @@
   <component name="FavoritesManager">
     <favorites_list name="IntentBrowser" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,20 +52,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1gKhQ2S2sY00VjB7Em73rdo0wDS" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android_2_3_3_intel" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0423085596" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-17T12:55:19.732Z" />
     <property name="device.picker.selection" value="Pixel_API_19" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />

@@ -33,7 +33,7 @@ public class Tela1 extends Activity {
         //String msg2 = it.getStringExtra("msg");
         if(it == null){
     		//Cancelamento da tela
-			Toast.makeText(this, "NENHUM VALOR! " + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+			Toast.makeText(this, "NENHUM VALOR! " + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
     		return;
     	}else if(codigoRequisicao == 10){
             Toast.makeText(this,"Resposta botão 1",Toast.LENGTH_SHORT).show();
@@ -43,12 +43,12 @@ public class Tela1 extends Activity {
     		
     		if(codigoResultado == 1){
     			//SIM
-    			Toast.makeText(this, "Apertou sim: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+    			Toast.makeText(this, "Apertou sim: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
     		}else if(codigoResultado == 2){
     			//NAO
-    			Toast.makeText(this, "Apertou não: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+    			Toast.makeText(this, "Apertou não: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
     		}else if(codigoResultado == 3){
-    			Toast.makeText(this, "Destruido: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+    			Toast.makeText(this, "Destruido: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
     		}
     	}else if(codigoRequisicao == 20){
             Toast.makeText(this,"Resposta botão 2",Toast.LENGTH_SHORT).show();
@@ -57,12 +57,12 @@ public class Tela1 extends Activity {
 
             if(codigoResultado == 1){
                 //SIM
-                Toast.makeText(this, "Apertou sim: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Apertou sim: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
             }else if(codigoResultado == 2){
                 //NAO
-                Toast.makeText(this, "Apertou não: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Apertou não: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
             }else if(codigoResultado == 3){
-                Toast.makeText(this, "Destruido: " + msg + "Requisição: " + codigoRequisicao, Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "Destruido: " + msg + "\nRequisição: " + codigoRequisicao + "\nResultado: " + codigoResultado, Toast.LENGTH_LONG).show();
             }
 
         }

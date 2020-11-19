@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">Navegador</string>
+    <string name="app_name">IntentContatoSimples</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_tela1">Tela1</string>
+    <string name="title_activity_tela1">IntentContatoSimples</string>
 
 </resources>

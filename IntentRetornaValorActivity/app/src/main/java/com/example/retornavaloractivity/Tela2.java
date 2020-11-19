@@ -18,9 +18,10 @@ public class Tela2 extends Activity {
         
       	Intent it = new Intent();
        	//Seta msg de retorno
-       	it.putExtra("msg", "Destrui!!!");     
-    	
-    	setResult(3,it);
+       	it.putExtra("msg", "Destruí!!!");
+
+       	//Comentar para demestrar Intent nula no retorno quando fechar tela no back
+    	setResult(3, it);
     }
 
     public void SIM(View v){
@@ -30,7 +31,7 @@ public class Tela2 extends Activity {
        	it.putExtra("msg", "CLIQUEI EM SIM!!!");     	
        	
        	//Seta o codigoResultado e a intent de retorno
-       	setResult(1,it);
+       	setResult(1, it);
        
        	finish();
     }
@@ -42,27 +43,20 @@ public class Tela2 extends Activity {
        	it.putExtra("msg", "CLIQUEI EM NÃO!!!");     	
        	
        	//Seta o codigoResultado e a intent de retorno
-       	setResult(2,it);
+       	setResult(2, it);
        
        	finish();
     }
     
     /*@Override
-    protected void onPause() {
-    	// TODO Auto-generated method stub
-    	//super.onPause();
-		Toast.makeText(this, "Passei onStop", Toast.LENGTH_SHORT).show();
-    	
+    protected void onDestroy() {
        	Intent it = new Intent();    	
        	
        	//Seta msg de retorno
        	it.putExtra("msg", "Destrui!!!");     
     	
     	setResult(3, it);
-		super.onPause();
-    	//finish();
-    	
-    	
+		super.onDestroy();
     }*/
     
 }

@@ -29,12 +29,14 @@
         <activity
             android:name="com.example.intentfilterp2.IT3"
             android:label="@string/title_activity_it3" >
+
+            <!--
             <intent-filter>
                 <action android:name="ACAO_DESEJADA" />
-
-                <category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.DEFAULT" />
                 <category android:name="CATEGORIA_CUSTOMIZADA" />
             </intent-filter>
+            -->
         </activity>
     </application>
 

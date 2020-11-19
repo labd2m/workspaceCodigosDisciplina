@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:1:1-27:12
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:1:1-32:12
 	package
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:2:5-42
 		INJECTED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml
@@ -30,7 +30,7 @@ ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeA
 	android:name
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:9:22-64
 application
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:11:5-25:19
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:11:5-30:19
 	android:label
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:13:9-41
 	android:icon
@@ -38,22 +38,22 @@ ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeA
 	android:theme
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:14:9-40
 activity#com.example.homealternativa.HomeAlternativa
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:15:9-23:20
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:15:9-28:20
 	android:label
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:17:13-68
 	android:name
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:16:13-44
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:20:5-64
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:25:5-64
 	android:name
-		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:20:15-61
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:25:15-61
 category#android.intent.category.HOME
-ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:21:17-73
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:26:17-73
 	android:name
-		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:21:27-70
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/src/main/AndroidManifest.xml:26:27-70

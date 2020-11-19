@@ -73,7 +73,7 @@ public class ContaChamada extends Activity {
 		} catch (IOException e) {}
 
 		Uri outputFileUri = Uri.fromFile(newfile);
-		Log.i("TesteVideo","URI: "+ outputFileUri);
+		Log.i("TesteFotoVideo","URI: "+ outputFileUri);
 
 		Intent it = new Intent(MediaStore.ACTION_VIDEO_CAPTURE);
 
@@ -91,7 +91,7 @@ public class ContaChamada extends Activity {
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
 
-        Toast.makeText(this,"chamei onActivityResult - " + requestCode,Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"chamei onActivityResult - Código: " + requestCode,Toast.LENGTH_LONG).show();
 
 		switch (requestCode){
 			case 5:

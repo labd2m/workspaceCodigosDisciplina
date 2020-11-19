@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">IntentBrowser</string>
+    <string name="app_name">IntentSMS</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_navegador">Navegador</string>
+    <string name="title_activity_navegador">Enviar SMS</string>
 
 </resources>

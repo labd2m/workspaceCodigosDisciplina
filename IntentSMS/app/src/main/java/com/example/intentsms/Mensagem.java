@@ -23,12 +23,12 @@ public class Mensagem extends Activity {
 	public void Enviar(View v){
     	EditText edt = (EditText) findViewById(R.id.texto);
     	
-    	String url = edt.getText().toString();
+    	String msg = edt.getText().toString();
     	
     	Uri uri = Uri.parse("sms:5556");
     	
     	Intent it = new Intent(Intent.ACTION_SENDTO, uri);
-    	it.putExtra("sms_body", url);
+    	it.putExtra("sms_body", msg);
     	
     	//Envia a mensagem para o sistema operacional
     	startActivity(it);	 

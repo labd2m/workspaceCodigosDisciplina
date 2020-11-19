@@ -100,13 +100,13 @@ public class MainActivity extends Activity implements SensorEventListener {
         this.getWindow().setAttributes(params);
 
         //Leitura de valores acelerômetro - USAR QUANDO ORIENTAÇÃO FOR TRAVADA EM PORTRAIT
-        float x = event.values[0];
-        float y = event.values[1];
+        //float x = event.values[0];
+        //float y = event.values[1];
 
         //Compensa a rotação do aparelho - USAR QUANDO ORIENTAÇÃO FOR FULLSENSOR
-        /*float values[] = SensorUtil.compensaAcelerometro(this,event);
+        float values[] = SensorUtil.compensaAcelerometro(this,event);
         float x = values[0];
-        float y = values[1];*/
+        float y = values[1];
 
         Log.i("Rotação", "Rotação: " + SensorUtil.getRotationString(this));
 

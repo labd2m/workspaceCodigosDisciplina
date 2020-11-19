@@ -325,14 +325,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 110,
-                        "endColumn": 44,
-                        "endOffset": 150
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -344,14 +337,7 @@
                     "endOffset": 140
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 64,
-                        "endColumn": 44,
-                        "endOffset": 104
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -363,14 +349,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 43,
-                        "endOffset": 58
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -378,8 +357,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 189,
-                    "endColumn": 46,
-                    "endOffset": 231
+                    "endColumn": 57,
+                    "endOffset": 242
                 },
                 "from": {
                     "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml",
@@ -387,8 +366,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 19,
-                        "endColumn": 46,
-                        "endOffset": 61
+                        "endColumn": 57,
+                        "endOffset": 72
                     }
                 }
             },
@@ -396,56 +375,42 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 236,
+                    "startOffset": 247,
                     "endColumn": 52,
-                    "endOffset": 284
+                    "endOffset": 295
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 67,
-                        "endColumn": 52,
-                        "endOffset": 115
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 289,
+                    "startOffset": 300,
                     "endColumn": 50,
-                    "endOffset": 335
+                    "endOffset": 346
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 121,
-                        "endColumn": 50,
-                        "endOffset": 167
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 340,
-                    "endColumn": 54,
-                    "endOffset": 390
+                    "startOffset": 351,
+                    "endColumn": 69,
+                    "endOffset": 416
                 },
                 "from": {
                     "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 173,
-                        "endColumn": 54,
-                        "endOffset": 223
+                        "startOffset": 184,
+                        "endColumn": 69,
+                        "endOffset": 249
                     }
                 }
             },
@@ -453,19 +418,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 395,
+                    "startOffset": 421,
                     "endColumn": 57,
-                    "endOffset": 448
+                    "endOffset": 474
                 },
                 "from": {
-                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 58,
-                        "endOffset": 73
-                    }
+                    "file": "/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/src/main/res/values/styles.xml"
                 }
             }
         ]

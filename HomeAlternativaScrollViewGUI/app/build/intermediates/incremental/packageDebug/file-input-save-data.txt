@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Aug 19 17:48:49 BRT 2020
+#Thu Nov 19 13:21:49 BRT 2020
 2.base=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/HomeAlternativaScrollViewGUI/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
 5.set=ANDROID_RESOURCE
