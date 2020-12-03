@@ -16,12 +16,12 @@ public class Tela2 extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.view_tela2);
         
-      	Intent it = new Intent();
+      	/*Intent it = new Intent();
        	//Seta msg de retorno
        	it.putExtra("msg", "Destruí!!!");
 
        	//Comentar para demestrar Intent nula no retorno quando fechar tela no back
-    	setResult(3, it);
+    	setResult(3, it);*/
     }
 
     public void SIM(View v){

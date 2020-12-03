@@ -65,3 +65,9 @@ ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/Inten
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentFilterP2/app/src/main/AndroidManifest.xml:28:39-81
 	android:name
 		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentFilterP2/app/src/main/AndroidManifest.xml:28:19-38
+intent-filter#ACAO_DESEJADA+CATEGORIA_CUSTOMIZADA+android.intent.category.DEFAULT
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentFilterP2/app/src/main/AndroidManifest.xml:29:13-33:29
+category#CATEGORIA_CUSTOMIZADA
+ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentFilterP2/app/src/main/AndroidManifest.xml:32:17-66
+	android:name
+		ADDED from /Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentFilterP2/app/src/main/AndroidManifest.xml:32:27-63

@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c212842-d9ff-474d-b6e9-6f222d6890eb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometro/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometro/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,5 +248,11 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="132" width="943" height="749" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605875955551">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="114" y="132" width="943" height="749" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1920.978@0.23.1920.978" timestamp="1605875955551" />
   </component>
 </project>

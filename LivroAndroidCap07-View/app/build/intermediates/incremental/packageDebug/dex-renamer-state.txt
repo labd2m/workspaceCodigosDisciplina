@@ -1,4 +1,4 @@
-#Wed Aug 19 17:59:21 BRT 2020
+#Thu Dec 03 10:36:12 BRT 2020
 base.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LivroAndroidCap07-View/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/LivroAndroidCap07-View/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

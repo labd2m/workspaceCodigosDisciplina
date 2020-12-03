@@ -18,9 +18,9 @@ public class MudaOrientacao extends Activity {
         campo = (EditText) findViewById(R.id.etdTexto);
         
         String valor = null;
-        
-        if(savedInstanceState!=null)
-        {
+
+        //Comentar os dois IFs a seguir para ver os dados se perderem
+        if(savedInstanceState != null) {
             valor = savedInstanceState.getString("nome_campo");
         }
 
@@ -28,16 +28,17 @@ public class MudaOrientacao extends Activity {
             campo.setText(valor);
     }
 
-    //@Override
+    @Override
     protected void onSaveInstanceState (Bundle outState)
     {
         outState.putString("nome_campo", campo.getText().toString());
+        Log.d("SalvarEstado","Estado foi salvo!");
     }
 
     @Override
     protected void onDestroy(){
         super.onDestroy();
-        Log.d("Ciclo de vida","DESTRUI A ACTIVITY!");
+        Log.d("SalvarEstado","DESTRUI A ACTIVITY!");
     }
     
 }

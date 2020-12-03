@@ -39,6 +39,7 @@ public class ExemploSpinner extends Activity implements AdapterView.OnItemSelect
 		ImageView imagem = (ImageView) findViewById(R.id.img);
 		imagem.setImageResource(imagens[posicao]);
 
+		//Exibe o nome do planeta escolhido
 		String n = parent.getItemAtPosition(posicao).toString();
         Toast.makeText(this,n,Toast.LENGTH_LONG).show();
 	}

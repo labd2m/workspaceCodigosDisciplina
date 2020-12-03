@@ -1,4 +1,4 @@
-#Thu Nov 19 10:57:56 BRT 2020
+#Fri Nov 20 11:20:05 BRT 2020
 base.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/IntentContactSimples/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -58,7 +58,7 @@ public class Aba2 extends Activity {
     @Override
     protected void onPause() {
         super.onPause();
-        Log.i("Ciclo de vida", getClass().getName() + " onSPause()");
+        Log.i("Ciclo de vida", getClass().getName() + " onPause()");
     }
 
     

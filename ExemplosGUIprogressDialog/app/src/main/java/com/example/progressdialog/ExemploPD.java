@@ -30,7 +30,9 @@ public class ExemploPD extends Activity {
 
     public void Processar(View v){
     	PD = ProgressDialog.show(this, "Executando Operação", "Aguarde um momento...");
-		PD.setCancelable(true);
+
+    	//permite cancelar a exibição do PD ao tocar fora dele
+    	PD.setCancelable(true);
 		PD.setCanceledOnTouchOutside(true);
    
     	i = 0;
