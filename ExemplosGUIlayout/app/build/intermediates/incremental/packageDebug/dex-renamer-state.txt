@@ -1,4 +1,4 @@
-#Wed Dec 02 09:43:52 BRT 2020
+#Fri Dec 04 10:20:00 BRT 2020
 base.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIlayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/lucasvegi/AndroidStudioProjects/ProjetosINF311_workspace/ExemplosGUIlayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
