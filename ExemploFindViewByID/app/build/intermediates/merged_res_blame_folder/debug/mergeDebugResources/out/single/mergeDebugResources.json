@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/menu_view_find.xml.flat",
+        "source": "lucas.vegi.findid.app-main-6:/menu/view_find.xml"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/layout_view_find.xml.flat",
+        "source": "lucas.vegi.findid.app-main-6:/layout/view_find.xml"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.findid.app-debug-4:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.findid.app-main-6:/drawable-xhdpi/ic_action_search.png"
+    }
+]

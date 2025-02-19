@@ -1,0 +1,14 @@
+lucas.vegi.findid:string/title_activity_find = 0x7f060003
+lucas.vegi.findid:string/menu_settings = 0x7f060002
+lucas.vegi.findid:string/hello_world = 0x7f060001
+lucas.vegi.findid:menu/view_find = 0x7f050000
+lucas.vegi.findid:layout/view_find = 0x7f040000
+lucas.vegi.findid:id/txt1 = 0x7f030001
+lucas.vegi.findid:drawable/ic_launcher = 0x7f020001
+lucas.vegi.findid:id/menu_settings = 0x7f030000
+lucas.vegi.findid:style/AppTheme = 0x7f070000
+lucas.vegi.findid:drawable/ic_action_search = 0x7f020000
+lucas.vegi.findid:dimen/padding_medium = 0x7f010001
+lucas.vegi.findid:string/app_name = 0x7f060000
+lucas.vegi.findid:dimen/padding_small = 0x7f010002
+lucas.vegi.findid:dimen/padding_large = 0x7f010000

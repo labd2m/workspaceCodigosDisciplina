@@ -2,14 +2,16 @@
 buildscript {
     repositories {
         jcenter()
+        google() //novo
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.0'
+        classpath 'com.android.tools.build:gradle:8.7.2'  //novo
     }
 }
 
 allprojects {
     repositories {
         jcenter()
+        google() //novo
     }
 }

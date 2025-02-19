@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "lucas.vegi.findid.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\ExemploFindViewByID\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,64,118,170",
+                        "endColumns": "43,52,50,52",
+                        "endOffsets": "58,112,164,218"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "189,233,286,337",
+                        "endColumns": "43,52,50,52",
+                        "endOffsets": "228,281,332,385"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\ExemploFindViewByID\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "390",
+                        "endColumns": "57",
+                        "endOffsets": "443"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\ExemploFindViewByID\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,64,19",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "150,104,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,145",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "95,140,184"
+                    }
+                }
+            ]
+        }
+    ]
+}
