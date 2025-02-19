@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.eventobotao.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.eventobotao.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/menu_tela_principal.xml.flat",
+        "source": "com.example.eventobotao.app-main-6:/menu/tela_principal.xml"
+    },
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/layout_view_principal.xml.flat",
+        "source": "com.example.eventobotao.app-main-6:/layout/view_principal.xml"
+    },
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.eventobotao.app-main-6:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.eventobotao.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.eventobotao.app-main-6:/drawable-mdpi/ic_launcher.png"
+    }
+]

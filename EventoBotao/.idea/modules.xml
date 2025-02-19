@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EventoBotao.iml" filepath="$PROJECT_DIR$/EventoBotao.iml" group="EventoBotao" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="EventoBotao/app" />
+      <module fileurl="file://$PROJECT_DIR$/EventoBotao.iml" filepath="$PROJECT_DIR$/EventoBotao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EventoBotao.app.unitTest.iml" />
     </modules>
   </component>
 </project>

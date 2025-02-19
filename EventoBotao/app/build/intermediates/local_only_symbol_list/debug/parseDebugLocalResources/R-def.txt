@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+id action_settings
+id bt
+id edtPrincipal
+id txtPrincipal
+layout view_principal
+menu tela_principal
+string action_settings
+string app_name
+string hello_world
+style AppBaseTheme
+style AppTheme

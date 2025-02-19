@@ -1,8 +1,9 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 30
     buildToolsVersion '25.0.0'
+    namespace "com.example.teste1"
 
     defaultConfig {
         applicationId "com.example.teste1"
@@ -20,8 +21,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+    implementation 'com.android.support:support-v4:18.0.0'
 }

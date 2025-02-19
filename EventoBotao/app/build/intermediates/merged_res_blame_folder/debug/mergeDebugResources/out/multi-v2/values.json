@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.eventobotao.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\EventoBotao\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "7,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "324,407",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "402,474"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\EventoBotao\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "109,59,163",
+                        "endColumns": "52,48,52",
+                        "endOffsets": "157,103,211"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,271",
+                        "endColumns": "52,48,52",
+                        "endOffsets": "217,266,319"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\EventoBotao\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

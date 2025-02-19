@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.example.teste1.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/menu_activity_main.xml.flat",
+        "source": "com.example.teste1.app-main-6:/menu/activity_main.xml"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.example.teste1.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.teste1.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    }
+]

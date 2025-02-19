@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.teste1.app-mergeDebugResources-2:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\ExemploLog\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,19",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "151,105,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        }
+    ]
+}
