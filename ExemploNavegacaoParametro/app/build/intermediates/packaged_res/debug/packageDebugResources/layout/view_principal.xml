@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/butMulti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="18dp"
+        android:layout_marginRight="26dp"
+        android:onClick="multiplicar"
+        android:text="Multiplicar" />
+
+    <Button
+        android:id="@+id/but"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/butMulti"
+        android:layout_alignBottom="@+id/butMulti"
+        android:layout_marginLeft="17dp"
+        android:layout_toRightOf="@+id/txt1"
+        android:onClick="somar"
+        android:text="Somar" />
+
+    <EditText
+        android:id="@+id/editValor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/but"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="92dp"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editValor1"
+        android:layout_alignLeft="@+id/editValor1"
+        android:layout_marginBottom="59dp"
+        android:text="Valor 1:" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editValor1"
+        android:layout_below="@+id/editValor1"
+        android:layout_marginTop="29dp"
+        android:text="Valor 2:" />
+
+    <EditText
+        android:id="@+id/editValor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="18dp"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/butMulti"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="66dp"
+        android:text="" />
+     
+</RelativeLayout>

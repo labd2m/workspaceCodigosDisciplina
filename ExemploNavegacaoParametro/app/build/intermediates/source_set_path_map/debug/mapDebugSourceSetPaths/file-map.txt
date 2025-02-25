@@ -1,0 +1,7 @@
+lucas.vegi.helloworld.app-pngs-0 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\build\generated\res\pngs\debug
+lucas.vegi.helloworld.app-resValues-1 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\build\generated\res\resValues\debug
+lucas.vegi.helloworld.app-packageDebugResources-2 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+lucas.vegi.helloworld.app-packageDebugResources-3 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+lucas.vegi.helloworld.app-debug-4 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\build\intermediates\merged_res\debug\mergeDebugResources
+lucas.vegi.helloworld.app-debug-5 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\src\debug\res
+lucas.vegi.helloworld.app-main-6 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploNavegacaoParametro\app\src\main\res

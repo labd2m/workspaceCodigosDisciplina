@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/layout_view_tela2.xml.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/layout/view_tela2.xml"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/menu_view_principal.xml.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/menu/view_principal.xml"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/menu_view_tela2.xml.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/menu/view_tela2.xml"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-hdpi_agenda.jpg.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-hdpi/agenda.jpg"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/layout_view_principal.xml.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/layout/view_principal.xml"
+    },
+    {
+        "merged": "lucas.vegi.helloworld.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "lucas.vegi.helloworld.app-main-6:/drawable-hdpi/ic_launcher.png"
+    }
+]

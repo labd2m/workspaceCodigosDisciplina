@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="lucas.vegi.exemplomenu"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:6:5-8:41
+8        android:minSdkVersion="8"
+8-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:7:9-34
+9        android:targetSdkVersion="15" />
+9-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:8:9-38
+10
+11    <application
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:10:5-32:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="true"
+14        android:icon="@drawable/ic_launcher"
+14-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:11:9-45
+15        android:label="@string/app_name"
+15-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:12:9-41
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:13:9-40
+18        <activity
+18-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:14:9-22:20
+19            android:name="lucas.vegi.exemplomenu.MainMenu"
+19-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:15:13-37
+20            android:label="@string/title_activity_main_menu" >
+20-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:16:13-61
+21            <intent-filter>
+21-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:17:13-21:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:18:17-69
+22-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:18:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:20:17-77
+24-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:20:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:23:9-31:20
+28            android:name="lucas.vegi.exemplomenu.Tela2"
+28-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:24:13-34
+29            android:label="@string/title_activity_tela2" >
+29-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:25:13-57
+30            <intent-filter>
+30-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:17:13-21:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:18:17-69
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:18:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:20:17-77
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemploListActivity\app\src\main\AndroidManifest.xml:20:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>

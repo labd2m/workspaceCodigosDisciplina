@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable agenda
+drawable ic_action_search
+drawable ic_launcher
+id but
+id butMulti
+id editValor1
+id editValor2
+id menu_settings
+id textView1
+id textView2
+id textViewResultado
+id textViewValor
+id txt1
+layout view_principal
+layout view_tela2
+menu view_principal
+menu view_tela2
+string app_name
+string hello_world
+string lucas
+string menu_settings
+string title_activity_hello
+string title_activity_tela2
+style AppTheme
