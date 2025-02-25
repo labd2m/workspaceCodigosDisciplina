@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_action_search
+drawable ic_launcher
+id TextoArquivo
+id butSalvar
+id button1
+id editText1
+id menu_settings
+id textView1
+layout activity_salva_le_arquivo
+menu activity_salva_le_arquivo
+string app_name
+string hello_world
+string menu_settings
+string title_activity_salva_le_arquivo
+style AppTheme

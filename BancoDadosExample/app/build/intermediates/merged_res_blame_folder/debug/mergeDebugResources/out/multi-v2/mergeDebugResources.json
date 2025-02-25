@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.bancodadosexample.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\BancoDadosExample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,64,19",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "150,104,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,145",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "95,140,184"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\BancoDadosExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "57",
+                        "endOffsets": "540"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\BancoDadosExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "19,75,129,249,181",
+                        "endColumns": "54,52,50,71,66",
+                        "endOffsets": "69,123,175,316,243"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "189,244,297,348,420",
+                        "endColumns": "54,52,50,71,66",
+                        "endOffsets": "239,292,343,415,482"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.bancodadosexample.app-debug-4:/values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\BancoDadosExample\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,19",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "151,105,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        }
+    ]
+}

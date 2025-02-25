@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_action_search
+drawable ic_launcher
+id button1
+id button2
+id edtNome
+id edtTel
+id menu_settings
+id textView1
+id textView2
+id txtPrincipal
+layout activity_princial_bd
+layout view_cadastar_autor
+menu activity_princial_bd
+menu view_cadastar_autor
+string app_name
+string hello_world
+string menu_settings
+string title_activity_cadastar_autor
+string title_activity_princial_bd
+style AppTheme
