@@ -14,19 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6beea7af-71f0-4bba-9425-c44343407230" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/migrations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/DemoArquivoTexto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/DemoArquivoTexto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +63,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1gKWiCktHuFCcP78U6Q27a08l5A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,22 +74,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "Gradle.Upgrade Gradle wrapper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/BancoDadosExample",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Upgrade Gradle wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/BancoDadosExample&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />

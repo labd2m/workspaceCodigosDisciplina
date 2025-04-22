@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/menu_view_main.xml.flat",
+        "source": "com.example.locationexemplo.app-main-6:/menu/view_main.xml"
+    },
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.locationexemplo.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.locationexemplo.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.locationexemplo.app-main-6:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.locationexemplo.app-main-6:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.locationexemplo.app-debug-4:/layout_view_main.xml.flat",
+        "source": "com.example.locationexemplo.app-main-6:/layout/view_main.xml"
+    }
+]

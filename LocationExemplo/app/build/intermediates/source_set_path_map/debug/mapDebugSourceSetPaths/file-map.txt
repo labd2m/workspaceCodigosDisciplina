@@ -1,0 +1,7 @@
+com.example.locationexemplo.app-pngs-0 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\build\generated\res\pngs\debug
+com.example.locationexemplo.app-resValues-1 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\build\generated\res\resValues\debug
+com.example.locationexemplo.app-packageDebugResources-2 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.locationexemplo.app-packageDebugResources-3 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.locationexemplo.app-debug-4 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.locationexemplo.app-debug-5 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\src\debug\res
+com.example.locationexemplo.app-main-6 C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LocationExemplo\app\src\main\res

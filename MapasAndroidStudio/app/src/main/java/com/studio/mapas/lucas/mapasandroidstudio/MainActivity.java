@@ -1,5 +1,6 @@
 package com.studio.mapas.lucas.mapasandroidstudio;
 
+import android.app.Activity;
 import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -11,6 +12,7 @@ import android.widget.EditText;
 import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
@@ -19,8 +21,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 //TODO
-public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
-//public class MainActivity extends FragmentActivity {
+//public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
+//public class MainActivity extends FragmentActivity {  // para SupportMapFragment
+public class MainActivity extends Activity { // para MapFragment
     private GoogleMap map;
 
     public LatLng vicosa = new LatLng(-20.752946, -42.879097);
@@ -29,15 +32,24 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //obtem fragmento de forma síncrona e adiciona marcador
+        //obtem fragmento de forma síncrona e adiciona marcador - SupportMapFragment
         /*map = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapa)).getMap();
         map.addMarker(new MarkerOptions()
-                        .position(vicosa).title("apt viçosa")
+                        .position(vicosa)
+                        .title("apt viçosa")
                         .snippet("eu morava aqui!")
                         .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));*/
 
+        //obtem fragmento de forma síncrona e adiciona marcador - MapFragment
+        map = ((MapFragment) getFragmentManager().findFragmentById(R.id.mapa)).getMap();
+        map.addMarker(new MarkerOptions()
+                        .position(vicosa)
+                        .title("apt viçosa")
+                        .snippet("eu morava aqui!")
+                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));
+
         //obtem fragmento de forma assíncrona
-        ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapa)).getMapAsync(this);
+        //((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapa)).getMapAsync(this);
 
     }
 
@@ -58,14 +70,16 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         map.animateCamera(c);
     }
 
-   @Override
+   /*@Override
+  // para maps assincronos
    public void onMapReady(GoogleMap googleMap) {
         map = googleMap;
 
         //adiciona marcador ao mapa obtido de forma assíncrona
         map.addMarker(new MarkerOptions()
-                .position(vicosa).title("apt viçosa")
+                .position(vicosa)
+                .title("apt viçosa")
                 .snippet("eu morava aqui!")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
-    }
+    }*/
 }

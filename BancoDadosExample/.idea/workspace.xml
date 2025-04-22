@@ -14,25 +14,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f15d7ab-8506-4019-b6aa-ce83556dc494" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules/app/ExemploListActivity.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules/app/ExemploListActivity.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules/app/ExemploListActivity.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules/app/ExemploListActivity.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/ExemploListActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListActivity/ExemploListActivity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListActivity/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/BancoDadosExample.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bancodadosexample/PrincipalBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bancodadosexample/PrincipalBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CicloDeVidaActivities/app/src/main/java/android/teste/lucasvegi/ciclodevidaactivities/Tela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CicloDeVidaActivities/app/src/main/java/android/teste/lucasvegi/ciclodevidaactivities/Tela2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploFindViewByID/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,38 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BancoDadosExample" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BancoDadosExample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BancoDadosExample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BancoDadosExample" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -72,9 +105,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="1gKX4h4W3hfgShUzfkDCIX7O0rB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -93,7 +126,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/DemoArquivoTexto",
+    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/MapasAndroidStudio",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>

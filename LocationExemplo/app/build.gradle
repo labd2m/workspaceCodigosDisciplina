@@ -3,6 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 19
     buildToolsVersion '25.0.0'
+    namespace "com.example.locationexemplo"
 
     defaultConfig {
         applicationId "com.example.locationexemplo"
@@ -19,5 +20,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
+    implementation 'com.android.support:support-v4:19.1.0'
 }

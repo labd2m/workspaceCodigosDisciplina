@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.support.v4.app.NavUtils;
+//import android.support.v4.app.NavUtils;
 
 public class PrincipalBD extends Activity {
 
