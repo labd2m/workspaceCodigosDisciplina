@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemploSensorGiroscopio.iml" filepath="$PROJECT_DIR$/ExemploSensorGiroscopio.iml" group="ExemploSensorGiroscopio" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ExemploSensorGiroscopio/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExemploSensorGiroscopio.iml" filepath="$PROJECT_DIR$/.idea/modules/ExemploSensorGiroscopio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopio.app.unitTest.iml" />
     </modules>
   </component>
 </project>

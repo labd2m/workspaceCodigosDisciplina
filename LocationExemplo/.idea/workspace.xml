@@ -14,68 +14,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3946a63d-305e-45cd-abe0-f43617051d9b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/LocationExemplo.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/LocationExemplo.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/LocationExemplo.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/LocationExemplo.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules/app/MapasAndroidStudio.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules/app/MapasAndroidStudio.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules/app/MapasAndroidStudio.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules/app/MapasAndroidStudio.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.idea/modules/app/BancoDadosExample.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.idea/modules/app/BancoDadosExample.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BancoDadosExample/app/src/main/java/com/example/bancodadosexample/PrincipalBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BancoDadosExample/app/src/main/java/com/example/bancodadosexample/PrincipalBD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CicloDeVidaActivities/app/src/main/java/android/teste/lucasvegi/ciclodevidaactivities/Tela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CicloDeVidaActivities/app/src/main/java/android/teste/lucasvegi/ciclodevidaactivities/Tela2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoArquivoTexto/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploFindViewByID/.idea/caches/deviceStreaming.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploNavegacaoParametro/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_19_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/ExemploListaSensores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/ExemploListaSensores.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/ExemploSensorLuminosidade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/ExemploSensorLuminosidade.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LocationExemplo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LocationExemplo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/MapasAndroidStudio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/MapasAndroidStudio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad23d0e8bc2027ed88d15e5dd6c813e8b8ebda0b5ed2ad20d6fd08a6f61e6c4_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad23d0e8bc2027ed88d15e5dd6c813e8b8ebda0b5ed2ad20d6fd08a6f61e6c4_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/locationexemplo/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/locationexemplo/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/writeDebugSigningConfigVersions/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/writeDebugSigningConfigVersions/signing-config-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/.idea/caches/deviceStreaming.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/app/src/main/java/com/studio/mapas/lucas/mapasandroidstudio/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/app/src/main/java/com/studio/mapas/lucas/mapasandroidstudio/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapasAndroidStudio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MapasAndroidStudio/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +72,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\lucas\.android\avd\Pixel_2_API_22.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=ab4e8878)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -113,9 +93,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="1gKYcSJ45e9uV7XtYzaC4pZNujS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,7 +117,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/LocationExemplo",
+    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/ExemploListaSensores",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",

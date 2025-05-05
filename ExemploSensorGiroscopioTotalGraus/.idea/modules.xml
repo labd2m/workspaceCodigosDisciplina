@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemploSensorGiroscopioTotalGraus.iml" filepath="$PROJECT_DIR$/ExemploSensorGiroscopioTotalGraus.iml" group="ExemploSensorGiroscopioTotalGraus" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ExemploSensorGiroscopioTotalGraus/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExemploSensorGiroscopioTotalGraus.iml" filepath="$PROJECT_DIR$/.idea/modules/ExemploSensorGiroscopioTotalGraus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorGiroscopioTotalGraus.app.unitTest.iml" />
     </modules>
   </component>
 </project>

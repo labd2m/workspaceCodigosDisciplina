@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemploSensorAcelerometro.iml" filepath="$PROJECT_DIR$/ExemploSensorAcelerometro.iml" group="ExemploSensorAcelerometro" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ExemploSensorAcelerometro/app" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploSensorAcelerometro.iml" filepath="$PROJECT_DIR$/ExemploSensorAcelerometro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploSensorAcelerometro.app.unitTest.iml" />
     </modules>
   </component>
 </project>

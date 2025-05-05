@@ -21,9 +21,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 //TODO
-//public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
+public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
 //public class MainActivity extends FragmentActivity {  // para SupportMapFragment
-public class MainActivity extends Activity { // para MapFragment
+//public class MainActivity extends Activity { // para MapFragment
     private GoogleMap map;
 
     public LatLng vicosa = new LatLng(-20.752946, -42.879097);
@@ -41,16 +41,18 @@ public class MainActivity extends Activity { // para MapFragment
                         .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));*/
 
         //obtem fragmento de forma síncrona e adiciona marcador - MapFragment
-        map = ((MapFragment) getFragmentManager().findFragmentById(R.id.mapa)).getMap();
+        /*map = ((MapFragment) getFragmentManager().findFragmentById(R.id.mapa)).getMap();
         map.addMarker(new MarkerOptions()
                         .position(vicosa)
                         .title("apt viçosa")
                         .snippet("eu morava aqui!")
-                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));
+                        .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));*/
 
         //obtem fragmento de forma assíncrona
-        //((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapa)).getMapAsync(this);
+        ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mapa)).getMapAsync(this);
 
+        //map.setBuildingsEnabled(true);
+        //map.setMyLocationEnabled(true);
     }
 
     public void clickVicosa(View v){
@@ -67,13 +69,17 @@ public class MainActivity extends Activity { // para MapFragment
                         .zoom(z)  //varia de 1 (menor) a 21 (maior)
                         .build());
 
-        map.animateCamera(c);
+        //map.animateCamera(c);
+        map.moveCamera(c);
     }
 
-   /*@Override
+   @Override
   // para maps assincronos
    public void onMapReady(GoogleMap googleMap) {
         map = googleMap;
+
+        map.setBuildingsEnabled(true);
+        map.setMyLocationEnabled(true);
 
         //adiciona marcador ao mapa obtido de forma assíncrona
         map.addMarker(new MarkerOptions()
@@ -81,5 +87,5 @@ public class MainActivity extends Activity { // para MapFragment
                 .title("apt viçosa")
                 .snippet("eu morava aqui!")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
-    }*/
+    }
 }

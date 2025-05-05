@@ -3,6 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 23
     buildToolsVersion '25.0.0'
+    namespace "teste.lucasvegi.exemplosensorluminosidade"
 
     defaultConfig {
         applicationId "teste.lucasvegi.exemplosensorluminosidade"
@@ -20,6 +21,6 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:23.1.1'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:23.1.1'
 }

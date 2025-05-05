@@ -31,6 +31,7 @@ public class MainActivity extends Activity implements SensorEventListener{
             //obtem o valor maximo que pode ser retornado pelo sensor
             float max = sensor.getMaximumRange();
             Log.i("SENSOR_RANGE", "Range: " + max);
+            Log.i("SENSOR_RESOLUTION", "Resolution: " + sensor.getResolution());
             //atualiza o máximo da barra
             barra.setMax((int) max);
         }else{
