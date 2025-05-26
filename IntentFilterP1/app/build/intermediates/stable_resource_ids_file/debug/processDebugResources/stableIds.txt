@@ -1,0 +1,15 @@
+com.example.intentfilterp1:string/hello_world = 0x7f060001
+com.example.intentfilterp1:layout/view_it1 = 0x7f040000
+com.example.intentfilterp1:string/app_name = 0x7f060000
+com.example.intentfilterp1:menu/view_it1 = 0x7f050000
+com.example.intentfilterp1:id/button1 = 0x7f030000
+com.example.intentfilterp1:drawable/ic_action_search = 0x7f020000
+com.example.intentfilterp1:dimen/padding_small = 0x7f010002
+com.example.intentfilterp1:string/title_activity_it1 = 0x7f060003
+com.example.intentfilterp1:drawable/ic_launcher = 0x7f020001
+com.example.intentfilterp1:id/button2 = 0x7f030001
+com.example.intentfilterp1:style/AppTheme = 0x7f070000
+com.example.intentfilterp1:dimen/padding_medium = 0x7f010001
+com.example.intentfilterp1:id/menu_settings = 0x7f030002
+com.example.intentfilterp1:string/menu_settings = 0x7f060002
+com.example.intentfilterp1:dimen/padding_large = 0x7f010000

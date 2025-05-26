@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\layout_activity_conta_chamada.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\layout\\activity_conta_chamada.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.camerasimples.app-debug-4:/layout_activity_conta_chamada.xml.flat",
+        "source": "com.example.camerasimples.app-main-6:/layout/activity_conta_chamada.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\menu_conta_chamada.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\menu\\conta_chamada.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-debug-4:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\com.example.camerasimples.app-main-6:\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

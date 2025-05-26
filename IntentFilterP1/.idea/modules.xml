@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntentFilterP1.iml" filepath="$PROJECT_DIR$/IntentFilterP1.iml" group="IntentFilterP1" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IntentFilterP1/app" />
+      <module fileurl="file://$PROJECT_DIR$/IntentFilterP1.iml" filepath="$PROJECT_DIR$/IntentFilterP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentFilterP1.app.unitTest.iml" />
     </modules>
   </component>
 </project>

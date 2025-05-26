@@ -20,7 +20,7 @@ public class Tela2 extends Activity {
        	//Seta msg de retorno
        	it.putExtra("msg", "Destruí!!!");
 
-       	//Comentar para demestrar Intent nula no retorno quando fechar tela no back
+       	//Comentar para demonstrar Intent nula no retorno quando fechar tela no back
     	setResult(3, it);*/
     }
 

@@ -1,0 +1,16 @@
+com.example.homealternativa:string/title_activity_home_alternativa = 0x7f060003
+com.example.homealternativa:string/hello_world = 0x7f060001
+com.example.homealternativa:menu/view_home_alternativa = 0x7f050000
+com.example.homealternativa:style/AppTheme = 0x7f070000
+com.example.homealternativa:id/menu_settings = 0x7f030000
+com.example.homealternativa:layout/view_home_alternativa = 0x7f040000
+com.example.homealternativa:id/textView2 = 0x7f030003
+com.example.homealternativa:dimen/padding_large = 0x7f010000
+com.example.homealternativa:id/textView1 = 0x7f030002
+com.example.homealternativa:string/app_name = 0x7f060000
+com.example.homealternativa:id/scrollView1 = 0x7f030001
+com.example.homealternativa:string/menu_settings = 0x7f060002
+com.example.homealternativa:dimen/padding_small = 0x7f010002
+com.example.homealternativa:drawable/ic_action_search = 0x7f020000
+com.example.homealternativa:drawable/ic_launcher = 0x7f020001
+com.example.homealternativa:dimen/padding_medium = 0x7f010001

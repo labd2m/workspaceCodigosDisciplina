@@ -25,7 +25,8 @@ public class Phone extends Activity {
     	Uri uri = Uri.parse("tel:5556");
     	
     	//Cria a Intent com o telefone
-    	Intent it = new Intent(Intent.ACTION_DIAL, uri);
+    	//Intent it = new Intent(Intent.ACTION_DIAL, uri);
+        Intent it = new Intent(Intent.ACTION_CALL, uri);
     	
     	//Envia a mensagem para o sistema operacional
     	startActivity(it);	  	

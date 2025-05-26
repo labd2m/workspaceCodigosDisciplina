@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntentBrowser.iml" filepath="$PROJECT_DIR$/IntentBrowser.iml" group="IntentBrowser" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IntentBrowser/app" />
+      <module fileurl="file://$PROJECT_DIR$/IntentBrowser.iml" filepath="$PROJECT_DIR$/IntentBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentBrowser.app.unitTest.iml" />
     </modules>
   </component>
 </project>

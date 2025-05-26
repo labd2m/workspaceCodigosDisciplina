@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_action_search
+drawable ic_launcher
+id butLigar
+id menu_settings
+layout view_principal
+menu view_principal
+string app_name
+string hello_world
+string menu_settings
+string title_activity_navegador
+style AppTheme

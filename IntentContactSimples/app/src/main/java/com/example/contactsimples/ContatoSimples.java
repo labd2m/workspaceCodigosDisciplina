@@ -22,7 +22,7 @@ public class ContatoSimples extends Activity {
         setContentView(R.layout.view_tela1);
     }
 
-	/*public void Navegar(View v){
+	public void Navegar(View v){
 
 		Uri uri = Uri.parse("content://com.android.contacts/contacts/1");
 
@@ -31,7 +31,7 @@ public class ContatoSimples extends Activity {
 
         Intent it = new Intent(Intent.ACTION_VIEW, uri);
 		startActivity(it);
-	}*/
+	}
 
     /*public void Navegar(View v){
     	
@@ -40,12 +40,12 @@ public class ContatoSimples extends Activity {
     	startActivity(it);
     }*/
 
-    public void Navegar(View v){
+    /*public void Navegar(View v){
     	
     	Uri uri = Uri.parse("content://com.android.contacts/contacts/");
     	Intent it = new Intent(Intent.ACTION_PICK, uri);
     	startActivityForResult(it, 10);
-    }
+    }*/
 
 
     @Override

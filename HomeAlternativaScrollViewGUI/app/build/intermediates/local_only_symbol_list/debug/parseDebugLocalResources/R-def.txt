@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_action_search
+drawable ic_launcher
+id menu_settings
+id scrollView1
+id textView1
+id textView2
+layout view_home_alternativa
+menu view_home_alternativa
+string app_name
+string hello_world
+string menu_settings
+string title_activity_home_alternativa
+style AppTheme

@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.homealternativa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:6:5-8:41
+8        android:minSdkVersion="8"
+8-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:7:9-34
+9        android:targetSdkVersion="21" />
+9-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:8:9-38
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:9:5-66
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:9:22-64
+12
+13    <application
+13-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:11:5-30:19
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:12:9-45
+16        android:label="@string/app_name"
+16-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:13:9-41
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:14:9-40
+19        <activity
+19-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:15:9-28:20
+20            android:name="com.example.homealternativa.HomeAlternativa"
+20-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:16:13-44
+21            android:label="@string/title_activity_home_alternativa" >
+21-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:17:13-68
+22
+23            <!--
+24            <intent-filter>
+25                <action android:name="android.intent.action.MAIN" />
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+28            </intent-filter>
+29            -->
+30            <intent-filter>
+30-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:24:17-69
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.DEFAULT" />
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:25:5-64
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:25:15-61
+34                <category android:name="android.intent.category.HOME" />
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:26:17-73
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\HomeAlternativaScrollViewGUI\app\src\main\AndroidManifest.xml:26:27-70
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>

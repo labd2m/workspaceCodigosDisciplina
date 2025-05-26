@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntentRetornaValorActivity.iml" filepath="$PROJECT_DIR$/IntentRetornaValorActivity.iml" group="IntentRetornaValorActivity" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IntentRetornaValorActivity/app" />
+      <module fileurl="file://$PROJECT_DIR$/IntentRetornaValorActivity.iml" filepath="$PROJECT_DIR$/IntentRetornaValorActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntentRetornaValorActivity.app.unitTest.iml" />
     </modules>
   </component>
 </project>

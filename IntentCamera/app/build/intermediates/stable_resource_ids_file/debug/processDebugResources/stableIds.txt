@@ -1,0 +1,16 @@
+com.example.camerasimples:style/AppTheme = 0x7f070001
+com.example.camerasimples:id/button2 = 0x7f030003
+com.example.camerasimples:style/AppBaseTheme = 0x7f070000
+com.example.camerasimples:id/button1 = 0x7f030002
+com.example.camerasimples:menu/conta_chamada = 0x7f050000
+com.example.camerasimples:string/action_settings = 0x7f060000
+com.example.camerasimples:id/button = 0x7f030001
+com.example.camerasimples:string/hello_world = 0x7f060002
+com.example.camerasimples:id/gerenciador = 0x7f030005
+com.example.camerasimples:string/app_name = 0x7f060001
+com.example.camerasimples:id/foto = 0x7f030004
+com.example.camerasimples:layout/activity_conta_chamada = 0x7f040000
+com.example.camerasimples:id/action_settings = 0x7f030000
+com.example.camerasimples:dimen/activity_vertical_margin = 0x7f010001
+com.example.camerasimples:drawable/ic_launcher = 0x7f020000
+com.example.camerasimples:dimen/activity_horizontal_margin = 0x7f010000

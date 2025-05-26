@@ -1,0 +1,16 @@
+com.example.intentsms:string/hello_world = 0x7f060001
+com.example.intentsms:string/menu_settings = 0x7f060002
+com.example.intentsms:string/app_name = 0x7f060000
+com.example.intentsms:id/butEnviar = 0x7f030000
+com.example.intentsms:id/texto = 0x7f030003
+com.example.intentsms:id/menu_settings = 0x7f030001
+com.example.intentsms:style/AppTheme = 0x7f070000
+com.example.intentsms:string/title_activity_navegador = 0x7f060003
+com.example.intentsms:layout/view_principal = 0x7f040000
+com.example.intentsms:id/textView1 = 0x7f030002
+com.example.intentsms:drawable/ic_launcher = 0x7f020001
+com.example.intentsms:drawable/ic_action_search = 0x7f020000
+com.example.intentsms:menu/view_principal = 0x7f050000
+com.example.intentsms:dimen/padding_medium = 0x7f010001
+com.example.intentsms:dimen/padding_small = 0x7f010002
+com.example.intentsms:dimen/padding_large = 0x7f010000
