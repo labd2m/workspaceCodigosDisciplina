@@ -5,35 +5,194 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="babf43b8-af29-4fe2-b010-cf51f91f42ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/build/android-profile/profile-2020-12-04-10-19-48-240.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/build/android-profile/profile-2020-12-04-10-50-47-061.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-12-04-11-32-10-605.rawproto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/build/android-profile/profile-2020-12-04-11-03-44-577.rawproto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploObserverMVC/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules/app/ExemplosGUIlayout.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules/app/ExemplosGUIlayout.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules/app/ExemplosGUIlayout.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules/app/ExemplosGUIlayout.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules/app/HomeAlternativaScrollViewGUI.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules/app/HomeAlternativaScrollViewGUI.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules/app/HomeAlternativaScrollViewGUI.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules/app/HomeAlternativaScrollViewGUI.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAbsoluteLayout/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploAbsoluteLayout/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/classes/debug/br/livro/android/cap6/MudaOrientacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/classes/debug/br/livro/android/cap6/MudaOrientacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/pre-dexed/debug/debug_c36a966822bd1aa6549786521abe592542ec360e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/pre-dexed/debug/debug_c36a966822bd1aa6549786521abe592542ec360e.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/outputs/apk/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/ExemplosGUIlayout.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/ExemplosGUIlayout.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/java/br/livro/android/cap6/layout/api/ExemploLinearLayoutAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/java/br/livro/android/cap6/layout/api/ExemploLinearLayoutAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/res/layout-land/linear_layout_vertical.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/res/layout-land/linear_layout_vertical.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/res/layout/linear_layout_vertical.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/app/src/main/res/layout/linear_layout_vertical.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosGUIlayout/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemplosGUIlayout/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExemplosGUIprogressDialog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExemplosGUIprogressDialog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/HomeAlternativaScrollViewGUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/HomeAlternativaScrollViewGUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeAlternativaScrollViewGUI/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/contactsimples/ContatoSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/contactsimples/ContatoSimples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/merged_res/debug/mergeDebugResources/layout_view_tela1.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/merged_res/debug/mergeDebugResources/layout_view_tela1.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/view_tela1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/view_tela1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/7a65a2926d891c36ea350cacca8684312ebe89c61c7bfc3c971779701e97529d_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/contactsimples/ContatoSimples.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/contactsimples/ContatoSimples.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ContatoSimples.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ContatoSimples.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/java/com/example/contactsimples/ContatoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/java/com/example/contactsimples/ContatoSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/res/layout/view_tela1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/res/layout/view_tela1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentphone/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentphone/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/intentphone/Phone.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/intentphone/Phone.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/src/main/java/com/example/intentphone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/src/main/java/com/example/intentphone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/apk/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/retornavaloractivity/Tela2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/retornavaloractivity/Tela2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/retornavaloractivity/Tela1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/retornavaloractivity/Tela1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/retornavaloractivity/Tela2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/retornavaloractivity/Tela2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/e1ce940b1863ff6fe1b5d3a6b9f103aee23066484a46eb1b38630b81947a39ed_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/e1ce940b1863ff6fe1b5d3a6b9f103aee23066484a46eb1b38630b81947a39ed_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/signing_config_versions/debug/writeDebugSigningConfigVersions/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/signing_config_versions/debug/writeDebugSigningConfigVersions/signing-config-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/src/main/java/com/example/retornavaloractivity/Tela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/src/main/java/com/example/retornavaloractivity/Tela2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentsms/Mensagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentsms/Mensagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/intentsms/Mensagem.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/intentsms/Mensagem.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/src/main/java/com/example/intentsms/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/src/main/java/com/example/intentsms/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MenuAndroidNovo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MenuAndroidNovo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/LivroAndroidCap07-View.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/LivroAndroidCap07-View.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LivroAndroidCap07-View/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LivroAndroidCap07-View/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -42,7 +201,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_23" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\lucas\.android\avd\Pixel_2_API_22.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -55,34 +214,45 @@
       </state>
     </system>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="ExemplosGUIprogressDialog" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="1gKkqcSoneAiT2kkRJ36moJWNky" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android_2_3_3_intel" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="device.picker.selection" value="Android_2_3_3_x86" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/ExemploCustomToast",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
   <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -120,32 +290,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="app" />
+      <module name="ExemplosGUIprogressDialog.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -155,6 +317,8 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Auto>
       <Hybrid>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -162,22 +326,34 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Hybrid>
-      <Java />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
       <Native>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -228,10 +404,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Android App.app" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -255,11 +441,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="141" y="123" width="983" height="749" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1606907105554">
-      <screen x="0" y="23" width="1920" height="975" />
-    </state>
-    <state x="141" y="123" width="983" height="749" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1920.975@0.23.1920.975" timestamp="1606907105554" />
   </component>
 </project>

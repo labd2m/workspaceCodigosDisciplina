@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MenuAndroidNovo.iml" filepath="$PROJECT_DIR$/MenuAndroidNovo.iml" group="MenuAndroidNovo" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MenuAndroidNovo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MenuAndroidNovo.iml" filepath="$PROJECT_DIR$/.idea/modules/MenuAndroidNovo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MenuAndroidNovo.app.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:background="#E3E3E3">
+	<TextView
+		android:id="@+id/labelUsuario"
+		android:layout_width="55dp"
+		android:layout_height="wrap_content"
+		android:text="Usuário: "/>
+	<!-- Ao lado do label Usuário "layout_toRight" -->
+	<EditText
+		android:id="@+id/campoUsuario"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf="@id/labelUsuario" />
+	<!-- Senha: abaixo do campoUsuario "layout_below", alinhado a esquerda -->
+	<TextView
+		android:id="@+id/labelSenha"
+		android:layout_width="55dp"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/campoUsuario"
+		android:gravity="left"
+		android:text="Senha: "/>
+	<!-- Ao lado do label Senha "layout_toRight" -->
+	<EditText
+		android:id="@+id/campoSenha"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf="@id/labelSenha"
+		android:layout_alignTop="@id/labelSenha"
+		android:password="true" />
+	<!-- Abaixo do campoSenha "layout_below", alinhado a direita -->
+	<Button
+		android:id="@+id/btLogin"
+		android:layout_width="wrap_content"
+		android:layout_height="35dp"
+		android:layout_below="@id/campoSenha"
+		android:layout_marginTop="10dp"
+		android:layout_alignParentRight="true"
+		android:text="Login" />
+</RelativeLayout>

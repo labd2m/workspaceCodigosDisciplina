@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.LinearLayout.LayoutParams;
 
 /**
- * Exemplo de criação de um LinearLayout apenas pela API, sem XML
+ * Exemplo de criacao de um LinearLayout apenas pela API, sem XML
  * 
  * @author ricardo
  *
@@ -66,7 +66,7 @@ public class ExemploLinearLayoutAPI extends Activity {
 		tsenha.setTransformationMethod(new PasswordTransformationMethod());
 		layout.addView(tsenha);
 
-		// Botão alinhado a direita
+		// Botï¿½o alinhado a direita
 		Button ok = new Button(this);
 		ok.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,LayoutParams.WRAP_CONTENT));
 		ok.setGravity(Gravity.RIGHT);

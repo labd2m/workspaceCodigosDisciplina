@@ -4,6 +4,7 @@ int dimen padding_small 0x7f010002
 int drawable ic_action_search 0x7f020000
 int drawable ic_launcher 0x7f020001
 int id button1 0x7f030000
+int id button2 0x7f030002
 int id menu_settings 0x7f030001
 int layout view_tela1 0x7f040000
 int menu view_tela1 0x7f050000

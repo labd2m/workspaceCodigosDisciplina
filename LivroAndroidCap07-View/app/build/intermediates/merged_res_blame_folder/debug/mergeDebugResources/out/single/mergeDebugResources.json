@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_check_radio_form.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/check_radio_form.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_scrollview.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_scrollview.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_triste.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/triste.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_image_button.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_image_button.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_smile2.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/smile2.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_main.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_venus.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/venus.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_plutao.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/plutao.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_smile_detalhes.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/smile_detalhes.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_excluir.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/excluir.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_toogle_button.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_toogle_button.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_novo.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/novo.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_auto_complete_textview.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/auto_complete_textview.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_jupiter.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/jupiter.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_android.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/android.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_icon.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/icon.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_sair.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/sair.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_toast.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_toast.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_alert_dialog.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_progress_dialog.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_progress_dialog.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_layout_listview.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/layout_listview.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_naoencontrado.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/naoencontrado.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_salvar.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/salvar.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_browser.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/browser.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_smile1.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/smile1.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_text_view.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_text_view.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_spinner.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_spinner.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_imagem.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_imagem.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_urano.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/urano.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_louco.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/louco.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_outros.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/outros.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_marte.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/marte.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_terra.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/terra.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_limpar.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/limpar.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_mercurio.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/mercurio.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_balloons.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/balloons.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_netuno.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/netuno.jpg"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_edit_text.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_edit_text.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_barra_progresso.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_barra_progresso.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_pesquisar.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/pesquisar.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_feliz.png.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/feliz.png"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/layout_exemplo_toast_view_inflate.xml.flat",
+        "source": "br.livro.android.cap7.app-main-6:/layout/exemplo_toast_view_inflate.xml"
+    },
+    {
+        "merged": "br.livro.android.cap7.app-debug-4:/drawable_saturno.jpg.flat",
+        "source": "br.livro.android.cap7.app-main-6:/drawable/saturno.jpg"
+    }
+]

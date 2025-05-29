@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.livro.android.cap7.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lucas\\AndroidStudioProjects\\workspaceCodigosDisciplina\\LivroAndroidCap07-View\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,57,158",
+                        "endColumns": "46,51,57",
+                        "endOffsets": "152,104,211"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,154",
+                        "endColumns": "46,51,57",
+                        "endOffsets": "97,149,207"
+                    }
+                }
+            ]
+        }
+    ]
+}

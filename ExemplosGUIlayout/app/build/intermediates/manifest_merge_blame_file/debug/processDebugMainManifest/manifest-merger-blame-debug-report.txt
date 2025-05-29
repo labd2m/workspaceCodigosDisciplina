@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.livro.android.cap6"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+7-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:59:5-43
+8        android:minSdkVersion="2"
+8-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:59:15-40
+9        android:targetSdkVersion="2" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:57:5-67
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:57:22-64
+12
+13    <application
+13-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:7:5-55:19
+14        android:debuggable="true"
+15        android:icon="@drawable/icon"
+15-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:8:9-38
+16        android:label="@string/app_name"
+16-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:9:9-41
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:10:9-40
+19        <activity
+19-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:11:9-19:20
+20            android:name="br.livro.android.cap6.Menu"
+20-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:12:13-54
+21            android:label="@string/app_name" >
+21-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:13:13-45
+22            <intent-filter>
+22-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="br.livro.android.cap6.MenuLayouts" />
+28-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:20:9-70
+28-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:20:19-67
+29        <activity android:name="br.livro.android.cap6.MenuLayouts1" />
+29-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:21:9-71
+29-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:21:19-68
+30        <activity android:name="br.livro.android.cap6.MenuBasicoLayouts" />
+30-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:22:9-76
+30-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:22:19-73
+31        <activity
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:23:9-25:51
+32            android:name="br.livro.android.cap6.ActivityLayoutIdGenerica"
+32-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:24:13-74
+33            android:configChanges="orientation" />
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:25:13-48
+34        <activity android:name="br.livro.android.cap6.layout.api.ExemploLinearLayoutAPI" />
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:26:9-92
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:26:19-89
+35        <activity android:name="br.livro.android.cap6.layout.api.ExemploTableLayoutAPI" />
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:27:9-91
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:27:19-88
+36        <activity android:name="br.livro.android.cap6.layout.ExemploScrollView" />
+36-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:28:9-83
+36-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:28:19-80
+37        <activity android:name="br.livro.android.cap6.layout.ExemploGridView" />
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:29:9-81
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:29:19-78
+38        <activity android:name="br.livro.android.cap6.layout.ExemploGallery" />
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:30:9-80
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:30:19-77
+39        <activity android:name="br.livro.android.cap6.layout.ExemploImageSwitcher" />
+39-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:31:9-86
+39-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:31:19-83
+40        <activity android:name="br.livro.android.cap6.layout.ExemploWebView" />
+40-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:32:9-80
+40-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:32:19-77
+41        <activity android:name="br.livro.android.cap6.layout.tab.ExemploTabHost" />
+41-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:33:9-84
+41-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:33:19-81
+42        <activity android:name="br.livro.android.cap6.layout.ExemploViewFlipper" />
+42-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:34:9-84
+42-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:34:19-81
+43        <activity android:name="br.livro.android.cap6.layout.tab.Tab1" />
+43-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:35:9-74
+43-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:35:19-71
+44        <activity android:name="br.livro.android.cap6.layout.tab.Tab2" />
+44-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:36:9-74
+44-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:36:19-71
+45        <activity android:name="br.livro.android.cap6.layout.tab.Tab3" />
+45-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:37:9-74
+45-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:37:19-71
+46        <activity
+46-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:38:9-41:20
+47            android:name="br.livro.android.cap6.layout.tab.Aba1"
+47-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:39:13-65
+48            android:label="@string/title_activity_aba1" >
+48-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:40:13-56
+49        </activity>
+50        <activity
+50-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:42:9-45:20
+51            android:name="br.livro.android.cap6.layout.tab.Aba2"
+51-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:43:13-65
+52            android:label="@string/title_activity_aba2" >
+52-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:44:13-56
+53        </activity>
+54        <activity
+54-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:46:9-54:20
+55            android:name="br.livro.android.cap6.MudaOrientacao"
+55-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:47:13-64
+56            android:label="@string/title_activity_muda_orientacao"
+56-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:48:13-67
+57            android:screenOrientation="fullSensor" >
+57-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:49:13-51
+58            <intent-filter>
+58-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:14:13-18:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:15:17-69
+59-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:15:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:17:17-77
+61-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\ExemplosGUIlayout\app\src\main\AndroidManifest.xml:17:27-74
+62            </intent-filter>
+63        </activity>
+64    </application>
+65
+66</manifest>

@@ -25,7 +25,7 @@ public class Mensagem extends Activity {
     	
     	String msg = edt.getText().toString();
     	
-    	Uri uri = Uri.parse("sms:5556");
+    	Uri uri = Uri.parse("sms:5554");
     	
     	Intent it = new Intent(Intent.ACTION_SENDTO, uri);
     	it.putExtra("sms_body", msg);

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemploAbsoluteLayout.iml" filepath="$PROJECT_DIR$/ExemploAbsoluteLayout.iml" group="ExemploAbsoluteLayout" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ExemploAbsoluteLayout/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExemploAbsoluteLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/ExemploAbsoluteLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemploAbsoluteLayout.app.unitTest.iml" />
     </modules>
   </component>
 </project>

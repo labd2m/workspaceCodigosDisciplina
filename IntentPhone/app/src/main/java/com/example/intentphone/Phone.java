@@ -22,11 +22,11 @@ public class Phone extends Activity {
     public void Ligar(View v){
     	
     	//Representa o telefone para onde ligar
-    	Uri uri = Uri.parse("tel:5556");
+    	Uri uri = Uri.parse("tel:5554");
     	
     	//Cria a Intent com o telefone
-    	//Intent it = new Intent(Intent.ACTION_DIAL, uri);
-        Intent it = new Intent(Intent.ACTION_CALL, uri);
+    	Intent it = new Intent(Intent.ACTION_DIAL, uri);
+        //Intent it = new Intent(Intent.ACTION_CALL, uri);
     	
     	//Envia a mensagem para o sistema operacional
     	startActivity(it);	  	

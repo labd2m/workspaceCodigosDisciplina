@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExemplosGUIlayout.iml" filepath="$PROJECT_DIR$/ExemplosGUIlayout.iml" group="ExemplosGUIlayout" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ExemplosGUIlayout/app" />
+      <module fileurl="file://$PROJECT_DIR$/ExemplosGUIlayout.iml" filepath="$PROJECT_DIR$/ExemplosGUIlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExemplosGUIlayout.app.unitTest.iml" />
     </modules>
   </component>
 </project>

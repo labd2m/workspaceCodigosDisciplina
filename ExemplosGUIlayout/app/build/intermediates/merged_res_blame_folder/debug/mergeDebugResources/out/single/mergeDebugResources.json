@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_marte.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\marte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_weight_text.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_weight_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_smile1.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\smile1.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_jupiter.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\jupiter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_frame_layout_background.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\frame_layout_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_form_aninhado.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_form_aninhado.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_balloons.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\balloons.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout-land_linear_layout_vertical.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout-land\\linear_layout_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\menu_muda_orientacao.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\menu\\muda_orientacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_table_layout_stretch.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\table_layout_stretch.xml"
+    },
+    {
+        "merged": "br.livro.android.cap6.app-debug-4:/layout-land_linear_layout_vertical.xml.flat",
+        "source": "br.livro.android.cap6.app-main-6:/layout-land/linear_layout_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_terra.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\terra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\menu_view_aba2.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\menu\\view_aba2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_gravity.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_gravity.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_table_layout_form.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\table_layout_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_urano.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\urano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_view_aba1.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\view_aba1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_saturno.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\saturno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_relative_layout_form.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\relative_layout_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_mercurio.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\mercurio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_table_layout_shrink.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\table_layout_shrink.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_view_aba2.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\view_aba2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_exemplo_grid.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\exemplo_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_smile2.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\smile2.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\menu_view_aba1.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\menu\\view_aba1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_vertical.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_venus.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\venus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_main.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_netuno.jpg.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\netuno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_exemplo_scrollview.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\exemplo_scrollview.xml"
+    },
+    {
+        "merged": "br.livro.android.cap6.app-debug-4:/layout_linear_layout_vertical.xml.flat",
+        "source": "br.livro.android.cap6.app-main-6:/layout/linear_layout_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_plutao.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\plutao.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_absolute_layout_form.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\absolute_layout_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_exemplo_tab_host.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\exemplo_tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_v_center.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_v_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_horizontal.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_weight_colors.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_weight_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_match_parent.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_match_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-debug-4:\\layout_linear_layout_weight_text_2.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\8.9\\br.livro.android.cap6.app-main-6:\\layout\\linear_layout_weight_text_2.xml"
+    }
+]

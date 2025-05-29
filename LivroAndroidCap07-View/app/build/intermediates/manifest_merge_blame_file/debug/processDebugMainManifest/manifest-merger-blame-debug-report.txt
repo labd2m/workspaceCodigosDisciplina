@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.livro.android.cap7"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:34:2-40
+8        android:minSdkVersion="2"
+8-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:34:12-37
+9        android:targetSdkVersion="2" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:31:5-67
+11-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:31:22-64
+12    <uses-permission android:name="android.permission.READ_CONTACTS" />
+12-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:32:2-68
+12-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:32:19-66
+13
+14    <application
+14-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:6:5-29:19
+15        android:debuggable="true"
+16        android:icon="@drawable/icon"
+16-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:6:18-47
+17        android:label="@string/app_name"
+17-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:6:48-80
+18        android:testOnly="true"
+19        android:theme="@android:style/Theme.Light" >
+19-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:6:81-123
+20        <activity
+20-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:7:9-12:20
+21            android:name="br.livro.android.cap7.Menu"
+21-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:7:19-39
+22            android:label="@string/app_name" >
+22-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:7:40-72
+23            <intent-filter>
+23-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:8:13-11:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:9:17-69
+24-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:9:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:10:17-77
+26-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:10:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="br.livro.android.cap7.view.ActivityLayoutIdGenerica" />
+29-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:14:9-67
+29-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:14:19-64
+30        <activity
+30-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:15:3-80
+31            android:name="br.livro.android.cap7.view.ExemploImagem"
+31-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:15:13-47
+32            android:label="ExemploImagem" />
+32-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:15:48-77
+33        <activity android:name="br.livro.android.cap7.view.ExemploImageButton" />
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:16:3-55
+33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:16:13-52
+34        <activity android:name="br.livro.android.cap7.view.ExemploToggleButton" />
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:17:3-56
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:17:13-53
+35        <activity android:name="br.livro.android.cap7.lista.ExemploExpandableList" />
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:18:3-59
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:18:13-56
+36        <activity android:name="br.livro.android.cap7.view.ExemploProgressDialog" />
+36-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:19:3-58
+36-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:19:13-55
+37        <activity android:name="br.livro.android.cap7.view.ExemploAlertaConfirmacao" />
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:20:3-61
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:20:13-58
+38        <activity android:name="br.livro.android.cap7.view.ExemploBarraProgresso" />
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:21:3-58
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:21:13-55
+39        <activity android:name="br.livro.android.cap7.view.ExemploToast" />
+39-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:22:3-49
+39-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:22:13-46
+40        <activity android:name="br.livro.android.cap7.view.ExemploCheckRadio" />
+40-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:23:3-54
+40-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:23:13-51
+41        <activity android:name="br.livro.android.cap7.view.ExemploAutoCompleteTextView" />
+41-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:24:3-64
+41-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:24:13-61
+42        <activity android:name="br.livro.android.cap7.view.ExemploSpinner" />
+42-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:25:3-51
+42-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:25:13-48
+43        <activity android:name="br.livro.android.cap7.view.ExemploMenu" />
+43-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:26:3-48
+43-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:26:13-45
+44        <activity android:name="br.livro.android.cap7.view.ExemploSubMenu" />
+44-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:27:3-51
+44-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:27:13-48
+45        <activity android:name="br.livro.android.cap7.view.ExemploListView" />
+45-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:28:3-52
+45-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\LivroAndroidCap07-View\app\src\main\AndroidManifest.xml:28:13-49
+46    </application>
+47
+48</manifest>

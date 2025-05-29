@@ -3,14 +3,16 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 17
     buildToolsVersion '25.0.0'
+    namespace "br.livro.android.cap6"
+
     defaultConfig {
         applicationId "br.livro.android.cap6"
         minSdkVersion 2
         targetSdkVersion 2
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
-        }
+//        compileOptions {
+//            sourceCompatibility JavaVersion.VERSION_1_5
+//            targetCompatibility JavaVersion.VERSION_1_5
+//        }
         versionName '1.1'
     }
     buildTypes {
@@ -24,5 +26,5 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+    implementation 'com.android.support:support-v4:18.0.0'
 }

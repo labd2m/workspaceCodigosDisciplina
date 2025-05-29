@@ -6,6 +6,7 @@ dimen padding_small
 drawable ic_action_search
 drawable ic_launcher
 id button1
+id button2
 id menu_settings
 layout view_tela1
 menu view_tela1

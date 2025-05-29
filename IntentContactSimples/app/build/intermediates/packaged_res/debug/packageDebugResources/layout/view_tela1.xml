@@ -13,4 +13,14 @@
         android:onClick="Navegar"
         android:text="Ver Contato" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:onClick="Navegar2"
+        android:text="Ver Contato" />
+
 </RelativeLayout>
