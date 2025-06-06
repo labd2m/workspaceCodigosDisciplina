@@ -12,10 +12,10 @@
 		$pr = new passwordRecoveryPasswordReset();
 		
 		//OK----200
-		$pr->success = true;
+		/*$pr->success = true;
 		header("Content-Type: application/json; charset=utf-8");
 		http_response_code(200);
-		echo json_encode($pr);
+		echo json_encode($pr);*/
 		
 		//Recovery autorization em branco----400
 		/*$pr->recovery_authorization = array("Este campo não pode ser em branco.");
@@ -45,11 +45,11 @@
 		
 		
 		//Código de recuperação expirado----400
-		/*$pr->validation_type = "authentication_method_recovery_code_has_expired";
+		$pr->validation_type = "authentication_method_recovery_code_has_expired";
 		$pr->validation_message = "Código para recuperação de acesso expirado.";
 		header("Content-Type: application/json; charset=utf-8");
 		http_response_code(400);
-		echo json_encode($pr);*/
+		echo json_encode($pr);
 		
 	}
 	else{

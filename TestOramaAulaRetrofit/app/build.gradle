@@ -3,6 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
+    namespace "com.example.lucas.testorama"
+
     defaultConfig {
         applicationId "com.example.lucas.testorama"
         minSdkVersion 17
@@ -20,19 +22,25 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:25.2.0'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    testCompile 'junit:junit:4.12'
-    compile 'com.squareup.retrofit2:retrofit:2.1.0'
-    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'com.android.support:appcompat-v7:25.2.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+
+    implementation 'com.squareup.retrofit2:retrofit:2.1.0'
+    //implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    // Interceptor de logging da OkHttp
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.12.0'
 
     //RxAndroid
-    compile 'io.reactivex:rxandroid:1.2.1'
-    compile 'io.reactivex:rxjava:1.1.6'
-    compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+    implementation 'io.reactivex:rxandroid:1.2.1'
+    implementation 'io.reactivex:rxjava:1.1.6'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
 
 }

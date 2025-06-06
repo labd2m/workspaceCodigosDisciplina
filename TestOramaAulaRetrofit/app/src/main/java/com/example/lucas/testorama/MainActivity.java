@@ -7,7 +7,9 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.example.lucas.testorama.model.address;
 import com.example.lucas.testorama.model.passwordRecovery;
+import com.example.lucas.testorama.model.person;
 import com.example.lucas.testorama.model.user;
 import com.example.lucas.testorama.network.ApiClient;
 import com.example.lucas.testorama.network.OramaEndpointsAPI;
@@ -46,7 +48,29 @@ public class MainActivity extends Activity {
         getPasswordRecovery();
     }
 
+    public void jsonComplexoClick(View view) {
+        //faz chamada retrofit
+        getJsonComplexoTeste();
+    }
+
     //---MÉTODOS AUXILIARES PARA APRESENTAR RESPOSTAS DO SERVIDOR
+
+    private String DadosPessoa(person pessoa) {
+        String txt = "";
+
+        txt += "name: " + pessoa.getName() + "\n";
+        txt += "email: " + pessoa.getEmail() + "\n";
+        txt += "addresses: \n";
+
+        for (address ad : pessoa.getAddresses()){
+            txt += ad.getRua() + " " + ad.getNumero() + " " + ad.getBairro() + " " + ad.getCidade() + " " + ad.getCep() + "\n";
+        }
+
+        txt += "\ntelefone: " + pessoa.getTelefone();
+
+        label.setText(txt);
+        return txt;
+    }
     public String DadosUsuario(user u){
         String txt = "";
 
@@ -163,6 +187,42 @@ public class MainActivity extends Activity {
             }
         });
     }
+
+    public void getJsonComplexoTeste(){
+        OramaEndpointsAPI apiService = ApiClient.getClient().
+                create(OramaEndpointsAPI.class);
+
+        Call<person> personJsonComplexo = apiService.getPerson();
+        personJsonComplexo.enqueue(new Callback<person>() {
+            @Override
+            public void onResponse(Call<person> call, Response<person> response) {
+
+                if (response.isSuccessful()) {
+
+                    person pessoa = response.body();
+                    Log.d(TAG, "Sucesso 200: " + DadosPessoa(pessoa) + "\nCódigo: " + response.code() );
+
+                } else {
+
+                    try {
+                        JSONObject jObjError = new JSONObject(response.errorBody().string());
+                        String error =  jObjError.getString("name");
+
+                        Log.d(TAG, "Erro 400: " + error);
+                    } catch (Exception e) {
+                        Log.d(TAG, "Erro 400: " + e.getMessage());
+                    }
+                }
+            }
+
+            @Override
+            public void onFailure(Call<person> call, Throwable t) {
+                Log.d(TAG, "Login fail 2");
+                Log.e(TAG, t.toString());
+            }
+        });
+    }
+
 
 
 }

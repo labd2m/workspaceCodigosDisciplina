@@ -4,6 +4,7 @@ import com.example.lucas.testorama.model.passwordRecovery;
 import com.example.lucas.testorama.model.passwordRecoveryAuthorization;
 import com.example.lucas.testorama.model.passwordRecoveryNotification;
 import com.example.lucas.testorama.model.passwordRecoveryPasswordReset;
+import com.example.lucas.testorama.model.person;
 import com.example.lucas.testorama.model.user;
 
 
@@ -27,6 +28,9 @@ public interface OramaEndpointsAPI {
 
     @GET("user-profile/partial-contact-information")
     Call<user> getUserProfileParametro( @Query("username") String username);
+
+    @GET("endpoint-teste?id_person=123")
+    Call<person> getPerson();
 
     @FormUrlEncoded
     @POST("authentication/password-recovery/")

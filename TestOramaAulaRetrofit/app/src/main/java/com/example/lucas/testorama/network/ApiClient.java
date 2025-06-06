@@ -2,6 +2,8 @@ package com.example.lucas.testorama.network;
 
 //import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
+import okhttp3.OkHttpClient;
+import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -26,10 +28,30 @@ public class ApiClient {
         return retrofit;
     }
 
+    public static OkHttpClient getJsonApiInterceptor(HttpLoggingInterceptor.Logger formatter){
+        HttpLoggingInterceptor logging;
+
+        if(formatter != null) {
+            logging = new HttpLoggingInterceptor(formatter);
+        }else {
+            logging = new HttpLoggingInterceptor();
+        }
+
+        logging.setLevel(HttpLoggingInterceptor.Level.BODY);
+
+        OkHttpClient client = new OkHttpClient.Builder()
+                .addInterceptor(logging)
+                .build();
+
+        return client;
+    }
+
     public static Retrofit getClient() {
         if (retrofit==null) {
             retrofit = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
+                    .client(getJsonApiInterceptor(new PrettyJsonLogger())) // interceptar JSON no LogCat
+                    //.client(getJsonApiInterceptor(null)) // interceptar JSON no LogCat - sem formatação
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
         }

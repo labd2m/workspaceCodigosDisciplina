@@ -13,221 +13,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c63166-e973-4a31-95ce-9775c9a029de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/modules/app/IntentBrowser.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/modules/app/IntentBrowser.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/modules/app/IntentBrowser.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/modules/app/IntentBrowser.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/modules/app/IntentCamera.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/modules/app/IntentCamera.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/modules/app/IntentCamera.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentCamera/.idea/modules/app/IntentCamera.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules/app/IntentContactSimples.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules/app/IntentContactSimples.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules/app/IntentContactSimples.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules/app/IntentContactSimples.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules/app/IntentFilterP1.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules/app/IntentFilterP1.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules/app/IntentFilterP1.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules/app/IntentFilterP1.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentfilterp2/IT2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/intentfilterp2/IT3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/modules/app/IntentPhone.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/modules/app/IntentPhone.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/modules/app/IntentPhone.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentPhone/.idea/modules/app/IntentPhone.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules/app/IntentRetornaValorActivity.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules/app/IntentRetornaValorActivity.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules/app/IntentRetornaValorActivity.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules/app/IntentRetornaValorActivity.app.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentSMS/.idea/modules/app/IntentSMS.app.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentSMS/.idea/modules/app/IntentSMS.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentSMS/.idea/modules/app/IntentSMS.app.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntentSMS/.idea/modules/app/IntentSMS.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploListaSensores/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploListaSensores/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploMultiSensores/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploMultiSensores/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploMultiSensores/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploMultiSensores/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometro/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometro/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorAcelerometroObjeto/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorGiroscopio/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorGiroscopio/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorGiroscopioTotalGraus/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorGiroscopioTotalGraus/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorLuminosidade/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExemploSensorProximidade/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExemploSensorProximidade/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/IntentBrowser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/IntentBrowser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentBrowser/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentBrowser/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentCamera/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentCamera/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentCamera/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentCamera/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntentCamera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/IntentCamera.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/IntentCamera.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/src/main/java/com/example/camerasimples/ContaChamada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/src/main/java/com/example/camerasimples/CameraHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/app/src/main/res/layout/activity_conta_chamada.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/app/src/main/res/layout/activity_conta_chamada.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentCamera/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentCamera/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/IntentContactSimples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/IntentContactSimples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/java/com/example/contactsimples/ContatoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/app/src/main/java/com/example/contactsimples/ContatoSimples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentContactSimples/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentContactSimples/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/deploymentTargetSelector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntentFilterP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/IntentFilterP1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/IntentFilterP1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentFilterP1/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentFilterP1/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntentFilterP2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IntentFilterP2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/IntentPhone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/IntentPhone.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/app/src/main/java/com/example/intentphone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/app/src/main/java/com/example/intentphone/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentPhone/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentPhone/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/IntentRetornaValorActivity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/IntentRetornaValorActivity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/src/main/java/com/example/retornavaloractivity/Tela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/app/src/main/java/com/example/retornavaloractivity/Tela2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentRetornaValorActivity/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentRetornaValorActivity/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/IntentSMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/IntentSMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntentSMS/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentSMS/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,9 +75,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1gKivvTjr5qCGYN7ehXj4gD50HO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -271,23 +86,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "Gradle.Upgrade Gradle wrapper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/HomeAlternativaScrollViewGUI",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Upgrade Gradle wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/AndroidStudioProjects/workspaceCodigosDisciplina/HomeAlternativaScrollViewGUI&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />

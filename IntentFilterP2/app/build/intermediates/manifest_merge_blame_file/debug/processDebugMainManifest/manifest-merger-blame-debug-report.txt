@@ -54,15 +54,20 @@
 32-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:28:19-38
 33            android:label="@string/title_activity_it3" >
 33-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:28:39-81
-34
-35            <!--
-36            <intent-filter>
-37                <action android:name="ACAO_DESEJADA" />
-38				<category android:name="android.intent.category.DEFAULT" />
-39                <category android:name="CATEGORIA_CUSTOMIZADA" />
-40            </intent-filter>
-41            -->
-42        </activity>
-43    </application>
-44
-45</manifest>
+34            <intent-filter>
+34-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:29:13-33:29
+35                <action android:name="ACAO_DESEJADA" />
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:23:17-56
+35-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:23:25-53
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:24:17-76
+37-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:24:27-73
+38                <category android:name="CATEGORIA_CUSTOMIZADA" />
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:32:17-66
+38-->C:\Users\lucas\AndroidStudioProjects\workspaceCodigosDisciplina\IntentFilterP2\app\src\main\AndroidManifest.xml:32:27-63
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>
